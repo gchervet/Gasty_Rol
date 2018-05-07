@@ -4,7 +4,6 @@
 
 
 -14 de Diciembre 2013-
-21:38 HS
 
 **Despertás a las orillas de una playa, tirado en la arena. El sol está en lo alto, por lo que debe ser pasando el medio día.
 Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.**
@@ -16,31 +15,25 @@ Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.**
 - No hacer un carajo, toda la paja.
 - ♥ 100%
 
-```
 Toda la paja
 jajajaj
-```
 
-22:04 HS
 
-No hacés nada porque tenés paja. Te quedás ahí sin hacer literalmente un carajo.
-Empezás a sentir el sol pegandote en la cara.
-No lograste hacer un carajo.
+**No hacés nada porque tenés paja. Te quedás ahí sin hacer literalmente un carajo.**
+**Empezás a sentir el sol pegandote en la cara.**
+**No lograste hacer un carajo.**
 
-¿Qué vas a hacer ahora?
+**¿Qué vas a hacer ahora?**
 
-```
 Me levanto y empiezo a caminar hacia la flora
-```
 
-23:22 HS
 
-Te levantás y caminas hacia donde se llegan a ver arbustos y más allá vegetación mas alta.
+**Te levantás y caminas hacia donde se llegan a ver arbustos y más allá vegetación mas alta.
 Sentís la brisa caliente e ntu cara. El sol y el calor te están pegando feo.
 De repente sentís un dolor en el pié descalzo y al revisarlo te das cuenta que tenés una piedra filosa levemente clavada.
 La sacás y la guardás de tu bolsillo.
 Ahora estás en una zona intermedia, hay arbustos, muchas piedras y mas allá ces un bosque.
-¿Qué vas a hacer ahora?
+¿Qué vas a hacer ahora?**
 <3 99%
 
 -15 de Diciembre 2013-
