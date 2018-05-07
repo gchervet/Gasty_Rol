@@ -34,34 +34,27 @@ De repente sentís un dolor en el pié descalzo y al revisarlo te das cuenta que
 La sacás y la guardás de tu bolsillo.
 Ahora estás en una zona intermedia, hay arbustos, muchas piedras y mas allá ces un bosque.
 ¿Qué vas a hacer ahora?**
-<3 99%
 
--15 de Diciembre 2013-
+- ♥ 99%
 
-```
+
 Mmmm decido buscar algo para comer.
-```
 
-13:35 HS
 
-Comenzás a buscar algo para comer. Revisas esos arbustos y no parecen tener nada comestible. Por la zona en la que estás no encontrás nada. Podrías volver a la playa o acercarte a lo que parece un bosque.
+**Comenzás a buscar algo para comer. Revisas esos arbustos y no parecen tener nada comestible. Por la zona en la que estás no encontrás nada. Podrías volver a la playa o acercarte a lo que parece un bosque.
 El sol sigue arriba, no parece haberse movido un centímetro, y tu pie descalzo duele aún por la piedra que pisaste.
-¿Qué hacer?
+¿Qué hacer?**
 
-```
 Mmmm
 Decido volver a la playa a mojarme el pie
-```
 
-14:09 HS
-
-Vovés a la playa, te acercás al agua y mojás tu pie en el agua salada del mar. Arde un poco pero limpiás la arena de la herida.
+**Vovés a la playa, te acercás al agua y mojás tu pie en el agua salada del mar. Arde un poco pero limpiás la arena de la herida.
 Ves algo clavado en la arena a una distancia de mas o menos tres metros. Te resulta familiar.
-¿Qué vas a hacer?
+¿Qué vas a hacer?**
 
-```
+
 Me acerco a ver qué es
-```
+
 
 14:14 HS
 
