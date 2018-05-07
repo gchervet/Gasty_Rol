@@ -45,7 +45,9 @@ Ahora estás en una zona intermedia, hay arbustos, muchas piedras y mas allá ce
 
 -15 de Diciembre 2013-
 
-  => Mmmm decido buscar algo para comer.
+```
+Mmmm decido buscar algo para comer.
+```
 
 13:35 HS
 
@@ -53,8 +55,10 @@ Comenzás a buscar algo para comer. Revisas esos arbustos y no parecen tener nad
 El sol sigue arriba, no parece haberse movido un centímetro, y tu pie descalzo duele aún por la piedra que pisaste.
 ¿Qué hacer?
 
-  => Mmmm
-  => Decido volver a la playa a mojarme el pie
+```
+Mmmm
+Decido volver a la playa a mojarme el pie
+```
 
 14:09 HS
 
@@ -62,22 +66,28 @@ Vovés a la playa, te acercás al agua y mojás tu pie en el agua salada del mar
 Ves algo clavado en la arena a una distancia de mas o menos tres metros. Te resulta familiar.
 ¿Qué vas a hacer?
 
-  => Me acerco a ver qué es
+```
+Me acerco a ver qué es
+```
 
 14:14 HS
 
 Te acercás a lo que sea que esta clavado en la arena. Al llegar te das cuenta que es ¡Tu otra zapatilla! La desenterrás y te das cuenta que está llena de arena.
 ¿Qué hacer ahora?
 
-  => Lo tomo! Intento limpiarlo para ver que no haya nada adentro que me lastime
+```
+Lo tomo! Intento limpiarlo para ver que no haya nada adentro que me lastime
+```
 
 14:38 HS
 
 La limpiás, efectivamente tenía una piedrita dentro y una ostra. Tiene un poquito de arena pero casi nada ya.
 ¿Qué vas a hacer ahora?
 
-  => Me guardo la ostra, me gusta
-  => Veo el bosque a lo lejos, y encaro hacia el, ya con mi zapatilla
+```
+Me guardo la ostra, me gusta
+Veo el bosque a lo lejos, y encaro hacia el, ya con mi zapatilla
+```
 
 16:05 HS
 
@@ -3587,7 +3597,8 @@ El doctor separó sus manos y llevo una a una de las orejitas del chico, tirando
 * Fo' shizzle ma' nizzle
 * AMC
 
-=> Agarro bien fuerte a mi nueva mejor y pequeña amiga. No quiero que nada le pase. 
+```
+Agarro bien fuerte a mi nueva mejor y pequeña amiga. No quiero que nada le pase. 
 
 Me acerco un metro al doctor y le digo de la forma mas sutil posible las siguientes palabras: "Doc! Nos han dicho que usted puede ayudarnos, y creo que han tenido razon..."
 
@@ -3596,6 +3607,7 @@ Me acerco un metro al doctor y le digo de la forma mas sutil posible las siguien
 Mientras digo mis oraciones, intento no pestanear. Siento que el doctor huele mi miedo. Ni siquiera se por que exagero tanto el sentimiento. 
 
 Luego de decir todo, miro finamente al doctor.
+```
 
 - 21 de Febrero 2016 -
 
@@ -3614,7 +3626,8 @@ El grupo también parecía realmente inquieto, aunque por supuesto vos estabas c
 * Aguantartela como un campeón y con una lagrimita de miedo en tu ojo y aguantandote las granas de hacerte pipí encima, le das a la niña
 * AMC
 
-=> El doc tiene razón, no sé si podré dejar a la nena por unos días, pero debido a la situación no nos queda otra.
+```
+El doc tiene razón, no sé si podré dejar a la nena por unos días, pero debido a la situación no nos queda otra.
 
 Pienso un segundo que la niña podría quedarae si su diagnóstico lo amerita... 
 
@@ -3623,6 +3636,7 @@ Pienso un segundo que la niña podría quedarae si su diagnóstico lo amerita...
 Tanteo las posibilidades de escape que hay en la sala. Puertas, espacios, algún lugar.
 
 Le entrego a la niña
+```
 
 - 27 de Marzo 2016 -(NO SIRVE. LO DEJO ACA PORQUE SOY JODIDO)
 
@@ -3673,10 +3687,12 @@ Saca lo que parece un cable con una forma extraña y circular y apartando un zó
 * Todo lo anterior
 * AMC
 
-=> La situacion es alarmante. El doctor mantiene a la.niña aterrorizada y por lo que veo, nadie en el grupo es capaz de realizar ni una minima accion inteligente y locuaz. Siendo el unico cuerdo, comienzo a interpretar una increible pieza de coreografia de Para Para dancing; intento rebajar la tension que se fabrico entre mis compañeros, sobre todo en Marce, a quien miro de forma instintiva y compañera.
+```
+La situacion es alarmante. El doctor mantiene a la.niña aterrorizada y por lo que veo, nadie en el grupo es capaz de realizar ni una minima accion inteligente y locuaz. Siendo el unico cuerdo, comienzo a interpretar una increible pieza de coreografia de Para Para dancing; intento rebajar la tension que se fabrico entre mis compañeros, sobre todo en Marce, a quien miro de forma instintiva y compañera.
 
 Luego me acerco al doctor y pronuncio en debil tono las siguientes palabras:
 "doc, que encontro? Usted parece cuerdo y sacado de una fantasia, me cae muy bien"
+```
 
 - 13 de Agosto 2016 -
 
@@ -3703,13 +3719,15 @@ Finalmente, luego de unos aproximados 3 minutos de baile, te limpiás el poco su
 * Subirte a la escalera para sentirte mas alto. Mas tarde en el día llorar en un rincón para no mostrar tus inseguridades en frente de los demás
 * AMC
 
-=> "B-Baka! Iamete ro! Gambarete!!!" Grito, en un amplio afán de ser amigable con quienes me rodean.
+```
+"B-Baka! Iamete ro! Gambarete!!!" Grito, en un amplio afán de ser amigable con quienes me rodean.
 Es hora de irse, algo me lo dice; puedo sentir el aura ansiosa de Joey fundiéndose con la mía. Me acerco a la chiquilla y le recito la siguiente frase: "Vamos a venir en una semanita, pasala bien y disfrutá del doc que parece buen pibe!"
 Luego me acerco a sus oídos y le digo en complicidad, "te doy esto por si te quiere hacer algo, solamente tenés que pedirle ayuda y yo podré escucharlo". Con mucha esperanza de un nuevo mundo, le entrego a mi mejor amigo, aquel que siempre acompañó mis andadas, le entrego mi otra alma, le entrego a Joey.
 
 "Joey, cuida de ella, y si ves algo raro, me llamas. Nos vemos en una semana". Dicho esto beso a mi querido amigo manzana para demostrarle mi amistad y luego abrazo a Mare. "Hasta luego!"
 
 Procedo a irme de la sala con mis amigos, llamo a Dante para que me siga. Quiero escuchar su opinión.
+```
 
 25 de Agosto 2016
 
@@ -3738,9 +3756,11 @@ Escuchaste a las chicas despedirse y las viste salir, notando los ojos húmedos 
 * Todo lo anterior... A LA VEZ
 * AMC
 
-=> Cómo no! Me siento algo abatido por separarme de mi colega, así que abrazo a Dante en un afán de necesidad. Un abrazo fuerte e incómodo. Luego procedo a salir. 
+```
+Cómo no! Me siento algo abatido por separarme de mi colega, así que abrazo a Dante en un afán de necesidad. Un abrazo fuerte e incómodo. Luego procedo a salir. 
 
 Me acerco a Marce y le pregunto "ahora qué?" Pprque realmente ya ni recuerdo qué es de mi aventura central. :(
+```
 
 - 5 de Octubre 2016 -
 
@@ -3766,7 +3786,8 @@ Notás que ya están por terminar las escaleras o por lo menos eso es lo que esp
 * Darle un puñetazo en la nariz a Annete por mirarte a los ojos. Es peligroso mirar a los ojos a un Gonza...
 *¨AMC
 
-=> Le pregunto a Joey si... Espera, cierto que ya no está :( posiblemente aún esté muy cerca pero ya lo extraño.
+```
+Le pregunto a Joey si... Espera, cierto que ya no está :( posiblemente aún esté muy cerca pero ya lo extraño.
 
 Definitivamente no quiero desviarme de la misión principal, atrapar al encapuchado.
 
@@ -3775,6 +3796,7 @@ Me acero a Dante y le propongo seguir con la búsqueda. Miranda no llama complet
 Imagino que no va a ser muy del agrado de mis amigos policías o de Annete, pero quiero volver al rumbo original y les comento mi idea (que no sé si ya saben porque no me acuerdo):
 
 "Dante y yo debemos continuar nuestro viaje. Estamos en la búsqueda de alguien que puede tener conexión con Miranda, pero no lo sabemos. Es alguien peligroso. Ustedes serían de gran ayuda en dicha búsqueda. Vendrán con nosotros?"
+```
 
 - 16 de Mayo 2017 -
 
