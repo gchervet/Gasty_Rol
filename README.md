@@ -3715,3 +3715,12 @@ Por supuesto, luego de decir aquello les preguntás si desean acompañarte en es
   "¡Apenas sabés donde carajo estás parado, no me vengas con pelotudeces que no podés siquiera fundamentar!" - Continúa iracundo, la situación volviéndose un tanto peligrosa mas que nada porque no solo tenés a Marcelo sosteniendote medio metro del suelo, violento y probablemente si no decís lo adecuado, a punto de romperte la nariz, sinó también que si pasas esto, probablemente caigas por las escaleras kilométricas.
 
 ¡No es tiempo de dudar! ¿Qué hacer/decir ahora?
+
+>Lo 100to, Marce, me has cansado y ya no seré buen rollo contigo.
+
+"Así es, imbecil" (WOAH) "No sé qué tan peligrosa sea esa Miranda, y me importa una mierda. Hay una organización de asesinos detrás de una masacre horrible, y vamos a perseguirla!"
+
+"Vos y Sarah hagan lo que quieran, suéltame así puedo seguir mi camino con Dante."
+
+Intento generar respecto con estas palabras, realmente no me interesa si Marce y Sarah siguen con nosotros porque necesitamos encontrar a nuestro petiso enemigo.
+>
