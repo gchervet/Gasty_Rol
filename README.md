@@ -3698,7 +3698,7 @@ Luego me acerco al doctor y pronuncio en debil tono las siguientes palabras:
 
 01:25 HS
 
-Al observar la situación notás que están en un gran aprieto. Mientras aquel monstruosa criatura en forma de hombre mantiene a la niña con terrible miedo, tu grupo no hace nada. Marce recostado contra la pared, Sarah observando los cuadros, Annete y Ursu observando atentamente al doctor como estabas hace unos momentos. Es hora de intervenir, de hacer la diferencia. ¡Es hora de Para Para Dancing! Naturalmente esto lo gritás y comenzás a hacer una increible coreografía un buen rato para bajar la tensión. Tu alegría es contagiosa, dado que Sarah se te suma intentando imitar tus movimientos lo mejor que puede.
+**Al observar la situación notás que están en un gran aprieto. Mientras aquel monstruosa criatura en forma de hombre mantiene a la niña con terrible miedo, tu grupo no hace nada. Marce recostado contra la pared, Sarah observando los cuadros, Annete y Ursu observando atentamente al doctor como estabas hace unos momentos. Es hora de intervenir, de hacer la diferencia. ¡Es hora de Para Para Dancing! Naturalmente esto lo gritás y comenzás a hacer una increible coreografía un buen rato para bajar la tensión. Tu alegría es contagiosa, dado que Sarah se te suma intentando imitar tus movimientos lo mejor que puede.
 
 Observás al pelinegro con una sonrisa de camaradería y buena onda. su respuesta naturalmente es un tick nervioso en el parpado inferior derecho, cerrar bien los puños y raspar sus dientes entre si moviendo la mandibula. Annete y Ursula ahora te miran. La primera sin querer moviendo levemente la cabeza al ritmo del baile tuyo y de la guardia y la última completamente perdida y sin saber como reaccionar. Literalmente boquiabierta por tu repentina descarga artística.
 
@@ -3717,9 +3717,8 @@ Finalmente, luego de unos aproximados 3 minutos de baile, te limpiás el poco su
 * Trompear en la jeta al chico gato gritandole "Volve al anime de donde viniste!!!"
 * Llamar al chico gato "Razher-kun" y decirle "b-baka", desviando la mirada en un intento desesperado por su atención
 * Subirte a la escalera para sentirte mas alto. Mas tarde en el día llorar en un rincón para no mostrar tus inseguridades en frente de los demás
-* AMC
+* AMC**
 
-```
 "B-Baka! Iamete ro! Gambarete!!!" Grito, en un amplio afán de ser amigable con quienes me rodean.
 Es hora de irse, algo me lo dice; puedo sentir el aura ansiosa de Joey fundiéndose con la mía. Me acerco a la chiquilla y le recito la siguiente frase: "Vamos a venir en una semanita, pasala bien y disfrutá del doc que parece buen pibe!"
 Luego me acerco a sus oídos y le digo en complicidad, "te doy esto por si te quiere hacer algo, solamente tenés que pedirle ayuda y yo podré escucharlo". Con mucha esperanza de un nuevo mundo, le entrego a mi mejor amigo, aquel que siempre acompañó mis andadas, le entrego mi otra alma, le entrego a Joey.
@@ -3727,13 +3726,12 @@ Luego me acerco a sus oídos y le digo en complicidad, "te doy esto por si te qu
 "Joey, cuida de ella, y si ves algo raro, me llamas. Nos vemos en una semana". Dicho esto beso a mi querido amigo manzana para demostrarle mi amistad y luego abrazo a Mare. "Hasta luego!"
 
 Procedo a irme de la sala con mis amigos, llamo a Dante para que me siga. Quiero escuchar su opinión.
-```
 
 25 de Agosto 2016
 
 22:42 HS
 
-Levantando el puño al cielo de forma triunfal gritás mirando al techo palabras en un idioma que no solo no comprendés, sinó que no estabas seguro hasta unos segundos que existía y te quedás así, ojos cerrados y una leve y victoriosa sonrisa en tu rostro, disfrutando del nuevo ambiente radiante y dichoso pero nuevamente escuchás aquel llamado. Hay una aventura allí y luego de observar detenidamente a cada uno en la habitación, tomandote tu tiempo y sin decir ni una palabra, haciendo que todos te miren extrañados, te das cuenta que el único aventurero en el cuarto sos vos y bueno, naturalmente Joey, el cual te sonríe y luego asiente. Los dos saben que es lo que va a pasar, dado que era inevitable y lo veías venir.
+**Levantando el puño al cielo de forma triunfal gritás mirando al techo palabras en un idioma que no solo no comprendés, sinó que no estabas seguro hasta unos segundos que existía y te quedás así, ojos cerrados y una leve y victoriosa sonrisa en tu rostro, disfrutando del nuevo ambiente radiante y dichoso pero nuevamente escuchás aquel llamado. Hay una aventura allí y luego de observar detenidamente a cada uno en la habitación, tomandote tu tiempo y sin decir ni una palabra, haciendo que todos te miren extrañados, te das cuenta que el único aventurero en el cuarto sos vos y bueno, naturalmente Joey, el cual te sonríe y luego asiente. Los dos saben que es lo que va a pasar, dado que era inevitable y lo veías venir.
 
 Una lágrima invisible aparece en tu ojo derecho, como si fuese una intrusa, una extranjera temporal pasando por el seco y tranquilo paisaje de tu rostro. Te acercás a la niña y le prometés que vas a volver en una semana, como acordaste con el doctor y que la pase bien, acercandote después a su oido y diciendole en voz baja que por cualquier eventualidad funesta relacionada con el doctor, no dude en pedirle ayuda que vas a poder oirla. Dichas estas palabras, le otorgás en sus pequeñas manos a tu otra alma, pidiendole a éste que la cuida y como le dijiste a la niña, que él también avise si algo raro pasaba.
 
@@ -3754,19 +3752,17 @@ Escuchaste a las chicas despedirse y las viste salir, notando los ojos húmedos 
 * Golpear en la nariz a Marce
 * Golpearte a vos mismo en la nariz
 * Todo lo anterior... A LA VEZ
-* AMC
+* AMC**
 
-```
 Cómo no! Me siento algo abatido por separarme de mi colega, así que abrazo a Dante en un afán de necesidad. Un abrazo fuerte e incómodo. Luego procedo a salir. 
 
 Me acerco a Marce y le pregunto "ahora qué?" Pprque realmente ya ni recuerdo qué es de mi aventura central. :(
-```
 
 - 5 de Octubre 2016 -
 
 00:23 HS
 
-Respondés a tu querido amigo Marce afirmativamente, aunque te sentís relamente triste por la separación de tu gran compañero del alma. Buscando consuelo abrazás a Ursu con gran fuerza y amistad, un largo rato. Ésta luego de unos segundos carraspéa y te separa de ella.
+**Respondés a tu querido amigo Marce afirmativamente, aunque te sentís relamente triste por la separación de tu gran compañero del alma. Buscando consuelo abrazás a Ursu con gran fuerza y amistad, un largo rato. Ésta luego de unos segundos carraspéa y te separa de ella.
 
 Luego de sentirte mas renovado, aunque aun lleno de dudas, te acercás al pelinegro mientras aun bajan las largas escaleras y le volcás tu duda. Que deberían hacer ahora, dado que el tiempo borra las huellas en la arena de la playa, como el agua de mar hace que te ardan los ojos cuando los abrís para intentar ver através de esta. No podés esperar a que la evolución se encargue de tu dedo meñique y ese inconveniente con el agua salada en los ojos.
 
@@ -3784,9 +3780,8 @@ Notás que ya están por terminar las escaleras o por lo menos eso es lo que esp
 * Tirarte por lo que queda de las escaleras.
 * Darle un cabezaso violento a Marce y gritarle en la cara "COME AT ME BRAH!"
 * Darle un puñetazo en la nariz a Annete por mirarte a los ojos. Es peligroso mirar a los ojos a un Gonza...
-*¨AMC
+*¨AMC**
 
-```
 Le pregunto a Joey si... Espera, cierto que ya no está :( posiblemente aún esté muy cerca pero ya lo extraño.
 
 Definitivamente no quiero desviarme de la misión principal, atrapar al encapuchado.
@@ -3796,13 +3791,13 @@ Me acero a Dante y le propongo seguir con la búsqueda. Miranda no llama complet
 Imagino que no va a ser muy del agrado de mis amigos policías o de Annete, pero quiero volver al rumbo original y les comento mi idea (que no sé si ya saben porque no me acuerdo):
 
 "Dante y yo debemos continuar nuestro viaje. Estamos en la búsqueda de alguien que puede tener conexión con Miranda, pero no lo sabemos. Es alguien peligroso. Ustedes serían de gran ayuda en dicha búsqueda. Vendrán con nosotros?"
-```
+
 
 - 16 de Mayo 2017 -
 
 10:38 HS
 
-Tu impulso inicial, naturalmente, fue buscar consejo con tu queridísimo amigo, pero inmediatamente recordaste la triste partida. Notás que sin importar el tiempo o la distancia, lo extrañás bastante.
+**Tu impulso inicial, naturalmente, fue buscar consejo con tu queridísimo amigo, pero inmediatamente recordaste la triste partida. Notás que sin importar el tiempo o la distancia, lo extrañás bastante.
 
 Tristemente, pese a que la causa de Marce y Sarah sea lo suficientemente justa como para encender la llama de la igualdad y la justicia de tu impolito y recto corazón, recordás que tu misión principal no puede esperar.
 
@@ -3815,4 +3810,4 @@ Por supuesto, luego de decir aquello les preguntás si desean acompañarte en es
   - ¡¿Qué carajo vas a saber vos sobre peligro?! - Te grita en la cara, tomándote desprevenido a vos, a Sarah y a la encapuchada, la última acercándose para interceder pero la guardia deteniéndola suavemente y negándole con la cabeza.
   - ¡Apenas sabés donde carajo estás parado, no me vengas con pelotudeces que no podés siquiera fundamentar! - Continúa iracundo, la situación volviéndose un tanto peligrosa mas que nada porque no solo tenés a Marcelo sosteniendote medio metro del suelo, violento y probablemente si no decís lo adecuado, a punto de romperte la nariz, sinó también que si pasas esto, probablemente caigas por las escaleras kilométricas.
 
-¡No es tiempo de dudar! ¿Qué hacer/decir ahora?
+¡No es tiempo de dudar! ¿Qué hacer/decir ahora?**
