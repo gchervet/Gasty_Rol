@@ -16,10 +16,10 @@ Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.
 * No hacer un carajo, toda la paja.
 <3 100%
 
-´´´
-Toda la paja
-jajajaj
-´´´
+
+  Toda la paja
+  jajajaj
+
 
 22:04 HS
 
