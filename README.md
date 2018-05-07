@@ -2,7 +2,7 @@
 
 **Rol con Gonza**
 
-**
+
 -14 de Diciembre 2013-
 21:38 HS
 
@@ -15,10 +15,11 @@ Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.
 * Sentarte e intentar recordar que mierda hacés ahí.
 * No hacer un carajo, toda la paja.
 <3 100%
-**
 
-  => Toda la paja
-  => jajajaj
+´´´
+Toda la paja
+jajajaj
+´´´
 
 22:04 HS
 
