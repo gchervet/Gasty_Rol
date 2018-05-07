@@ -3699,6 +3699,7 @@ Notás que ya están por terminar las escaleras o por lo menos eso es lo que esp
 
 > "Dante y yo debemos continuar nuestro viaje. Estamos en la búsqueda de alguien que puede tener conexión con Miranda, pero no lo sabemos. Es alguien peligroso. Ustedes serían de gran ayuda en dicha búsqueda. Vendrán con nosotros?"
 
+------------
 
 Tu impulso inicial, naturalmente, fue buscar consejo con tu queridísimo amigo, pero inmediatamente recordaste la triste partida. Notás que sin importar el tiempo o la distancia, lo extrañás bastante.
 
