@@ -15,7 +15,7 @@ Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.**
 - No hacer un carajo, toda la paja.
 - ♥ 100%
 
-Toda la paja
+> Toda la paja
 jajajaj
 
 
@@ -32,20 +32,21 @@ Me levanto y empiezo a caminar hacia la flora
 Sentís la brisa caliente e ntu cara. El sol y el calor te están pegando feo.
 De repente sentís un dolor en el pié descalzo y al revisarlo te das cuenta que tenés una piedra filosa levemente clavada.
 La sacás y la guardás de tu bolsillo.
-Ahora estás en una zona intermedia, hay arbustos, muchas piedras y mas allá ces un bosque.
-¿Qué vas a hacer ahora?**
+Ahora estás en una zona intermedia, hay arbustos, muchas piedras y mas allá ces un bosque.**
+
+**¿Qué vas a hacer ahora?**
 
 - ♥ 99%
 
 
-Mmmm decido buscar algo para comer.
+> Mmmm decido buscar algo para comer.
 
 
 **Comenzás a buscar algo para comer. Revisas esos arbustos y no parecen tener nada comestible. Por la zona en la que estás no encontrás nada. Podrías volver a la playa o acercarte a lo que parece un bosque.
 El sol sigue arriba, no parece haberse movido un centímetro, y tu pie descalzo duele aún por la piedra que pisaste.
 ¿Qué hacer?**
 
-Mmmm
+> Mmmm
 Decido volver a la playa a mojarme el pie
 
 **Vovés a la playa, te acercás al agua y mojás tu pie en el agua salada del mar. Arde un poco pero limpiás la arena de la herida.
@@ -3768,32 +3769,28 @@ Notás que ya están por terminar las escaleras o por lo menos eso es lo que esp
 * Darle un puñetazo en la nariz a Annete por mirarte a los ojos. Es peligroso mirar a los ojos a un Gonza...
 *¨AMC**
 
-Le pregunto a Joey si... Espera, cierto que ya no está :( posiblemente aún esté muy cerca pero ya lo extraño.
+> Le pregunto a Joey si... Espera, cierto que ya no está :( posiblemente aún esté muy cerca pero ya lo extraño.
 
-Definitivamente no quiero desviarme de la misión principal, atrapar al encapuchado.
+> Definitivamente no quiero desviarme de la misión principal, atrapar al encapuchado.
 
-Me acero a Dante y le propongo seguir con la búsqueda. Miranda no llama completamente mi atención y puede esperar.
+> Me acero a Dante y le propongo seguir con la búsqueda. Miranda no llama completamente mi atención y puede esperar.
 
-Imagino que no va a ser muy del agrado de mis amigos policías o de Annete, pero quiero volver al rumbo original y les comento mi idea (que no sé si ya saben porque no me acuerdo):
+> Imagino que no va a ser muy del agrado de mis amigos policías o de Annete, pero quiero volver al rumbo original y les comento mi idea (que no sé si ya saben porque no me acuerdo):
 
-"Dante y yo debemos continuar nuestro viaje. Estamos en la búsqueda de alguien que puede tener conexión con Miranda, pero no lo sabemos. Es alguien peligroso. Ustedes serían de gran ayuda en dicha búsqueda. Vendrán con nosotros?"
+> "Dante y yo debemos continuar nuestro viaje. Estamos en la búsqueda de alguien que puede tener conexión con Miranda, pero no lo sabemos. Es alguien peligroso. Ustedes serían de gran ayuda en dicha búsqueda. Vendrán con nosotros?"
 
 
-- 16 de Mayo 2017 -
+****Tu impulso inicial, naturalmente, fue buscar consejo con tu queridísimo amigo, pero inmediatamente recordaste la triste partida. Notás que sin importar el tiempo o la distancia, lo extrañás bastante.**
 
-10:38 HS
+**Tristemente, pese a que la causa de Marce y Sarah sea lo suficientemente justa como para encender la llama de la igualdad y la justicia de tu impolito y recto corazón, recordás que tu misión principal no puede esperar.**
 
-**Tu impulso inicial, naturalmente, fue buscar consejo con tu queridísimo amigo, pero inmediatamente recordaste la triste partida. Notás que sin importar el tiempo o la distancia, lo extrañás bastante.
+**Aun lamentándote las personas inocentes que sufriran por obra de esta malechora, con una pequeña y pura lágrima bajando por tu mejilla diestra, les comentás sobre el encapuchado misterioso y que puede que sea mas peligroso que aquella a la que llaman Miranda. De esto no estabas completamente seguro, pero es lo primero que te salió.**
 
-Tristemente, pese a que la causa de Marce y Sarah sea lo suficientemente justa como para encender la llama de la igualdad y la justicia de tu impolito y recto corazón, recordás que tu misión principal no puede esperar.
+**Por supuesto, luego de decir aquello les preguntás si desean acompañarte en esta justa y verdadera causa, otra vez ocultando un detalle importante, Ursula desea venganza y extinguir la vida de aquel funesto hombre con sus propias manos.**
 
-Aun lamentándote las personas inocentes que sufriran por obra de esta malechora, con una pequeña y pura lágrima bajando por tu mejilla diestra, les comentás sobre el encapuchado misterioso y que puede que sea mas peligroso que aquella a la que llaman Miranda. De esto no estabas completamente seguro, pero es lo primero que te salió.
+**"¿Mas peligroso que Miranda?" - Pregunta asombrada Sarah y repentinamente, Marce cruza veloz la distancia entre vos y él, como si nunca la hubiese y levantándote de la pechera de tu remera con las dos manos, te choca contra la pared y te mantiene ahí, mirándote a los ojos con furia.**
 
-Por supuesto, luego de decir aquello les preguntás si desean acompañarte en esta justa y verdadera causa, otra vez ocultando un detalle importante, Ursula desea venganza y extinguir la vida de aquel funesto hombre con sus propias manos.
+**"¡¿Qué carajo vas a saber vos sobre peligro?!" - Te grita en la cara, tomándote desprevenido a vos, a Sarah y a la encapuchada, la última acercándose para interceder pero la guardia deteniéndola suavemente y negándole con la cabeza.**
+**"¡Apenas sabés donde carajo estás parado, no me vengas con pelotudeces que no podés siquiera fundamentar!" - Continúa iracundo, la situación volviéndose un tanto peligrosa mas que nada porque no solo tenés a Marcelo sosteniendote medio metro del suelo, violento y probablemente si no decís lo adecuado, a punto de romperte la nariz, sinó también que si pasas esto, probablemente caigas por las escaleras kilométricas.**
 
-  - ¿Mas peligroso que Miranda? - Pregunta asombrada Sarah y repentinamente, Marce cruza veloz la distancia entre vos y él, como si nunca la hubiese y levantándote de la pechera de tu remera con las dos manos, te choca contra la pared y te mantiene ahí, mirándote a los ojos con furia.
-
-  - ¡¿Qué carajo vas a saber vos sobre peligro?! - Te grita en la cara, tomándote desprevenido a vos, a Sarah y a la encapuchada, la última acercándose para interceder pero la guardia deteniéndola suavemente y negándole con la cabeza.
-  - ¡Apenas sabés donde carajo estás parado, no me vengas con pelotudeces que no podés siquiera fundamentar! - Continúa iracundo, la situación volviéndose un tanto peligrosa mas que nada porque no solo tenés a Marcelo sosteniendote medio metro del suelo, violento y probablemente si no decís lo adecuado, a punto de romperte la nariz, sinó también que si pasas esto, probablemente caigas por las escaleras kilométricas.
-
-¡No es tiempo de dudar! ¿Qué hacer/decir ahora?**
+**¡No es tiempo de dudar! ¿Qué hacer/decir ahora?**
