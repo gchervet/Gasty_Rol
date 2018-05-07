@@ -407,7 +407,7 @@ El bosque ahora está bastante silencioso, muchisimo.
 * Destriparte a vos mismo con el cuchillo que le afanaste al negro.
 * AMC
 
-=> No lo entiendo, está demasiado encriptado, decido salir, pero antes me rebano un dedo a pedido de joey
+> No lo entiendo, está demasiado encriptado, decido salir, pero antes me rebano un dedo a pedido de joey
 
 -18 de Diciembre 2013-
 
@@ -425,7 +425,7 @@ Asentís convencido sobre las sabias palabras de tu querido compañero y prosegu
 * AMC
 <3 94% -ligero sangrado-
 
-=> Primero, escribo con mi sangre mi fotolog en una roca, despues meto mis dedos en mi boca y me tomo toda la sangre, es decir, si sale y vuelve a entrar, es un ciclo infinito. No? Sigo caminando
+> Primero, escribo con mi sangre mi fotolog en una roca, despues meto mis dedos en mi boca y me tomo toda la sangre, es decir, si sale y vuelve a entrar, es un ciclo infinito. No? Sigo caminando
 
 0:52 HS
 
@@ -506,7 +506,7 @@ El hombre se te queda mirando un rato con una ceja levantada.
 "¿De qué mierda me hablás? Sacate esa mascara que parecés un boludo y cruzá de una vez." Responde finalmente e lhombre enojado, para luego terminarse el cigarrillo y respirar profundamente. "Mirá flaco, si seguís el camino vas a llegar al pueblo de Bronca, ahí pedí una habitación o come algo o lo que carajo necesites. Lo que si no hagas quilombo. ¿Estamos?" Y luego de esperar tu asentimiento continuó "Bien, ahora tomatela. Ya tengo suficiente con la descerebrada de Sarah."
 "¡Marceee, no digas esas cooosaaas!" Dijo Sarah con el ceño fruncido y los brazos en jarra.
 ¿Qué hacer?
-* => Gonza: Ser el jinete.
+* > Gonza: Ser el jinete.
 * Tal vez sea una buena idea seguir el camino hacia la ciudad sin hacer ninguna locura.
 * Hacer el pasito y tararear el Gangnam Style mientras seguís el camino.
 
@@ -2321,7 +2321,7 @@ Tal vez deberías dejar al tipo en paz y seguir sus direcciones o convencerlo de
 > Bien, tampoco soy un rufian. Decido dejarle atado y marcharme.
 > Algo me dice que. Tampoco es un mal tipo
 
-=> Antes de irme pego un fuerte e indecoroso grito al cielo, demostrando lo valiente y audaz que soy. Finalmente decido averiguar como llego a este pueblo de pexcadores, asi que le pregunto a alguna de mis acompañantes sibtiene alguna idea akbrespecto
+> Antes de irme pego un fuerte e indecoroso grito al cielo, demostrando lo valiente y audaz que soy. Finalmente decido averiguar como llego a este pueblo de pexcadores, asi que le pregunto a alguna de mis acompañantes sibtiene alguna idea akbrespecto
 
 -8 de Abril 2014-
 
@@ -2596,8 +2596,8 @@ Guy te mira con sorpresa pero reacciona rápido y recoge a Joey antes que se lo 
 > Pues le,pido un tenedor al señor sombrero para hacerle unos ojos a joey
 > Se lo merece!!
 > Uno que este guiñando
-=> Ayer me dormí jajajaj
-=> Pero le hago los ojos a Joey y le pregunto al sujeto extraño y a su sombrero de dónde carajo salieron
+> Ayer me dormí jajajaj
+> Pero le hago los ojos a Joey y le pregunto al sujeto extraño y a su sombrero de dónde carajo salieron
 
 -9 de Junio de 2014-
 
@@ -2636,10 +2636,10 @@ Te los quedás mirando a los dos, sintiendo que no deberías haber preguntado po
 > Ehmm les preguntó como salir, y si conocen a alguien que sepa sobre personas raras en la ciudad
 > Realmente el olor esta siendo un poco molesto
 > Pero quiero averiguar todo sobre este misterioso
-=> Si sabría donde puedo encontrar gente jhmm extrala
-=> En realidad no se muy bien oregujtarle
-==> Si, sobretodo encapuchados
-==> Sobretodo todojunto
+> Si sabría donde puedo encontrar gente jhmm extrala
+> En realidad no se muy bien oregujtarle
+=> Si, sobretodo encapuchados
+=> Sobretodo todojunto
 
 -22 de Julio de 2014-
 
@@ -2686,9 +2686,9 @@ Guy mira a Sombrero nuevamente y este pregunta “¿Quieresh que te llevemosh a 
 ( Gonza, ya te dijeron que pertenecen a los Rift Gazers D: )
 ( No te acordás? :'( )
 
-=> No me acordaba jajabaj
-=> Entonces les digo si puedo unirme como un agente externo!
-=> Porque en mi cabeza todo es fácil e incongruente
+> No me acordaba jajabaj
+> Entonces les digo si puedo unirme como un agente externo!
+> Porque en mi cabeza todo es fácil e incongruente
 
 -2 de Agosto de 2014-
 
@@ -2781,8 +2781,8 @@ Notás que parece mas anticua esa zona y a tu derecha ves que pasa un rio en el 
 Dentro de tu bolsa, algunos higos, tal vez tres, creo que un durazno, una almeja de hace como cuatro o cinco días, una piedra filosa, un cuchill ode cocina algo desafilado y en tu bolsillo derecho, Joey!)
 (Obviamente también una falcata de acero blanco en su funda.)
 
-=> Bueno, agarro la piedra y la tiro fuerte contra el cielo, mas arriba mio
-=> Donde la lleve el viento, ahí iré yo, bajando con cuidado y con mucha precaucion
+> Bueno, agarro la piedra y la tiro fuerte contra el cielo, mas arriba mio
+> Donde la lleve el viento, ahí iré yo, bajando con cuidado y con mucha precaucion
 
 -29 de Agosto de 2014-
 
@@ -3133,23 +3133,23 @@ No parece haber nadie que se haga cargo de la pobre niña de ocho años.
 
 (No me quedó claro que vas a hacer xD)
 
-=> Lenpregunto al medico por el hospital
-=> Aunque algo me dice que no voy a poder hacer mucho con ella
-=> De todos modos vemos que me dice
-=> Noyase
-=> Vamos a la torre
-=> El medico especial retirado aabra que hacer!!!
-=> Tomo a la niña yvle digo a ursu que solo vamos a llevarla hasta la tirre
+> Lenpregunto al medico por el hospital
+> Aunque algo me dice que no voy a poder hacer mucho con ella
+> De todos modos vemos que me dice
+> Noyase
+> Vamos a la torre
+> El medico especial retirado aabra que hacer!!!
+> Tomo a la niña yvle digo a ursu que solo vamos a llevarla hasta la tirre
 
 (Ja ja ja xD Entonces vas a salir de la ciudad hacia el pueblo Los Pescadores con la niña?)
 
-==> Queda muy lejos?
-==> Mierda cuantas cosas
+=> Queda muy lejos?
+=> Mierda cuantas cosas
 
 (Jajajajjaja xD Siempre podés pedir consejo a tus compañeros xD)
 
-===> Mmm pregunto entonces a ursu y a aneette
-===> Que podemos havee
+==> Mmm pregunto entonces a ursu y a aneette
+==> Que podemos havee
 
 -12 de Octubre de 2014-
 
@@ -3226,16 +3226,16 @@ Tu gran compañero hermano te sonríe victorioso y no podés evitar sonreirle ta
 
 (Jajajajaja mal! O por lo menos el mas vivo xD)
 
-=> Decido cargar a la niña yo, ya me acostumbre a trepar con ella por edificios en estade de derrumbe, por que no llevarla caminando? Me gustaría prepararle algo de agua para cuando despierte. (con marde vamos a poder pasar la guardia de la puerta sin problemas, no?)
+> Decido cargar a la niña yo, ya me acostumbre a trepar con ella por edificios en estade de derrumbe, por que no llevarla caminando? Me gustaría prepararle algo de agua para cuando despierte. (con marde vamos a poder pasar la guardia de la puerta sin problemas, no?)
 
 (Che, de dónde vas a sacar el agua para la nena pibe? Le vas a preguntar a alguno de tus acompañantes o preguntar en una taverna o qué?
 Creo que no tenías una cantimplora o algún recipiente para levar líquidos)
 
-==>Mmn alguno de mis amigos
-==> Sobre todo mu mejor amigo marde
-==> No tiene?
-==> Les pregunto a ellos :4
-==> :4
+=>Mmn alguno de mis amigos
+=> Sobre todo mu mejor amigo marde
+=> No tiene?
+=> Les pregunto a ellos :4
+=> :4
 
 -13 de Noviembre de 2014-
 
