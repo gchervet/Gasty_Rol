@@ -16,10 +16,10 @@ Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.
 * No hacer un carajo, toda la paja.
 <3 100%
 
-
-  Toda la paja
-  jajajaj
-
+```
+Toda la paja
+jajajaj
+```
 
 22:04 HS
 
@@ -29,7 +29,9 @@ No lograste hacer un carajo.
 
 ¿Qué vas a hacer ahora?
 
-  => Me levanto y empiezo a caminar hacia la flora
+```
+Me levanto y empiezo a caminar hacia la flora
+```
 
 23:22 HS
 
