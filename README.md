@@ -16,7 +16,10 @@ Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.**
 - ♥ 100%
 
 > Toda la paja
-jajajaj
+> jajajaj
+
+
+------------
 
 
 **No hacés nada porque tenés paja. Te quedás ahí sin hacer literalmente un carajo.**
@@ -25,7 +28,10 @@ jajajaj
 
 **¿Qué vas a hacer ahora?**
 
-Me levanto y empiezo a caminar hacia la flora
+>Me levanto y empiezo a caminar hacia la flora
+
+
+------------
 
 
 **Te levantás y caminas hacia donde se llegan a ver arbustos y más allá vegetación mas alta.
@@ -42,41 +48,52 @@ Ahora estás en una zona intermedia, hay arbustos, muchas piedras y mas allá ce
 > Mmmm decido buscar algo para comer.
 
 
+------------
+
+
 **Comenzás a buscar algo para comer. Revisas esos arbustos y no parecen tener nada comestible. Por la zona en la que estás no encontrás nada. Podrías volver a la playa o acercarte a lo que parece un bosque.
 El sol sigue arriba, no parece haberse movido un centímetro, y tu pie descalzo duele aún por la piedra que pisaste.
 ¿Qué hacer?**
 
 > Mmmm
-Decido volver a la playa a mojarme el pie
+>Decido volver a la playa a mojarme el pie
+
+------------
+
+
 
 **Vovés a la playa, te acercás al agua y mojás tu pie en el agua salada del mar. Arde un poco pero limpiás la arena de la herida.
 Ves algo clavado en la arena a una distancia de mas o menos tres metros. Te resulta familiar.
 ¿Qué vas a hacer?**
 
 
-Me acerco a ver qué es
+>Me acerco a ver qué es
 
 
-14:14 HS
+------------
+
+
 
 Te acercás a lo que sea que esta clavado en la arena. Al llegar te das cuenta que es ¡Tu otra zapatilla! La desenterrás y te das cuenta que está llena de arena.
 ¿Qué hacer ahora?
 
-```
-Lo tomo! Intento limpiarlo para ver que no haya nada adentro que me lastime
-```
+>Lo tomo! Intento limpiarlo para ver que no haya nada adentro que me lastime
 
-14:38 HS
+
+------------
+
+
 
 La limpiás, efectivamente tenía una piedrita dentro y una ostra. Tiene un poquito de arena pero casi nada ya.
 ¿Qué vas a hacer ahora?
 
-```
-Me guardo la ostra, me gusta
-Veo el bosque a lo lejos, y encaro hacia el, ya con mi zapatilla
-```
+>Me guardo la ostra, me gusta
+>Veo el bosque a lo lejos, y encaro hacia el, ya con mi zapatilla
 
-16:05 HS
+
+------------
+
+
 
 Guardás la ostra en tu bolsillo y con la zapatilla puesta cas en camino al bosque.
 Caminas un rato hasta llegar finalmente al primer arbol que proyecta una refrescante sombre en comparación con los rayos de sol agobiantes.
@@ -86,9 +103,9 @@ Al acercarte pareas algo redondo y rojo. ¡Una manzana!
 * Trepar el arbol con tus sorprendentes habilidades de parkour y tomar una manzana.
 * Gualquier otra cosa que no sea lo que recomiendo porque sos tonto y gay.
 
-  => Trepo! :D
+>Trepo! :D
 
-16:21 HS
+------------
 
 Trepas como si nada, ni sentís ya la leve lastimadura en tu pie. Estás en la copa del arbol y bien estable.
 Ves entre las ramas varias manzanas, algunas no están maduras mientras que otras se ven deliciosas.
@@ -98,7 +115,7 @@ Tenés una muy buena visión desde el árbol que resultó ser un manzano. Pero h
 => Preguntarme por qué me pregunto esas cosas cuando no sé que hago ahì
 => Y luego buscar algo cercano a mi posicion que sea relevante :O
 
-17:19 HS
+------------
 
 ¿Por qué seré que uno siempre se pregunta cosas a veces fuera de contexto? Eso no importa ahora, estás divagando otra vez.
 Desde ahí arriba tenés muy buena visión de tus alrededores, así que comenzás a buscar algo de importancia.
@@ -111,7 +128,7 @@ A tu izquierda algo que te pareció uan casa vieja o parecido.
 
 => Bajo del arbol y voy a la casa, llevo dos manzanas conmigo
 
-17:40 HS
+------------
 
 Bajás del árbol y comenzás a caminar hacia aquella construcción a lo lejos con dos manzanas debajo del brazo.
 Conforme te acercás das notando que la construcción es una pequeña cabañita hecha de troncos.
@@ -124,7 +141,7 @@ Llegás a la puerta, la cual está entre abiera y no escuchás ningún sonido de
 => Decido raspar en la madera mi feisbuc
 => Luego espero
 
-18:01 HS
+------------
 
 Decidís antes de allanar propiedad ajena, esperar afuera como un buen chico.
 El tiempo pasa lento y aún no estás seguro porque despertaste en la orilla de una plata. Intentás recordas que hiciste ayer o antes de ayer pero sentís como una laguna mental.
@@ -138,7 +155,7 @@ El tiempo pasa lento y aún no estás seguro porque despertaste en la orilla de 
 => Joey se una al grupo
 => Irrumpo en la casa. Metiendo a joey antes por la ventana, destrozandola
 
-18:22 HS
+------------
 
 La ventana sede ante la poderosa embestida de Joey. Este verifica que no haya nadie en la cabaña básicamente estando en el suelo y ya mas seguro vos entrás.
 La cabaña tiene una mesa y una silla robusta.
@@ -154,7 +171,7 @@ Una cama que no parece realmente ocmoda y en un escritorio un craneo algo extra�
 => Mmmm reviso mas a fondo la cabaña
 => Y me toco la frente, indignado de mi numero de ojos par
 
-18:43 HS
+------------
 
 Decidís revisar mas a fondo la cabaña.
 Notás que las cenizas en la chimenea podrían ser recientes, como también que la olla está algo húmeda.
@@ -169,7 +186,7 @@ Mirás fuera, por la ventana opuesta a la rota y notas que ya está atardeciendo
 => Tomo el hacha y le hago una sonrisa a joey
 => Luego tiro a joey por e lpozo para ver que tanta profundidad hay
 
-19:11 HS
+------------
 
 Joey se alegra de tener una sonrisa, pero no dura mucho dado que salís de la cabaña y lo lanzás al fondo del pozo de agua. A los aproximadamente cinco segundos, escuchás agua.
 El pozo tiene una larga cuerda atada a una cubeta de madera la cual a su vez está atada a un lado del pozo.
@@ -181,7 +198,7 @@ El pozo tiene una larga cuerda atada a una cubeta de madera la cual a su vez est
 => Lanzo la cubeta con la certeza que volvere a ver a mi nuevo mejor amigo cuando la suba
 => Luego pienso en tomar el craneo e irme con el hacha
 
-19:32 HS
+------------
 
 Lanzás la cubeta al pozo, al jalar la soga y atraer nuevamente el recipiente lleno de agua... ¡Joey está ahí! Tenés nuevamente a Joey. Notás que deberías tener algo para llevar cosas porque un bolsillo está lleno con una manzana y el otro a la mitad con la piedra filosa y la ostra. Tal vez puedas fabricar, encontrar una bolsa o algo en la cabaña. Aún así vas nuevamente a allí y tomás el hacha con la otra mano. No es muy pesada, pero te das cuenta que es bastante maciza.
 ¿Qué hacés?
@@ -3788,9 +3805,9 @@ Notás que ya están por terminar las escaleras o por lo menos eso es lo que esp
 
 **Por supuesto, luego de decir aquello les preguntás si desean acompañarte en esta justa y verdadera causa, otra vez ocultando un detalle importante, Ursula desea venganza y extinguir la vida de aquel funesto hombre con sus propias manos.**
 
-**"¿Mas peligroso que Miranda?" - Pregunta asombrada Sarah y repentinamente, Marce cruza veloz la distancia entre vos y él, como si nunca la hubiese y levantándote de la pechera de tu remera con las dos manos, te choca contra la pared y te mantiene ahí, mirándote a los ojos con furia.**
+**  "¿Mas peligroso que Miranda?" - Pregunta asombrada Sarah y repentinamente, Marce cruza veloz la distancia entre vos y él, como si nunca la hubiese y levantándote de la pechera de tu remera con las dos manos, te choca contra la pared y te mantiene ahí, mirándote a los ojos con furia.**
 
-**"¡¿Qué carajo vas a saber vos sobre peligro?!" - Te grita en la cara, tomándote desprevenido a vos, a Sarah y a la encapuchada, la última acercándose para interceder pero la guardia deteniéndola suavemente y negándole con la cabeza.**
-**"¡Apenas sabés donde carajo estás parado, no me vengas con pelotudeces que no podés siquiera fundamentar!" - Continúa iracundo, la situación volviéndose un tanto peligrosa mas que nada porque no solo tenés a Marcelo sosteniendote medio metro del suelo, violento y probablemente si no decís lo adecuado, a punto de romperte la nariz, sinó también que si pasas esto, probablemente caigas por las escaleras kilométricas.**
+**  "¡¿Qué carajo vas a saber vos sobre peligro?!" - Te grita en la cara, tomándote desprevenido a vos, a Sarah y a la encapuchada, la última acercándose para interceder pero la guardia deteniéndola suavemente y negándole con la cabeza.**
+**  "¡Apenas sabés donde carajo estás parado, no me vengas con pelotudeces que no podés siquiera fundamentar!" - Continúa iracundo, la situación volviéndose un tanto peligrosa mas que nada porque no solo tenés a Marcelo sosteniendote medio metro del suelo, violento y probablemente si no decís lo adecuado, a punto de romperte la nariz, sinó también que si pasas esto, probablemente caigas por las escaleras kilométricas.**
 
 **¡No es tiempo de dudar! ¿Qué hacer/decir ahora?**
