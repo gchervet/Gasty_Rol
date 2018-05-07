@@ -14,7 +14,7 @@ Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.**
 - Explorar la playa.
 - Sentarte e intentar recordar que mierda hacés ahí.
 - No hacer un carajo, toda la paja.
-**♥ 100%**
+- ♥ 100%
 
 ```
 Toda la paja
