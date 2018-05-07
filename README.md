@@ -6,15 +6,15 @@
 -14 de Diciembre 2013-
 21:38 HS
 
-Despertás a las orillas de una playa, tirado en la arena. El sol está en lo alto, por lo que debe ser pasando el medio día.
-Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.
+**Despertás a las orillas de una playa, tirado en la arena. El sol está en lo alto, por lo que debe ser pasando el medio día.
+Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.**
 
-¿Qué hacer?
+**¿Qué hacer?**
 
-* Explorar la playa.
-* Sentarte e intentar recordar que mierda hacés ahí.
-* No hacer un carajo, toda la paja.
-<3 100%
+** * Explorar la playa.**
+** * Sentarte e intentar recordar que mierda hacés ahí.**
+** * No hacer un carajo, toda la paja.**
+** <3 100%**
 
 ```
 Toda la paja
