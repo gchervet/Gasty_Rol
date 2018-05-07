@@ -226,9 +226,9 @@ Te tomás unos minutos contemplando tu obra maestra.
 * Volver a por el craneo tríclope.
 * Hacer algo mas creativo(Atrevete a pensar algo mas creativo!)
 
-=> Dios joey, creo que eres lo mejor que me ha ocurrido
-=> Con la misma soga me hago un artilugio atroz para colgarme la buqueta en el hombro
-=> Comienzo a realizar mi labor de pegar hachazos random, dirigiendome hacia el bosque
+> Dios joey, creo que eres lo mejor que me ha ocurrido
+> Con la misma soga me hago un artilugio atroz para colgarme la buqueta en el hombro
+> Comienzo a realizar mi labor de pegar hachazos random, dirigiendome hacia el bosque
 
 20:22 HS
 
@@ -238,7 +238,7 @@ Mientras te acercás al bosque, das hachazos a cosas aleatorias como un arbusto,
 * Ir a esa especie de camino.
 * Escuchar a los pajaritos del bosque cantar.
 
-=> Ir hacia el camino, y mejor guardo el hacha por si alguno me ve y se asusta
+> Ir hacia el camino, y mejor guardo el hacha por si alguno me ve y se asusta
 
 20:47 HS
 
@@ -250,7 +250,7 @@ El camino se adentra en el bosque hacia algún lado.
 * ¡Darle un hachazo al cartel!
 * Hacer algo mas creatuvo.
 
-=> Raspo el luca gay con la piedra filosa, y decido ver el cartel del lado contrario
+> Raspo el luca gay con la piedra filosa, y decido ver el cartel del lado contrario
 
 21:08 HS
 
@@ -263,7 +263,7 @@ Notas que está comenzando a hacerse tarde y el sol está ya del otro lado del c
 * Gritar al bosque "SOY GAAAAAY".
 * Hacer algo mas creativo.
 
-=> Mmmm me adentro en el bosque porque tengo un buen presentimiento
+> Mmmm me adentro en el bosque porque tengo un buen presentimiento
 
 22:01 HS
 
@@ -277,7 +277,7 @@ El hombre parece medio drogado o borracho y está a unos dos metros de vos, con 
 * Preguntarle a Joey que hacer.(Sabemos lo que va a pasar)
 * AMC (Hacer algo mas creativo.)
 
-=> Puff ni lo dudo, hachazo
+> Puff ni lo dudo, hachazo
 
 22:47 HS
 
@@ -288,8 +288,8 @@ Sacás el hacha de la cubeta y vas a por el hachazo. El negro se pone en posici�
 * Cargar contra el negro.
 * AMC
 
-=> Antes del hacha saco el craneo, y se lo muestro de forma imponente
-=> Al mismo tiempo tomo el hacha con la otra mano, de forma defensiva
+> Antes del hacha saco el craneo, y se lo muestro de forma imponente
+> Al mismo tiempo tomo el hacha con la otra mano, de forma defensiva
 
 22:53 HS
 
@@ -304,9 +304,9 @@ Una victoria impresionante realmente.
 * Cut off his head and shit on his neck.
 * AMC
 
-=> Gracias joey! Siempre es bueno tener un amigo que genere denotaciones tan pasionales!!
-=> Primero le tiro a joey en la cara
-=> Despues me dijo que tiene
+> Gracias joey! Siempre es bueno tener un amigo que genere denotaciones tan pasionales!!
+> Primero le tiro a joey en la cara
+> Despues me dijo que tiene
 
 23:18 HS
 
@@ -319,8 +319,8 @@ No estás seguro que carajo significa ¤, pero suponés que es la moneda actual 
 * Simplemente, luego de sacarle todo y llevarte a Joey, seguís por el camino como si nada (Like a boss!)
 * AMC
 
-=> Tomo sus cosas y con su sangre le dibujo un pija en el pecho
-=> Continuo mi camino
+> Tomo sus cosas y con su sangre le dibujo un pija en el pecho
+> Continuo mi camino
 
 23:43 HS
 
@@ -334,9 +334,9 @@ Crees escuchar a lo lejos un aullido, lo cual te preocupa un poco. Joey te dice 
 
 -16 de Diciembre 2013-
 
-=> Soy
-=> El rey
-=> De la caca
+> Soy
+> El rey
+> De la caca
 
 0:21 HS
 
@@ -348,9 +348,9 @@ Luego de mas o menso un cuarto de hora de caminata, escuchás ruidos alrededor t
 * Sacar el encendedor, el porrito y fumarte uno.
 * AMC
 
-=> Prendo el porro, quizas compartir chala me salve la vida. Le doy un poco a joey, mientras sostengo el hacha y la vista en alto
-=> Me detengo y espero
-=> Haciendo formas con humo
+> Prendo el porro, quizas compartir chala me salve la vida. Le doy un poco a joey, mientras sostengo el hacha y la vista en alto
+> Me detengo y espero
+> Haciendo formas con humo
 
 0:39 HS
 
@@ -362,7 +362,7 @@ De entre los arbustos salen unas criaturas que parecen pequeños hombrecitos con
 * Correr como un loco a direcciones aleatorias.
 * AMC
 
-=> Obviamente les ofrezco, y guardo el hacha, si son enanos, son de los mios
+> Obviamente les ofrezco, y guardo el hacha, si son enanos, son de los mios
 
 0:51 HS
 
@@ -375,7 +375,7 @@ Los saludás y seguís tu camino, uno de ellos te regala una máscara que llevab
 * Seguir caminando el poco camino que te falta.
 * AMC
 
-=>Me pongo la mascara, supongo que si la llevaban puesta, sirve para algo, me adentro en el bosque silvando raindrops keep falling on my head
+>Me pongo la mascara, supongo que si la llevaban puesta, sirve para algo, me adentro en el bosque silvando raindrops keep falling on my head
 
 1:10 HS
 
@@ -387,7 +387,7 @@ Le ponés la máscara a Joey para que el también vea. A el también le parece m
 * Continuar caminando como si nada.
 * AMC
 
-=> Estallar en llamas y leer los arboles
+> Estallar en llamas y leer los arboles
 
 1:34 HS
 
@@ -407,7 +407,7 @@ El bosque ahora está bastante silencioso, muchisimo.
 * Destriparte a vos mismo con el cuchillo que le afanaste al negro.
 * AMC
 
-==> No lo entiendo, está demasiado encriptado, decido salir, pero antes me rebano un dedo a pedido de joey
+=> No lo entiendo, está demasiado encriptado, decido salir, pero antes me rebano un dedo a pedido de joey
 
 -18 de Diciembre 2013-
 
@@ -425,7 +425,7 @@ Asentís convencido sobre las sabias palabras de tu querido compañero y prosegu
 * AMC
 <3 94% -ligero sangrado-
 
-==> Primero, escribo con mi sangre mi fotolog en una roca, despues meto mis dedos en mi boca y me tomo toda la sangre, es decir, si sale y vuelve a entrar, es un ciclo infinito. No? Sigo caminando
+=> Primero, escribo con mi sangre mi fotolog en una roca, despues meto mis dedos en mi boca y me tomo toda la sangre, es decir, si sale y vuelve a entrar, es un ciclo infinito. No? Sigo caminando
 
 0:52 HS
 
@@ -455,7 +455,7 @@ Las voces cada vez están mas cerca a medida que avanzás y podés ver un poco d
 * AMC
 <3 95%
 
-=> Correre gritando por los ingleses hacia las voces
+> Correre gritando por los ingleses hacia las voces
 
 1:59 HS
 
@@ -477,8 +477,8 @@ La pregunta te resulta extraña y casi sentís un escalofrío. O ese hombre es u
 * Preguntarle direcciones a los dos y pasarle el encendedor al hombre para alegrarle un poco el día.
 * AMC
 
-=> Le paso el encendedor al hombre, el cual posee una leyenda: "For(i>1;1++;if)"
-=> Luego intento chamuyar a la mina
+> Le paso el encendedor al hombre, el cual posee una leyenda: "For(i>1;1++;if)"
+> Luego intento chamuyar a la mina
 
 2:28 HS
 
@@ -496,7 +496,7 @@ El hombre es indiferente a toda la conversación mientras fuma un pucho, la chic
 * Ponerte la mascara rara e intentar asustar al hombre.
 * AMC
 
-=> Me coloco la mascara en intento congeniar con el hombre comentandole que aprendí a autoregenerar mi fluido sanguineo y a darle anima a una fruta
+> Me coloco la mascara en intento congeniar con el hombre comentandole que aprendí a autoregenerar mi fluido sanguineo y a darle anima a una fruta
 
 2:56 HS
 
@@ -506,11 +506,11 @@ El hombre se te queda mirando un rato con una ceja levantada.
 "¿De qué mierda me hablás? Sacate esa mascara que parecés un boludo y cruzá de una vez." Responde finalmente e lhombre enojado, para luego terminarse el cigarrillo y respirar profundamente. "Mirá flaco, si seguís el camino vas a llegar al pueblo de Bronca, ahí pedí una habitación o come algo o lo que carajo necesites. Lo que si no hagas quilombo. ¿Estamos?" Y luego de esperar tu asentimiento continuó "Bien, ahora tomatela. Ya tengo suficiente con la descerebrada de Sarah."
 "¡Marceee, no digas esas cooosaaas!" Dijo Sarah con el ceño fruncido y los brazos en jarra.
 ¿Qué hacer?
-* ==> Gonza: Ser el jinete.
+* => Gonza: Ser el jinete.
 * Tal vez sea una buena idea seguir el camino hacia la ciudad sin hacer ninguna locura.
 * Hacer el pasito y tararear el Gangnam Style mientras seguís el camino.
 
-=> Elijo ser la puta hostia un rato, luego le tiro el guiño a la chica y le dejo anotado mi tumblr en una piedra que luego coloco a dos metros de ella. Me dirijo hacia la ciudad.
+> Elijo ser la puta hostia un rato, luego le tiro el guiño a la chica y le dejo anotado mi tumblr en una piedra que luego coloco a dos metros de ella. Me dirijo hacia la ciudad.
 
 3:15 HS
 
@@ -527,7 +527,7 @@ Pasas a su lado y de repente escuchás una voz a tu espalda que parece forzadame
 * AMC
 <3 97%
 
-=> Bueno, me acerco al encapuchado y le doy un abrazo amistoso de tio genial
+> Bueno, me acerco al encapuchado y le doy un abrazo amistoso de tio genial
 
 16:17 HS
 
@@ -541,7 +541,7 @@ Cuando te acercás el encapuchado dice ocn la misma voz forzosamente gastada "Ne
 * Contestarle que vos sos el encapuchado que está buscado y luego tomar e lhacha y atacar.
 * AMC
 
-=> Le digo que solo respondere si el me da un abrazo a mi
+> Le digo que solo respondere si el me da un abrazo a mi
 
 16:24 HS
 
@@ -554,7 +554,7 @@ Se mueve inquieto, pensante. No quiere abrazarte, no tiene ganas, le parecés re
 * Responderle que si.
 * Responderle que no y reirte frenéticamente(Que chico malo)
 
-=> Le digo que si, vamos que los masajes son mucho mucho mas subliminales
+> Le digo que si, vamos que los masajes son mucho mucho mas subliminales
 
 -19 de Diciembre 2013-
 
@@ -569,7 +569,7 @@ Notás algo extraño, su cuerpo no tiene la forma de un hombre sino mas de... ¿
 * Alargar el abrazo hasta que le parezca realmente incómodo.
 * AMC
 
-=> Me pongo la mascara para impresionarl@ y le digo que no vi a nadie parecido, pero que sentí sus tetas en el abrazo.
+> Me pongo la mascara para impresionarl@ y le digo que no vi a nadie parecido, pero que sentí sus tetas en el abrazo.
 
 15:18 HS
 
@@ -583,7 +583,7 @@ Notás que se cruza de brazos detrás de la capa.
 * Preguntar el porque de su necesidad de ocultarse detrás de una capa.
 * AMC
 
-=> Le pregunto el porque de su necesidad, pero antes le presento a joey, con la excusa de que puede ver a traves de la ropa pchoooo
+> Le pregunto el porque de su necesidad, pero antes le presento a joey, con la excusa de que puede ver a traves de la ropa pchoooo
 
 15:46 HS
 
@@ -602,7 +602,7 @@ Uso esta capa para ocultar mi identidad, dado que algunos menosprecian a las muj
 * Pedirle que se saque la capucha. ¡Ordenarle que se saque la capucha!
 * AMC
 
-=> Pobre joey, ya conseguiremos que hable, le pido que se saque la capucha ya que presuntamente tiene caca; luego le pregunto cual es el nombre de dicho hombre
+> Pobre joey, ya conseguiremos que hable, le pido que se saque la capucha ya que presuntamente tiene caca; luego le pregunto cual es el nombre de dicho hombre
 
 15:57 HS
 
@@ -617,8 +617,8 @@ Se cruza de brazos nuevamente detras de su capa.
 * Ser víctima de combustión espontanea y estallar en llamas.
 * AMC
 
-=> Decirle que me gustaría ayudarle, y que realmente no tengo mucho más que hacer. Mi única misión es darle parla a Joey. )=
-=> Y ni siquiera recuerdo cómo llegué ahí, pero vamos que todo es fantástico!
+> Decirle que me gustaría ayudarle, y que realmente no tengo mucho más que hacer. Mi única misión es darle parla a Joey. )=
+> Y ni siquiera recuerdo cómo llegué ahí, pero vamos que todo es fantástico!
 
 16:20 HS
 
@@ -634,7 +634,7 @@ Dice Joey contento. Si pudiese hacer otra cosa mas que sonreir, no lo estaría h
 * Pedirle otro abrazo.
 * AMC
 
-=> Me acerco y le doy un abrazo por sus padres, la historia me conmovió. Ahora mismo no puedo escuchar lo que dice Joey debido a mi emoción, pero sé que se trata de algo bueno y saludable para mi mente. Le digo que vayamos a donde ella se dirigía, y de paso le pregunto a dónde se dirige, by the way.
+> Me acerco y le doy un abrazo por sus padres, la historia me conmovió. Ahora mismo no puedo escuchar lo que dice Joey debido a mi emoción, pero sé que se trata de algo bueno y saludable para mi mente. Le digo que vayamos a donde ella se dirigía, y de paso le pregunto a dónde se dirige, by the way.
 
 16:31 HS
 
@@ -647,7 +647,7 @@ Da un par de pasos por el camino y luego se detiene y te mira.
 "¿Vamos?"
 ¿Qué hacer ahora?
 
-=> Le sigo, y de paso le pregunto a cuánto estamos, porque podríamos conseguir una carreta, si pasa alguna por ahí, acribillando al conductor o a los caballos. Le digo que de las tabernas yo me encargo, tengo un vago recuerdo de ir a un bar a jugar pool.
+> Le sigo, y de paso le pregunto a cuánto estamos, porque podríamos conseguir una carreta, si pasa alguna por ahí, acribillando al conductor o a los caballos. Le digo que de las tabernas yo me encargo, tengo un vago recuerdo de ir a un bar a jugar pool.
 
 16:46 HS
 
@@ -660,7 +660,7 @@ Seguís a la chica y caminan en dirección a la ciudad. Le preguntás a que dist
 * Responder normalmente sus preguntas y decirle que luego va a ver que hacer a Joey.
 * AMC
 
-=> Bailando como Miguel, le respondo quién soy, y le digo que es una lástima que tenga capucha, no se pueden apreciar sus lindos ojos.
+> Bailando como Miguel, le respondo quién soy, y le digo que es una lástima que tenga capucha, no se pueden apreciar sus lindos ojos.
 
 17:05 HS
 
@@ -676,7 +676,7 @@ Siguen caminando. Comenzás a notar que está oscureciendo lentamente. Podés ve
 * Darle las gracias a Joey y decirle que es genial, aunque eso ya se sabe.
 * AMC
 
-=> Claramente, le digo a Joey lo que todo el mundo sabe, que es genial. Le pregunto  hace cuánto tiempo que está siguiendo a este hombre encapuchado, y si sabe realmente el nombre de la organización para la que trabaja.
+> Claramente, le digo a Joey lo que todo el mundo sabe, que es genial. Le pregunto  hace cuánto tiempo que está siguiendo a este hombre encapuchado, y si sabe realmente el nombre de la organización para la que trabaja.
 
 17:27 HS
 
@@ -690,7 +690,7 @@ Continuan caminando, pero aún les falta un poco mas para llegar. La noche ya ll
 * Continuar caminando en silencio, como todo un chico misterioso y cool.
 * AMC
 
-=> Primero le digo que su nombre me recuerda a una pelicula de sirenas, no estoy con la memoria necesaria para pensar más en ello. Luego me pongo a caminar a su lado, en silencio y con la respiración calmada. A los cinco minutos no resisto empezar a hacer golpes con las manos.
+> Primero le digo que su nombre me recuerda a una pelicula de sirenas, no estoy con la memoria necesaria para pensar más en ello. Luego me pongo a caminar a su lado, en silencio y con la respiración calmada. A los cinco minutos no resisto empezar a hacer golpes con las manos.
 
 19:03 HS
 
@@ -704,8 +704,8 @@ Un cartel se ve a lo lejos, donde el camino se divide en varios y está un poco 
 * Gonza gay
 * AMC
 
-=> Hola Gonza! Has volvido!!
-=> Bueno, ahora me predispongo a abrazar a Ursula una vez más, es que tengo tanto amor para dar! Y luego le digo si quiere que la cargue, se ve cansada; definitivamente caminó más que yo
+> Hola Gonza! Has volvido!!
+> Bueno, ahora me predispongo a abrazar a Ursula una vez más, es que tengo tanto amor para dar! Y luego le digo si quiere que la cargue, se ve cansada; definitivamente caminó más que yo
 
 19:22 HS
 
@@ -717,7 +717,7 @@ Le preguntás  luego si quiere que la cargues, que seguro está cansada de tanto
 ¿Qué hacer ahora?
 * Durlu
 
-=> Mmm bueno, le digo que somos los únicos boludos en el camino, así que no debería tener miedo. Le explico que saqueé una casa abandonada (unos 20 minutos antes de mi ayanamiento a la misma), y tomé esta cubeta a modo de inventario. Si tiene algo mejor que ofrecer, pues no me quejo, el brazo se me aclambró hace 2 kilómetros atrás.
+> Mmm bueno, le digo que somos los únicos boludos en el camino, así que no debería tener miedo. Le explico que saqueé una casa abandonada (unos 20 minutos antes de mi ayanamiento a la misma), y tomé esta cubeta a modo de inventario. Si tiene algo mejor que ofrecer, pues no me quejo, el brazo se me aclambró hace 2 kilómetros atrás.
 
 19:43 HS
 
@@ -732,7 +732,7 @@ Llegaron ya al cartel. La oscuridad te complica un poco leer lo que dice, pero s
 * Hacer parkour sobre el cartel
 * AMC
 
-=> Obviamente escribo el feis de Ursula (me lo invento, es que realmente no lo sé) con la piedrita :) Luego le explico que la casa estaba abandonada hacía ya muchísimas dédacas. Luego me subo al cartel para tener una mejor vista (muy similar a la que ya tengo)
+> Obviamente escribo el feis de Ursula (me lo invento, es que realmente no lo sé) con la piedrita :) Luego le explico que la casa estaba abandonada hacía ya muchísimas dédacas. Luego me subo al cartel para tener una mejor vista (muy similar a la que ya tengo)
 
 20:01 HS
 
@@ -747,8 +747,8 @@ Efectivamente, están a unos 10 minutos de llegar mas o menos. Ya el sol no se p
 * Continuar el camino para llegar de una fucking vez al pueblo de Bronca.
 * AMC
 
-=> tu yo soy un tio juego chaval hare unos vault para dejarla to loca
-=> Y luego prosigo hacia el pueblo.
+> tu yo soy un tio juego chaval hare unos vault para dejarla to loca
+> Y luego prosigo hacia el pueblo.
 
 20:17 HS
 
@@ -768,7 +768,7 @@ Ursula parece realmente confusa, no tiene idea que está pasando realmente dado 
 
 -20 de Diciembre 2013-
 
-=> Le pido el número de teléfono a los guardias, seguramente no vendría mal tenerlos como aliados, parecen geniales! Les presento a Joey =D
+> Le pido el número de teléfono a los guardias, seguramente no vendría mal tenerlos como aliados, parecen geniales! Les presento a Joey =D
 
 0:38 HS
 
@@ -784,7 +784,7 @@ Les pedís el numero telefónico a los guardias porque crees que en un futuro te
 * Hablar en inglés con el negro de gorra
 * AMC
 
-=> Le pregunto a Ursula de qué va ese mencionado Gran Hundimiento de la Hostia, pero se lo pregunto en inglés.
+> Le pregunto a Ursula de qué va ese mencionado Gran Hundimiento de la Hostia, pero se lo pregunto en inglés.
 
 0:58 HS
 
@@ -797,7 +797,7 @@ Le preguntás sobre el gran hundimiento, pero en inglés. Ursula se te queda mir
 * Preguntar a Ursula porque es tan ignorante.
 * AMC
 
-=> Preguntarle por qué es tan ignorante, y volverle a preguntar en español sobre el gran hundimiento.
+> Preguntarle por qué es tan ignorante, y volverle a preguntar en español sobre el gran hundimiento.
 
 1:33 HS
 
@@ -812,7 +812,7 @@ Continúa caminando por el pueblo, sin mirar atrás, aún ofendida.
 * Preguntarte porque de repente Ursula comenzó a hablar en persa.
 * AMC
 
-=> Me disculpo arrodillándome ante ella, en un idioma persa (o lo que más se acerque), pongo a Joey a mi lado para que se disculpe también, ¡Joey también lo siente! Le digo que el hecho de no recordar ni siquiera algo tan imponente como el hundimiento está comenzando a molestarme.
+> Me disculpo arrodillándome ante ella, en un idioma persa (o lo que más se acerque), pongo a Joey a mi lado para que se disculpe también, ¡Joey también lo siente! Le digo que el hecho de no recordar ni siquiera algo tan imponente como el hundimiento está comenzando a molestarme.
 
 1:43 HS
 
@@ -826,7 +826,7 @@ Suspira y luego mira para todos lados otra vez. "Deberíamos buscar una taberna 
 * Asentir a Ursula y ponerte a buscar activamente un lugar para dormir
 * AMC
 
-=> Asiento y me trepo hábilmente en una casa de tres pisos. Busco tabernas.
+> Asiento y me trepo hábilmente en una casa de tres pisos. Busco tabernas.
 
 2:14 HS
 
@@ -843,7 +843,7 @@ Por suerte ningún objeto se rompió, pero el hacha cayó peligrosamente cerca d
 * Escuchar una voz en tu cabeza que dice que si y que la tirada decía que iba a ser terrible pero te la perdoné porque soy genial
 * AMC
 
-=> Le digo a Ursula que no se preocupe, un par de huesos rotos sólo harán que muera en poco tiempo. Luego le digo que hay una taberna, o algo así, para preguntar por info =)
+> Le digo a Ursula que no se preocupe, un par de huesos rotos sólo harán que muera en poco tiempo. Luego le digo que hay una taberna, o algo así, para preguntar por info =)
 
 2:54 HS
 
@@ -857,7 +857,7 @@ Prosiguen luego a caminar hasta el edificio. Es uno grande y de madera. El carte
 * Preguntarle a Ursula si en algún momento se va a sacar la capucha y si tiene calor debajo de esa capa tan gruesa.
 * AMC
 
-=> Entro, tirando a Joey a través de la puerta a modo introductorio. Le digo a Ursu que pase. Sí, Ursu.
+> Entro, tirando a Joey a través de la puerta a modo introductorio. Le digo a Ursu que pase. Sí, Ursu.
 
 3:16 HS
 
@@ -879,7 +879,7 @@ Ursula nuevamente te mira, esperando una respuesta.
 * Aceptás, para luego preguntar el precio de una noche en la taberna.
 * AMC
 
-=> Dejo que Ursu lleve sus propias conclusiones, me acerco al tabernero y le digo "Bueno muchacho, podría dedicarme vuestra sabiduría con respecto al precio de las literas?". Dejo a Joey a un costado del buen muchacho, ya que claramente, como cualquier persona, debe estar atento a lo que dicen los demás.
+> Dejo que Ursu lleve sus propias conclusiones, me acerco al tabernero y le digo "Bueno muchacho, podría dedicarme vuestra sabiduría con respecto al precio de las literas?". Dejo a Joey a un costado del buen muchacho, ya que claramente, como cualquier persona, debe estar atento a lo que dicen los demás.
 
 3:35 HS
 
@@ -896,7 +896,7 @@ La joven sube por las escaleras que se encuentran a la izquierda del mostrador y
 * Dar un par de hachazos a la puerta de la habitación luego de que Ursula la cierra, para luego asomar la cabeza por el agujero y gritar "HERE IS GONZA!"
 * AMC
 
-=> Bueno, camino detrás de Ursu, y tanteo a meterme con ella en la habitación. No sin antes guiñarle el ojo al tabernero en una ACTITUD DE TIO MOLA TU ONDA
+> Bueno, camino detrás de Ursu, y tanteo a meterme con ella en la habitación. No sin antes guiñarle el ojo al tabernero en una ACTITUD DE TIO MOLA TU ONDA
 
 3:47 HS
 
@@ -912,8 +912,8 @@ La joven te mira detras de la capucha y suspira, para luego hablarte tranquila, 
 * Decirle a Ursula que ella duerma en la cama, dado que ella pago la habitación y vos dormir en el suelo con un Joey sobre tu estomago para que esté mas comodo.
 * AMC
 
-=> La última, está bien que soy genial y todo eso pero ella pagó =)
-=> De paso le pregunto si no quiere comer algo, podría trepar unas cuantas casas para saquear-pedir prestada comida
+> La última, está bien que soy genial y todo eso pero ella pagó =)
+> De paso le pregunto si no quiere comer algo, podría trepar unas cuantas casas para saquear-pedir prestada comida
 
 3:58 HS
 
@@ -928,9 +928,9 @@ Notás que la joven no se quitó ni la capa ni la capucha y te preguntás si aú
 * Saltás por la ventana. Cualquier destino es mejor que dormir en el frío suelo de una taberna con una desconocida.
 * AMC
 
-=> Prefiero dejarla tranquila, y no pienso comer manzanas, ¡Pobre Joey!
-=> Salto por la ventana con animos de irrumpir en alguna propiedad.
-=> Solo me llevo a Joey, en mi bolsillo
+> Prefiero dejarla tranquila, y no pienso comer manzanas, ¡Pobre Joey!
+> Salto por la ventana con animos de irrumpir en alguna propiedad.
+> Solo me llevo a Joey, en mi bolsillo
 
 4:14 HS
 
@@ -945,8 +945,8 @@ La ventana no está trabada, asi que sería realmente facil entrar y solo sería
 * Toda la fiaca, hasta el auto-canibalismo es mejor.
 * AMC
 
-=> El autocanibalismo es una buena opción, pero no es rentable
-=> Prefiero pasar en silencio hasta su cocina.
+> El autocanibalismo es una buena opción, pero no es rentable
+> Prefiero pasar en silencio hasta su cocina.
 
 22:37 HS
 
@@ -954,7 +954,7 @@ Abrís la ventana sin hacer el menor ruido y pasas como una silenciosa brisa hac
 Encontrás un jamón, varias frutas y un par de cosas más. Joey ya ni sabe que decir por tu increible sigilo y destreza.
 ¿Cuánto vas a agarrar? ¿Vas a comerlo ahí?
 
-=> voy a agarrar todo lo que entre en mis bolsillos, y de paso me choreo algo para llevar las coss
+> voy a agarrar todo lo que entre en mis bolsillos, y de paso me choreo algo para llevar las coss
 
 22:49 HS
 
@@ -964,7 +964,7 @@ Te atás la bolsa y decidís salir, aunque no es lo mas comodo que encontraste, 
 Caminás sigilosamente al lado del hombre dormido hasta llegar a la ventana, la cual luego cerrás.
 ¿Vas a volver al hotel o a otro lado?
 
-=> Antes de irme dejo anotado mi feisbuc con saliva en una ventana, luego progreso hacia mi nuevo hogar momentáneo.
+> Antes de irme dejo anotado mi feisbuc con saliva en una ventana, luego progreso hacia mi nuevo hogar momentáneo.
 
 22:58 HS
 
@@ -977,9 +977,9 @@ Si Joey tuviese manos te aplaudiría para demostrarte su admiración, pero eso t
 * Comerte a Joey(Estás loco?!)
 * AMC
 
-=> Me como a Joey. 
-=> ¡Claro que no, amigo! ¡Vengan esos 5!
-=> Me como un poco de todo, y le dejo parte del jamon, un durazno, y algunos higos a Ursu. Luego me voy a dormir
+> Me como a Joey. 
+> ¡Claro que no, amigo! ¡Vengan esos 5!
+> Me como un poco de todo, y le dejo parte del jamon, un durazno, y algunos higos a Ursu. Luego me voy a dormir
 
 23:14 HS
 
@@ -996,8 +996,8 @@ Ursula parece que aún duerme, respirando silenciosamente en la misma posición.
 * AMC
 <3 100%
 
-=> Me acerco a Ursu para ver su rostro :O Y de paso clavo el hacha en el techo porque juraría que me miró mal.
-=> Entonces intento mover su capucha hacia atras :O
+> Me acerco a Ursu para ver su rostro :O Y de paso clavo el hacha en el techo porque juraría que me miró mal.
+> Entonces intento mover su capucha hacia atras :O
 
 23:32 HS
 
@@ -1005,7 +1005,7 @@ Ursula parece que aún duerme, respirando silenciosamente en la misma posición.
 Te acercás a Ursula lentamente, tragás saliva y colocando tu mano a un lado de la capucha comenzás a correr la capucha. comenzás a rebelar pelo largo y pelirrojo que justo le está recubriendo el rostro. No estás seguro si correrle el cabello del rostro dado que podría despertarse.
 ¿Qué hacer?
 
-=> Con mucho,  mucho cuidado, escribo mi feisbuc con saliva en su capucha. Luego intento correrle el pelo.
+> Con mucho,  mucho cuidado, escribo mi feisbuc con saliva en su capucha. Luego intento correrle el pelo.
 
 23:40 HS
 
@@ -1018,7 +1018,7 @@ Jurarías que por un momento, el brillo del sol hizo que sus pupilas brillacen e
 
 -31 de Diciembre 2013-
 
-=> Le digo que quería ver su rostro, nada más. Y que le dejé comida. Y que tiene muy lindo pelo :D
+> Le digo que quería ver su rostro, nada más. Y que le dejé comida. Y que tiene muy lindo pelo :D
 
 18:56 HS
 
@@ -1033,8 +1033,8 @@ Ursu te mira nuevamente. "Un momento, ¿De dónde sacaste toda esta comida?" Mir
 * Hundirle un hacha en la cabeza y manchar el tapizado(inexistente) de sangre.
 * AMC
 
-=> Decirle que debería respetar la privacidad de la fuente alimenticia de las personas y que deje de joder y que coma y ya esta y...
-=> y eso
+> Decirle que debería respetar la privacidad de la fuente alimenticia de las personas y que deje de joder y que coma y ya esta y...
+> y eso
 
 19:06 HS
 
@@ -1055,7 +1055,7 @@ La joven parece que va a decir algo pero parece que se arrepiente, suelta un lar
 * Darle un hachazo en la cabeza, esa es la manera en la que uno arregla todo.
 * AMC
 
-=> Intento sacarle información al tabernero, en secreto. Con él tenemos buena onda. Coloco a Joey a mi lado. Dejo que Ursu salga del lugar.
+> Intento sacarle información al tabernero, en secreto. Con él tenemos buena onda. Coloco a Joey a mi lado. Dejo que Ursu salga del lugar.
 
 20:07 HS
 
@@ -1066,7 +1066,7 @@ Le decís a Ursu que dentro de un rato vas a salir, que te espere afuera y dejan
 "¡Que gordito copado! ¡Preguntale si recuerda hace cuanto che!" Te dice tu gran compañero de vida, Joey.
 ¿Qué hacer preguntar/hacer ahora?
 
-=> Tiremos los dados para ver qué tal nos va, quiero preguntarle hace cuánto
+> Tiremos los dados para ver qué tal nos va, quiero preguntarle hace cuánto
 
 20:37 HS
 
@@ -1076,7 +1076,7 @@ Le preguntás hace cuanto vió al encapuchado de ropa blanca y bajito como vos.
 Ursula te está afuera de la taberna, en frente de la puerta. No deberías hacerla esperar aún mas.
 ¿Qué hacer ahora?
 
-=> Me acerco a Ursu, en pos de ganador, y le digo lo que me han dicho en el bar.
+> Me acerco a Ursu, en pos de ganador, y le digo lo que me han dicho en el bar.
 
 21:50 HS
 
@@ -1091,7 +1091,7 @@ Le contás lo que te dijo el tabernero, lo cual hace que suspire algo desalentad
 
 -24 de Diciembre 2013-
 
-=> DECIDO IR AL INFIERNO A MORIR DESALMADO, pero luego; Vayamos a la plaza, quiero ver si hay gente haciendo parkour! De paso busco algún familiar de Joey para saludarlo ;D!!
+> DECIDO IR AL INFIERNO A MORIR DESALMADO, pero luego; Vayamos a la plaza, quiero ver si hay gente haciendo parkour! De paso busco algún familiar de Joey para saludarlo ;D!!
 
 15:20 HS
 
@@ -1105,7 +1105,7 @@ Llegan a la plaza. Hay un par de arbolitos, algunos bancos, una estatua en el me
 * Sentarte junto al matero(O lo que sea lo que esté tomando) y preguntarle de donde carajo salió.
 * AMC
 
-=> me acerco al hombre de la guitarra y le pregunto qué está tocando, y si sabe algún tema de Nirvana. Luego intento saber si ha visto a gente ecapuchada de blanco ultimamente :O
+> me acerco al hombre de la guitarra y le pregunto qué está tocando, y si sabe algún tema de Nirvana. Luego intento saber si ha visto a gente ecapuchada de blanco ultimamente :O
 
 16:00 HS
 
@@ -1114,7 +1114,7 @@ Te acercás al guitarrista y justo cuando estás por preguntarle, te das cuenta 
 Comienza a tocar y no lo hace mal. Ursula se acerca a los dos.
 ¿Qué hacer ahora?
 
-=> Le comento a Ursula que me hice un amigo guitarrista, luego le pregunto a este qué está tomando. Luego xD le pregunto sobre los encapuchados.
+> Le comento a Ursula que me hice un amigo guitarrista, luego le pregunto a este qué está tomando. Luego xD le pregunto sobre los encapuchados.
 
 17:26 HS
 
@@ -1126,7 +1126,7 @@ Deja de tocar, toma un poco mas de su La-Que-Va y saca un frasco metálico de la
 "¿Qué pasa con este "encapuchado"? ¿Por qué lo buscan?"
 ¿Qué hacer ahora?
 
-=> Le digo en un intento de mentir con buen propósito que el encapuchado reparte felicidad, y que si él supiera dónde está, pues le compartiría de dicha felicidad.
+> Le digo en un intento de mentir con buen propósito que el encapuchado reparte felicidad, y que si él supiera dónde está, pues le compartiría de dicha felicidad.
 
 18:13 HS
 
@@ -1136,7 +1136,7 @@ Ursula suspira y se va a hablar con el anciano.
 "¿Y vos viniste para buscar al encapuchado solo? Sentate y contame tu historia chabón." Toca algun tema de una antigua banda de rock olvidada. "Siempre es copado conocer gente que sabe de buena música. Acá no le dan ni bola a esas cosas ya."
 ¿Qué haces?
 
-=> Me siento dos segundos con él, y le pido un sobro de La-que-va, de lo cual presumo que se trata de yerba mate. Siento a Joey a su lado, se lo presento. Luego le digo que sé tocar un poco la guitarra.
+> Me siento dos segundos con él, y le pido un sobro de La-que-va, de lo cual presumo que se trata de yerba mate. Siento a Joey a su lado, se lo presento. Luego le digo que sé tocar un poco la guitarra.
 
 18:25 HS
 
@@ -1150,7 +1150,7 @@ Decidís sentarte un rato con el chabón y le pedís un sorbo de La-Que-Va. Tamb
 * Darle un hachazo en la jeta. Por que si!
 * AMC
 
-=> Tomo el mate. Luego agarro la guitarra y toco un tema que recuerdo por sonidos.
+> Tomo el mate. Luego agarro la guitarra y toco un tema que recuerdo por sonidos.
 
 19:20 HS
 
@@ -1166,7 +1166,7 @@ Ursula se acerca y espera a que termines de tocar para luego hablarte. "Estuve p
 
 -25 de Diciembre 2013-
 
-=> Le digo al pibe de la viola que vamos con él, e intento levantarme. Le pregunto cuándo sale hacia Kalenia.
+> Le digo al pibe de la viola que vamos con él, e intento levantarme. Le pregunto cuándo sale hacia Kalenia.
 
 15:21 HS
 
@@ -1190,7 +1190,7 @@ El chico se ríe y luego responde "Me llamo Ivan. Agarrense fuerte chicos." Y al
 * Pensar bien que hacer para no ser enviado fuera de un vehiculo a 60 KM por hora
 * AMC
 
-=> Primeramente, le digo a Ursu que sólo nos ayudará a llegar hasta Kalenia. Luego me echo una siestuli ;D
+> Primeramente, le digo a Ursu que sólo nos ayudará a llegar hasta Kalenia. Luego me echo una siestuli ;D
 
 15:35 HS
 
@@ -1203,7 +1203,7 @@ Mirás hacia abajo y ves que varias personas te están sosteniendo las piernas p
 Despertás sobresaltado, aún están en la carreta a toda velocidad, ya el sol está del otro lado del cielo. La joven te sigue sosteniendo mientras mira hacia algún lado de la carreta. Calculás que pasaron algunas horas, pero no estás seguro cuantas.
 ¿Qué hacer ahora?
 
-=> Mmm le pregunto a Ursu por dónde estamos. Luego le comento el sueño D:!!! Luego con la piedrita filosa, sin que Ivan se de cuenta, le escribo "gracias master ;D" en la carreta.
+> Mmm le pregunto a Ursu por dónde estamos. Luego le comento el sueño D:!!! Luego con la piedrita filosa, sin que Ivan se de cuenta, le escribo "gracias master ;D" en la carreta.
 
 16:15 HS
 
@@ -1216,8 +1216,8 @@ Antes que puedas responder, el conductor se da media vuelta en su asiento.
 Ursula mira al flaco y luego te mira a vos, expectante.
 ¿Qué responder/hacer ahora?
 
-=>  Le digo a mi nuevo amigo que se trata de un tipo tan feo que oculta su rostro. 
-=> "Deberías ver esos bellos rojos que tiene, todo un monumento a lo horrendo!". Intento desviar el tema, así finalmente también puedo escribirle mi agradecimiento con mi super piedrita filosa. Le pregunto a Ursu (la cual ahora se llamará Dante) si él (;D) no está cansado (;D)
+>  Le digo a mi nuevo amigo que se trata de un tipo tan feo que oculta su rostro. 
+> "Deberías ver esos bellos rojos que tiene, todo un monumento a lo horrendo!". Intento desviar el tema, así finalmente también puedo escribirle mi agradecimiento con mi super piedrita filosa. Le pregunto a Ursu (la cual ahora se llamará Dante) si él (;D) no está cansado (;D)
 
 16:28 HS
 
@@ -1227,8 +1227,8 @@ Ursu usa su voz gastada, como siempre, y te responde intentando sonar mas mascul
 El conductor se ríe. "Disculpame Gon, no sabía que estaba tan fuerte. Supongo que ya me habré acostumbrado a La-Que-Va." Luego se da vuelta y sigue conduciendo.
 ¿Qué hacer?
 
-=> Darle un SUPER ABRAZO AMISTOSO DE TIO BUENO a Dante, en forma de agradecimiento, luego decirle que puede ponerse cómoda... cómodo... 
-=> En un éxtasis desaforado tiro el hacha a la mierda, sin saber por qué
+> Darle un SUPER ABRAZO AMISTOSO DE TIO BUENO a Dante, en forma de agradecimiento, luego decirle que puede ponerse cómoda... cómodo... 
+> En un éxtasis desaforado tiro el hacha a la mierda, sin saber por qué
 
 16:37 HS
 
@@ -1239,7 +1239,7 @@ Vos te encogés de hombros, no tenés ni idea. La joven luego de suspirar, se po
 "¡Pedazo de lanzamiento Gonza! Aunque ahora necesitamos otra arma que no sea un cuchillo de cocina algo grande, ¡Pero fue re copado! ¡Jajaja, como voló che!" Te dice Joey muy animado. Te dás cuenta que no podías escucharlo hasta ahora por los efectos de el La-Que-Va.
 ¿Qué hacer ahora?
 
-=> Intento ser amable conmigo e inventarme una fantasía en la que me despedí del hacha porque conseguiré un arma mucho mejor cuando lleguemos a la ciudad. Luego le pido a Ivan que nos cuente su historia :O
+> Intento ser amable conmigo e inventarme una fantasía en la que me despedí del hacha porque conseguiré un arma mucho mejor cuando lleguemos a la ciudad. Luego le pido a Ivan que nos cuente su historia :O
 
 17:06 HS
 
@@ -1256,9 +1256,9 @@ Luego continúa. "Mi madre era vulcana y mi padre humano. Un chorro un día entr
 Cuando por fin 'recobró' sus sentidos, se encontró toda manchada en sangre y decidió abandonarnos porque decía que era muy peligrosa." Los mira a vos y a Ursu nuevamente para agregar. "Busque muchas maneras de tranquilizar este temperamente que heredé de mi madre, música, lectura, ninguna era suficiente. Pero parece que La-Que-Va es perfecta y viajar también me tranquiliza, especialmente a esta velocidad." Hace una pausa y luego dice sonriendo. "Y bueno, eso es todo. Espero no haberlos aburrido."
 ¿Qué hacer/decir?
 
-=> Poner mi mano sobre su hombro y decirle unas palabras de tio amistoso y bondadoso. Yo puedo entenderle, yo soy como la madre. Soy el túmulo de mi existencia juvenil, enrollado en un panqueque de desatinados.
-=> Soy la hostia y la narnja mecánica que habita en la pubertad de los viejos seres.
-=> Luego le pregunto qué va a hacer cuando llegue a la ciudad.
+> Poner mi mano sobre su hombro y decirle unas palabras de tio amistoso y bondadoso. Yo puedo entenderle, yo soy como la madre. Soy el túmulo de mi existencia juvenil, enrollado en un panqueque de desatinados.
+> Soy la hostia y la narnja mecánica que habita en la pubertad de los viejos seres.
+> Luego le pregunto qué va a hacer cuando llegue a la ciudad.
 
 17:46 HS
 
@@ -1270,7 +1270,7 @@ Podés ver como lentamente se vé unas torres a lo lejos y de a poco comienza a 
 "Estamos a menos de media hora Gon, Dan. Ya vamos a llegar." Dice su amigable conductor y luego se queda prestando atención adelante.
 ¿Qué hacer ahora?
 
-=> Ahora mismo me gustaría saber qué pretender hacer Ursu. Y comer algo :O
+> Ahora mismo me gustaría saber qué pretender hacer Ursu. Y comer algo :O
 
 18:53 HS
 
@@ -1282,7 +1282,7 @@ Finalmente están pasando un par de torres de vigilancia y la carreta comienza a
 Mirás al cielo y ves que lentamente está atardeciendo y se comienza a ver de a poco la Luna, en la cual también notás que tiene un crater importante. (Habrá sido Vash...)
 ¿Qué hacer?
 
-=> Le pregunto a Ivan dónde está el puerto. Luego uhh me despido de él??
+> Le pregunto a Ivan dónde está el puerto. Luego uhh me despido de él??
 
 -28 de Diciembre 2013-
 
@@ -1304,12 +1304,12 @@ Te da la mano y cuando está a punto de darle la mano a Dante, este se hace el d
 * Preguntarte a vos mismo porque el nombre de esa calle te parece taaaan familiar...
 * AMC
 
-=> Deberia conseguir un arma nueva
-=> Entonces le digo a ursu que voy a buscar algunas cosas, y que si quiere acompañarme
-=> Tambien le doy la opcion de venir conmigo
-=>  (Me voy a ir por los teshos guasho
-=> Si ella no viene
-=> Voy por los techos :3
+> Deberia conseguir un arma nueva
+> Entonces le digo a ursu que voy a buscar algunas cosas, y que si quiere acompañarme
+> Tambien le doy la opcion de venir conmigo
+>  (Me voy a ir por los teshos guasho
+> Si ella no viene
+> Voy por los techos :3
 
 16:57 HS
 
@@ -1351,10 +1351,10 @@ En su entusiasmo prácticamente te arrastra hacia esa punta del local.
 * ¡La falcata! ¡Oí que hasta es mas piola que la katana por la curvatura!... además se ve re piola >=]
 * AMC
 
-=> La falcata papa
-=> Y el katar
-=> El tema es el precio
-=> Porque creo que no cuento con nada jajaj
+> La falcata papa
+> Y el katar
+> El tema es el precio
+> Porque creo que no cuento con nada jajaj
 
 18:10 HS
 
@@ -1368,10 +1368,10 @@ El hombre se te queda mirando un rato desde sus dos metros de altura, como proba
 * Si me das la mano de tu hija en matrimonio!
 * AMC
 
-=> ARMAS GRATIIISSS
-=> Bueno, adevtnura!!
-=> Le digo que acepto, y le pregunto que hago
-=> Luego le digo que necesito saber sobre un encapuchado blanco
+> ARMAS GRATIIISSS
+> Bueno, adevtnura!!
+> Le digo que acepto, y le pregunto que hago
+> Luego le digo que necesito saber sobre un encapuchado blanco
 
 18:26 HS
 
@@ -1384,9 +1384,9 @@ Te mira un rato y luego extiende la mano.
 Ursula ni siquiera quiere decir algo y posiblemente tampoco participar.
 ¿Qué hacer/decir?
 
-=>Bueno, me acerco a Ursu, no hace falta aclararle más cosas. Le digo que por la noche iré a la casa de dicho sujeto. =)
-=> Luego le pregunto al hombre sobre el encapuchado
-=> :O
+>Bueno, me acerco a Ursu, no hace falta aclararle más cosas. Le digo que por la noche iré a la casa de dicho sujeto. =)
+> Luego le pregunto al hombre sobre el encapuchado
+> :O
 
 23:22 HS
 
@@ -1404,8 +1404,8 @@ Le agradecés, le decís que al día siguiente va a tener su espada y salís del
 "¡Bien! ¡Ta sabemos donde buscar!" Te contesta Ur.
 ¿Qué hacer?
 
-=> Comienzo a buscar herrerias :3
-=> Asi mismo le pregunto a joey como podriamos hacer para vonseguir la espada, le comento que podria ir a la noche colandome en la casa, pero los guardias me ponen nercioso. Quiero que joey me consuele (?
+> Comienzo a buscar herrerias :3
+> Asi mismo le pregunto a joey como podriamos hacer para vonseguir la espada, le comento que podria ir a la noche colandome en la casa, pero los guardias me ponen nercioso. Quiero que joey me consuele (?
 
 -29 de diciembre 2013-
 
@@ -1427,8 +1427,8 @@ Si pudieses ver e lrostro de Ursula, estarías seguro que rebosaría de felicida
 * Abrazar también a momia/herrero
 * AMC
 
-=> Abrazo a ursu, luego al muchacho momia.
-=> Luego le digo a ursu que esta noche tengo que hacer mi mision :/ que si quiere, ella descanse y partimos al siguiente dia
+> Abrazo a ursu, luego al muchacho momia.
+> Luego le digo a ursu que esta noche tengo que hacer mi mision :/ que si quiere, ella descanse y partimos al siguiente dia
 
 1:16 HS
 
@@ -1444,7 +1444,7 @@ Ya el sol comienza a ocultarse, lo cual indica que ta deben buscar un lugar dond
 * Confesarte ante Ursula y pedir su mano en matrimonio.
 * AMC
 
-=> En un intento de cortar mi pie con el hacha, me lastimo la mano a causa de la ausencia de dichosa arma. Le digo a ursu que es genial y que su capucha deberia tener escrito algo con saliva, luego me trepo a un arbol para buscar una posada, en vez de preguntar de forma rapida y eficaz
+> En un intento de cortar mi pie con el hacha, me lastimo la mano a causa de la ausencia de dichosa arma. Le digo a ursu que es genial y que su capucha deberia tener escrito algo con saliva, luego me trepo a un arbol para buscar una posada, en vez de preguntar de forma rapida y eficaz
 
 1:32 HS
 
@@ -1456,7 +1456,7 @@ Pese a toda esta prosa inservible, lográs algo. A la distancia crees ver una ta
 Te bajás del árbol y en pos triunfante, Ur, Joey y vos se dirigen a la taberna.
 ¿Hacer/decir algo?
 
-=> Bueno, yendo hacia la taberna le digo a ur que pida una habitacion para ella nada mas, yo me encargare de la mision. Le digo de paso que le llevare algpo de morfi :)
+> Bueno, yendo hacia la taberna le digo a ur que pida una habitacion para ella nada mas, yo me encargare de la mision. Le digo de paso que le llevare algpo de morfi :)
 
 1:54 HS
 
@@ -1468,7 +1468,7 @@ Te quedás sentado en un banco, viendo de reojo la casa mientras dos chabones al
 Notás que los guardias patrullan por allí cada un determinado tiempo el cual sacás uqe es aproximadamente 10 minutos. Te preparás mentalmente y repasas tu plan otra vez.
 ¿Cual era tu plan?
 
-=> Noto un aire frio, esta vez tirar a joey sería ponerlo en peligro, por lo que me propongo a irrumpir en la casa. Me acerco a los dos borrachos y les comento que los guardias andaban hablando pavadas de ellos, intentare desviar la atención para poder entrar por la pared y colarme.
+> Noto un aire frio, esta vez tirar a joey sería ponerlo en peligro, por lo que me propongo a irrumpir en la casa. Me acerco a los dos borrachos y les comento que los guardias andaban hablando pavadas de ellos, intentare desviar la atención para poder entrar por la pared y colarme.
 
 2:01 HS
 
@@ -1476,7 +1476,7 @@ Luego de preparar tu plan de intrución, lo ponés en acción inmediatamente.
 Le decís a los dos borrachos que los guardias están diciendo calumnias de ellos.
 Caen perfectamente y ves que se acercan al guardia que ya se alejó algo y llegás a escuchar a uno de los borrachos diciendo. "No te me hagash el loco vosh eh. ¡¿Que me veni' a calumnia'?!"
 
-=> Bueno, me meto en la casa y me escondo donde puedo
+> Bueno, me meto en la casa y me escondo donde puedo
 
 Vos aprovechás y corrés hacia la pared para luego treparla relativamente bien, aunque lo has hecho mejor.
 Ahora, en frente de la ventana, intentás abrir el pestillo con ayuda de tu cuchillo.
@@ -1489,8 +1489,8 @@ Ves fuera de la ventana que a lo lejos los borrachos siguen discutiendo sobre co
 Bajás con cuidado y desaparecés en las sombras como un verdadero ladrón maestro.
 ¿Qué hacer ahora?
 
-=> Bueno, ahora escribo con saliva mi fotolog en la pared y prosigo a alejarme
-=> Voy a la taberna a preguntarle al jefe en cual habitacion esta dante :o
+> Bueno, ahora escribo con saliva mi fotolog en la pared y prosigo a alejarme
+> Voy a la taberna a preguntarle al jefe en cual habitacion esta dante :o
 
 2:25 HS
 
@@ -1501,10 +1501,10 @@ No entendés a donde quiere llegar.
 "Deberías... evitar correr tantos riesgos." Dice luego, lo cual te parece adorable dado que se preocupa por vos.
 ¿Qué hacer/decir ahora?
 
-=> :o pobre ursu, tiene un gran sentido de la moral
-=> De ahora en adelante me andate con duidado
-=> Le pido disculpas a uRsu y le doy lo que consegui de comida
-=> Luego doy vueltas en un lugar especifico del suelo y me acuesto de forma curvada, como un perro
+> :o pobre ursu, tiene un gran sentido de la moral
+> De ahora en adelante me andate con duidado
+> Le pido disculpas a uRsu y le doy lo que consegui de comida
+> Luego doy vueltas en un lugar especifico del suelo y me acuesto de forma curvada, como un perro
 
 2:48 HS
 
@@ -1525,9 +1525,9 @@ Ur sigue durmiendo tranquilamente.
 * Despertarla cuidadosamente y de la única manera que un amigo cool despertaría a una chica genial y encapuchada.
 * AMC
 
-=> Decido dormir otros 5 minutos, la verdad es que me siento con paja
-=> Luego me lecanto para comer algo y quitarme el extraño sabor de la boca
-=> Y tomo la espada para verla
+> Decido dormir otros 5 minutos, la verdad es que me siento con paja
+> Luego me lecanto para comer algo y quitarme el extraño sabor de la boca
+> Y tomo la espada para verla
 
 3:02 HS
 
@@ -1539,7 +1539,7 @@ Ves que Ur se mueve en su cama y finalmente despierta.
 Se acomoda la capucha y se levanta de la cama.
 ¿Qué hacer/decir?
 
-=> Le pregunto por que sigue encapuchada incluso estando en la habitacion :o
+> Le pregunto por que sigue encapuchada incluso estando en la habitacion :o
 
 10:31 HS
 
@@ -1553,8 +1553,8 @@ Ahora no estás seguro que dijiste, pero sabés que Joey siempre tiene la razón
 * Comerte a Joey (monstruo)
 * AMC
 
-=> LE DOY UN ABRAZO DE TIO TE ENTIENDO Y SOY TU COLEGA CHAVAL
-=> Y edespues le digo que me acomañe a vuscar el arma, asi partimos al muelle de una vez
+> LE DOY UN ABRAZO DE TIO TE ENTIENDO Y SOY TU COLEGA CHAVAL
+> Y edespues le digo que me acomañe a vuscar el arma, asi partimos al muelle de una vez
 
 15:47 HS
 
@@ -1568,7 +1568,7 @@ No sabés como agradecérselo, solo atinás a decirle gracias en el momento.
 Ursu también parece sorprendida por la brillantés de la espada.
 ¿Qué hacer ahora?
 
-=> Guardo mi espada y le digo a ursu que vayamos al muelle a buscar a este pescador
+> Guardo mi espada y le digo a ursu que vayamos al muelle a buscar a este pescador
 
 16:52 HS
 
@@ -1584,7 +1584,7 @@ Un viejo señor curtido por los años de mar los saluda.
 "¡Bien! ¿Lo hacemos Gonzalos?" Te dice Ursula emocionada.
 ¿Qué hacer/decir?
 
-=> Claro! Hagamoslo! Tomo a joey y lo tiro hacia el barco :D luego prosigo a saltar y colgarme del borde
+> Claro! Hagamoslo! Tomo a joey y lo tiro hacia el barco :D luego prosigo a saltar y colgarme del borde
 
 19:37 HS
 
@@ -1597,7 +1597,7 @@ Ursula se queda mirandote a vos y al pescador alternaticamente sin saber que dec
 * Cometer suicidio japonés con tu cuchillo.
 * AMC
 
-=> Subo a bordo, y me trepo a lo mas alto del barco, para ver si encuentro alguna taberna en el mar
+> Subo a bordo, y me trepo a lo mas alto del barco, para ver si encuentro alguna taberna en el mar
 
 22:27 HS
 
@@ -1610,7 +1610,7 @@ El encapuchado, Dante. Trapea."
 Dice el pescador.
 ¿Qué hacer/decir?
 
-=> Bueno, me propongo a hacer lo que me dijo. Mientras tanto hablo con joey porque se me torna muy aburrido. Observo lo que hace mi amigo ursula, digo, mi amiga Dante
+> Bueno, me propongo a hacer lo que me dijo. Mientras tanto hablo con joey porque se me torna muy aburrido. Observo lo que hace mi amigo ursula, digo, mi amiga Dante
 
 23:21 HS
 
@@ -1623,9 +1623,9 @@ El pescador mientras, libera unas redes. Te mira desde abajo y te grita.
 "¡Liberá la vela mayor! ¡La que tenés al lado tuy!"
 ¿Qué hacer ahora?
 
-=> PELO LA ESPADA Y LE DOY UN ABRAZO DE TIO CHULO A LA VELA MAYOR
-=> Y despues vuelvo a guardarme la espada y libero a la vela
-=> Haaciendo eso me tiro hacia abajo para precuntarle a ursu entra susurros si no tiene calor
+> PELO LA ESPADA Y LE DOY UN ABRAZO DE TIO CHULO A LA VELA MAYOR
+> Y despues vuelvo a guardarme la espada y libero a la vela
+> Haaciendo eso me tiro hacia abajo para precuntarle a ursu entra susurros si no tiene calor
 
 23:58 HS
 
@@ -1643,8 +1643,8 @@ Continúa el viaje con tranquilidad y luego de un rato el pescador los llama y l
 
 -30 de diciembre 2013-
 
-=> Tiro una red a donde me diga que haya que tirarla, y ademas le paso a ursu a joey
-=> Para que hablen un rato, se ve aburrida!
+> Tiro una red a donde me diga que haya que tirarla, y ademas le paso a ursu a joey
+> Para que hablen un rato, se ve aburrida!
 
 0:42 HS
 
@@ -1660,8 +1660,8 @@ Básicamente no pasa nada que merezca realmente mención en este tramo del traye
 * Saltar al agua desde allí arriba y hacer un clavado impresionante.
 * AMC
 
-=> Pues me trepo y hago un clavado impresionante, solo porque por que no?
-=> Luego me vuelvo a subir y le digo al narrador que acelere el viaje asi seguimos JAJAJ
+> Pues me trepo y hago un clavado impresionante, solo porque por que no?
+> Luego me vuelvo a subir y le digo al narrador que acelere el viaje asi seguimos JAJAJ
 
 1:05 HS
 
@@ -1678,7 +1678,7 @@ Finalmente llegás a ver lo que hace bastante estabas esperando. Tierra firme. E
 * Gritar "La Tierra avista?"
 * AMC
 
-=> Grito algo en un persa inventado para alertar a todos. Luego aclaro que vi tierra
+> Grito algo en un persa inventado para alertar a todos. Luego aclaro que vi tierra
 
 Gritás " ???? ??? á???? ????? " y ves como el trapeador vuela majestuosamente por el aire y te da en la cara, haciendote caer en la pila de pescados. El viejo les dice contento "Ya estamos a poca distancia del muelle jovenes. En poco tiempo vamos a llegar." Luego te mira a vos y te regaña. "Dejá de holgazanear en ese montón de pescados y plegá las velas de una vez, Gonzalo."
 Finalmente al anclar el barco en el muelle, el dueño de este los saluda "Ah sido un viaje muy interesante, ojala nos veamos otra vez. Adiós chicos."
@@ -1687,7 +1687,7 @@ Supongo que a una taberna, llegamos a estas horas mas o menos. Ya era de noche c
 Se acerca a vos y te dice "Tenemos que buscar una taberna y de paso preguntar si el... Gonzalo... apestás a pescado." Lo último lo dice con algo de asco.
 ¿Qué hacer/decir ahora?
 
-=> Ahora mismo me acerco para darle un abrazo UEESA TRANQUILA CHAVALA, QUE SOLO ES UNA BROMA DE TIO MAJO. Le digo a Ursu que busquemos una taberna y de paso un lugar donde bañarme
+> Ahora mismo me acerco para darle un abrazo UEESA TRANQUILA CHAVALA, QUE SOLO ES UNA BROMA DE TIO MAJO. Le digo a Ursu que busquemos una taberna y de paso un lugar donde bañarme
 
 19:40 HS
 
@@ -1705,8 +1705,8 @@ Te despertaste antes que la flaca, este lugar te re cagó tus horarios de sueño
 "¿Qué vas a hacer ahora che?"
 "Una sugerencia chabón, comé algo que Ursu no se despierta."
 
-=> Bueno, creo que ahora sería buena idea tirarse por la ventana y ver a donde caigo
-=> Para luego pregutnarle a la gente sobre el encapuchado y darle a ursu las sorpresas
+> Bueno, creo que ahora sería buena idea tirarse por la ventana y ver a donde caigo
+> Para luego pregutnarle a la gente sobre el encapuchado y darle a ursu las sorpresas
 
 23:53 HS
 
@@ -1721,12 +1721,12 @@ La chica se te queda mirando un rato, tiene una especie de túnica rara y un air
 
 -31 de Diciembre 2013-
 
-=> Bueno, me lecanto y recito la siguiente poesía:
-=> "De ser yo un objeto de irascibilidad; dejaré que las nubes miren en mis desdicha, de ser así propio corazón recaerá en lo sucedido, y le suplicaré su perdón, bella señorita.
-=> Luego me propongo decirle
-=> "Siento lo de vuestro grimorio, mi estimada; si alguna vez pudiera to demostrarle mi minimización, hágame saber como
-=> Y estaré encantado en remediar mis errores
-=> Luego me trepo hacia mi ventana para tirarme de nuebo sobre algo que no sea una persona
+> Bueno, me lecanto y recito la siguiente poesía:
+> "De ser yo un objeto de irascibilidad; dejaré que las nubes miren en mis desdicha, de ser así propio corazón recaerá en lo sucedido, y le suplicaré su perdón, bella señorita.
+> Luego me propongo decirle
+> "Siento lo de vuestro grimorio, mi estimada; si alguna vez pudiera to demostrarle mi minimización, hágame saber como
+> Y estaré encantado en remediar mis errores
+> Luego me trepo hacia mi ventana para tirarme de nuebo sobre algo que no sea una persona
 
 0:31 HS
 
@@ -1739,8 +1739,8 @@ Luego de escuchar eso y sentirte mas tranquilo, te trepás en tu ventana y repet
 La chica, la cual estaba por partir al verte regresar a tu habitación, se paró y se quedó mirandote con curiosidad.
 ¿Qué hacer/decir ahora?
 
-=> Darle un abrazo a la chica, para luego decirle
-=> Sé que vuestros caminos y los míos son páramos en una extensa pradera, pero sendos pueden cruzarse en tanto haya conexión destinataria. Viste a algun encapuchado de blacno por aca?
+> Darle un abrazo a la chica, para luego decirle
+> Sé que vuestros caminos y los míos son páramos en una extensa pradera, pero sendos pueden cruzarse en tanto haya conexión destinataria. Viste a algun encapuchado de blacno por aca?
 
 0:57 HS
 
@@ -1754,7 +1754,7 @@ La chica abre su bolso y busca algo, para luego tenderte un ejemplar de las noti
 "Tal vez este artículo sirva para despejar el nublado firmamento de curiosidad en tu cabeza." Agrega la joven y se queda esperando una respuesta.
 ¿Qué hacer/decir ahora?
 
-=> Le pido el diario a la mina para leerlo. Luego le agradezco en un gesto de total sinceridad, y le digo que la capucha se ve seca
+> Le pido el diario a la mina para leerlo. Luego le agradezco en un gesto de total sinceridad, y le digo que la capucha se ve seca
 
 14:03
 
@@ -1770,7 +1770,7 @@ El asesinato fue el día que aquel hombre se cruzó en mi camino, mismo en el cu
 * Bailar Gangnam Style para impresionarla.
 * AMC
 
-=> Le comento que ese sujeto hizo algo muy malo y que merece pagar y esas cosas, y que mas que nada hago todo esto para ayudar a una amiga. Luego le pregunto si practica magia arcana
+> Le comento que ese sujeto hizo algo muy malo y que merece pagar y esas cosas, y que mas que nada hago todo esto para ayudar a una amiga. Luego le pregunto si practica magia arcana
 
 16:08 HS
 
@@ -1789,8 +1789,8 @@ Fue un placer haber cruzado camino contigo." Se despide la chica misteriosa.
 * Hacer el baile del Gangnam Style. ¡Aún estás a tiempo para impresionarla!
 * AMC
 
-=> Quiero saber su nombre antes de que se vaya D:
-=> Y luego ire a donde ursu para copmentarle lo ue me dijo la hechicera
+> Quiero saber su nombre antes de que se vaya D:
+> Y luego ire a donde ursu para copmentarle lo ue me dijo la hechicera
 
 16:47 HS
 
@@ -1802,7 +1802,7 @@ Le contás lo que hablaste hace un rato con la hechicera y ella pega un saltito 
 "¿Dónde se te ocurra ahora preguntar? ¿En tabernas, en el muelle o en algún otro sitio?"
 ¿Qué hacer/decir?
 
-=> Le digo a ur que vayamos a preguntar en el mismo lugar donde imprimieron el diario (o lo que sea que hayan hecho con el mismo), o a cualquier lugar que tenga que ver con la guadia de ka ciudad
+> Le digo a ur que vayamos a preguntar en el mismo lugar donde imprimieron el diario (o lo que sea que hayan hecho con el mismo), o a cualquier lugar que tenga que ver con la guadia de ka ciudad
 
 18:29 HS
 
@@ -1814,7 +1814,7 @@ Luego de varias vueltas, finalmente llegan a su destino. Un edificio bastante gr
 "Bien, llegamos pero... esto no es lo que me esperaba." Te dice Ur.
 ¿Qué hacer/decir ahora?
 
-=> Agarro a joey y lo tiro a traves de la puerta, luego me meto yo y pregunto por el dueño del lugar gritando desaforadamente
+> Agarro a joey y lo tiro a traves de la puerta, luego me meto yo y pregunto por el dueño del lugar gritando desaforadamente
 
 22:47 HS
 
@@ -1829,9 +1829,9 @@ Finalmente Ur se acerca al tipo y le dice. "Disculpe, queríamos hacerle algunas
 
 -1 de Enero 2014-
 
-=> Imponente, le digo al hombre
-=> USTED!! CUENTEME QUE SABE DE ESTO
-=> Luego me acerco y le doy un abraza de VAMOS TIO ANIMATE
+> Imponente, le digo al hombre
+> USTED!! CUENTEME QUE SABE DE ESTO
+> Luego me acerco y le doy un abraza de VAMOS TIO ANIMATE
 
 12:52 HS
 
@@ -1849,7 +1849,7 @@ El tipo toma las noticias y se pone sus anteojos, para luego comenzar a leerlas 
 Pero Ursu se acerca al escritorio rápidamente y dice. "¡Si que podemos! ¡Solo díganos que hacer!" Y luego la chica te mira a vos esperando una respuesta.
 ¿Qué hacer/decir ahroa?
 
-=> Apoyo a mi amiga completamente (aparte nada malo puede pasar si joey me acompaña, que va, es un tio de la hostiaputa). Me acerco y en un cambio de personalidad a modo serio, le digo al hombre que si, que nos cuente de que se trata.
+> Apoyo a mi amiga completamente (aparte nada malo puede pasar si joey me acompaña, que va, es un tio de la hostiaputa). Me acerco y en un cambio de personalidad a modo serio, le digo al hombre que si, que nos cuente de que se trata.
 
 13:20 HS
 
@@ -1873,9 +1873,9 @@ Nicholai Raskólnikov."
 * AMC
 * (Bonus) Hacer el Harlem Shake, parado de manos, mientras te comés el documento.
 
-=> Amago con comerme el documento, pero luego les hago notar a joey y a ursu que VAMOS ILLA SOLO ES UNA BROMA
-=> Miro el nombre del inventor y me remite a un afro muy enrulado. Me fijo la direccion y encaro para alla.
-=> Tengo un plan...
+> Amago con comerme el documento, pero luego les hago notar a joey y a ursu que VAMOS ILLA SOLO ES UNA BROMA
+> Miro el nombre del inventor y me remite a un afro muy enrulado. Me fijo la direccion y encaro para alla.
+> Tengo un plan...
 
 16:21 HS
 
@@ -1899,8 +1899,8 @@ Los dos nuevamente hicieron el mismo gesto diciendo "No."
 Ursu se cruza de brazos, se gira para un lado y escuchas un "¡Arrrgh!"
 ¿Qué hacer/decir ahora?
 
-=> Me acerco y les digo a los guardias
-=> “Tengo algo que impresionara al señor nicholai, se trata de un diseño propio que deseo ofrecerle. Si ustedes no me dan el paso pues es justo y apropiado que sean despedidos, señores.”
+> Me acerco y les digo a los guardias
+> “Tengo algo que impresionara al señor nicholai, se trata de un diseño propio que deseo ofrecerle. Si ustedes no me dan el paso pues es justo y apropiado que sean despedidos, señores.”
 
 -2 de Enero 2013-
 
@@ -1913,7 +1913,7 @@ Caminan por la senda revestida de adoquines hasta la puerta de la mansión, la c
 El recibidor en el cual entraste es bastante grande. Tiene unos sillones que se ven realmente cómodos, algunas pequeñas mesitas y otras tonterías.
 ¿Qué hacer/decir ahora?
 
-=> Le digo que lo que mas deseo es la paz mundial; luego arino a decir que le de los lujos a mi amigo dante, ta que yo desayune
+> Le digo que lo que mas deseo es la paz mundial; luego arino a decir que le de los lujos a mi amigo dante, ta que yo desayune
 
 2:43 HS
 Le decís que lo que te gustaría pedir es paz mundial, con un poco de azúcar. Luego, le comentás que tu amigo Dante no tuvo la oportunidad de desayunar y que lo atienda a él.
@@ -1929,10 +1929,10 @@ Una voz interrumpe tus pensamientos.
 “Asi que, ¿Quiénes son ustedes?” Pregunta mientras apoya sus manos en el respaldo de uno de lso sillones con una sonrisa algo imperceptible.
 ¿Qué hacer/decir ahora?
 
-=> “Justo como su nombre, perspicaz e. Imponente”
-=> Dicho eso, me levanto a saludar a mi idolo
-=> “Estoy complacido de hablar con usted, señor nicho -si me permite decirle de ese modo- estamos aqui porque tengo ciertas ideas rondando en mi mente, y se que usted podria suplirlas”
-=> Me acerco y le doy un abrazo al mayordomo
+> “Justo como su nombre, perspicaz e. Imponente”
+> Dicho eso, me levanto a saludar a mi idolo
+> “Estoy complacido de hablar con usted, señor nicho -si me permite decirle de ese modo- estamos aqui porque tengo ciertas ideas rondando en mi mente, y se que usted podria suplirlas”
+> Me acerco y le doy un abrazo al mayordomo
 
 -3 de Enero 2014-
 
@@ -1949,7 +1949,7 @@ Nicho sonríe y a la vez frunce un poco el seño.
 “Bien, ahora que dejaste de abrazar a mi amo de llaves. ¿Qué son esas ideas de las que hablabas?” Hace una pausa y los mira a los dos, para luego decir. “Aunque podrían comenzar diciéndome sus nombres. ¿No les parece?”
 ¿Qué hacer/decir ahora?
 
-=> Le digo a nicho que soy gonza, y que mi amigo es dante, y me mi idea se trata de un disparador de dardos a presion con vapor
+> Le digo a nicho que soy gonza, y que mi amigo es dante, y me mi idea se trata de un disparador de dardos a presion con vapor
 
 -7 de Enero 2014-
 
@@ -1967,9 +1967,9 @@ Ves a Nicho sonreir combinando la omponente sonrisa de un chico genial y cool co
 “No entendí nada Gonza, ¡Pero sonó muy genial todo!” Dice Joey contento.
 ¿Qué hacer/decir ahora?
 
-=> Le digo a nicho que también pensé en las dimensiones, y que quizá se podría realizar un dispositibo el cual pueda mantener el vapor, algo así como un tanque, el cual haga las de caldera.
-=> Le hago un bocero rápido y muy siome de lo que sería mi idea
-=> Luego coloco a Joey sobre la mesa. Que va tío, si es tan bestial.
+> Le digo a nicho que también pensé en las dimensiones, y que quizá se podría realizar un dispositibo el cual pueda mantener el vapor, algo así como un tanque, el cual haga las de caldera.
+> Le hago un bocero rápido y muy siome de lo que sería mi idea
+> Luego coloco a Joey sobre la mesa. Que va tío, si es tan bestial.
 
 15:32 HS
 
@@ -1986,9 +1986,9 @@ Mientras Ursu y Joey miran sin entender mucho de que están hablando. La encapuc
 * También podrías convencer a Nicho por medio de tu genial carisma e inventiva que parece ser que es mejor que la mía, diciendole que es tan genial e inteligente que debería ser entrevistado y ofrecerte a llevarlo. O que debería ver las máquinas de la imprenta.
 * AMC( A bue... a bue... yo me voy a la mierda! *se escuchan pasos alejándose y un portazo.*)
 
-=> JAJAJAJAJAJAJ
-=> Le digo a nicho que mi amigo dante es también un ferviente admirador, y que me acompañó aquí porque supuso que quizá sería tan amable de orotgarle una entrevista.
-=> (Este era el plan que tenía :$)
+> JAJAJAJAJAJAJ
+> Le digo a nicho que mi amigo dante es también un ferviente admirador, y que me acompañó aquí porque supuso que quizá sería tan amable de orotgarle una entrevista.
+> (Este era el plan que tenía :$)
 
 19:14 HS
 
@@ -2023,9 +2023,9 @@ Ibamos a ver a uno de los hombres del papel cuando por un desliz caés sobre una
 * Algo Mas Creativo.”
 ...
 
-=> A abrazar se a dicho!!
-=> Y luego le presento a joey
-=> :3
+> A abrazar se a dicho!!
+> Y luego le presento a joey
+> :3
 
 21:49 HS
 
@@ -2046,9 +2046,9 @@ Ursu mira y adivinás que está algo impaciente, dado que está cruzada de brazo
 * Finalmente lo hacés. Finalmente interpretás la fanza del Gangnam Style!!!!!1
 * AMC
 
-=> FINALMENTE
-=> Combino el gangnam style con el saturday night fevern!!!!
-=> Y luego le explico que solo algunos problemas menores
+> FINALMENTE
+> Combino el gangnam style con el saturday night fevern!!!!
+> Y luego le explico que solo algunos problemas menores
 
 23:35
 
@@ -2064,8 +2064,8 @@ Despertás recostado en el banco de la plaza, Annete y Ursula están a tu lado. 
 
 ¿Qué hacer/decir ahora?
 
-=> Pregunta qué chota pasó jajajaj
-=> Porque no entiendo nada ajaj
+> Pregunta qué chota pasó jajajaj
+> Porque no entiendo nada ajaj
 
 -8 de Enero 2014-
 
@@ -2080,8 +2080,8 @@ La hechicera la observa un rato mas y luego te mira a vos. “Aún cuando un con
 
 ¿Qué vas a hacer/decir ahora?
 
-=> Primero pregunto qué día es.
-=> Luego me levanto y le digo a Ur que tenemos que ir donde estos muchachos que todo lo saben y todo lo ven.
+> Primero pregunto qué día es.
+> Luego me levanto y le digo a Ur que tenemos que ir donde estos muchachos que todo lo saben y todo lo ven.
 
 22:14 HS
 
@@ -2092,7 +2092,7 @@ La encapuchada asiente y están por emprender el viaje cuando ves a Annete y te 
 
 ¿Qué hacer/decir ahora?
 
-=> Abrazo a ursu y le pregunto si le molestaria tener una compañera, todo esto en susurros
+> Abrazo a ursu y le pregunto si le molestaria tener una compañera, todo esto en susurros
 
 23:25 HS
 
@@ -2101,11 +2101,11 @@ Te acercás y mientras abrazás a Ursu, la cual agarraste desprevenida y no pudo
 
 ¿Qué hacer/decir ahora?
 
-=> Pero le digo que NO
-=> Poque seriamos ya como 8 personas
-=> Que no tio
-=> Que no
-=> Luego me trepo y grito que se trata de un chiste, y me acerco a la hechicera para preguntarle si se une
+> Pero le digo que NO
+> Poque seriamos ya como 8 personas
+> Que no tio
+> Que no
+> Luego me trepo y grito que se trata de un chiste, y me acerco a la hechicera para preguntarle si se une
 
 -9 de Enero 2014-
 
@@ -2123,8 +2123,8 @@ Luego de caminar un rato, llegaron a la puerta y te preparás para entrar.
 
 ¿Qué hacer/decir ahora?
 
-=> Primero, claramente, tiro a Joey, luego entro to chulo gritando cosas e nun idioma natal
-=> Me acerco al tabernero y le pido un vaso de leche
+> Primero, claramente, tiro a Joey, luego entro to chulo gritando cosas e nun idioma natal
+> Me acerco al tabernero y le pido un vaso de leche
 
 -10 de Enero 2014-
 
@@ -2151,8 +2151,8 @@ Te da el baso de leche. Notás que Ur y Annete entraron luego del incidente y es
 
 -13 de Enero 2014-
 
-=> Pregutno por ricardo estrada, y le digo a ur que se acerque a mi porque oye tio, porque si
-=> (Y pongo a joey sobre la barra
+> Pregutno por ricardo estrada, y le digo a ur que se acerque a mi porque oye tio, porque si
+> (Y pongo a joey sobre la barra
 
 -16 de Enero 2014-
 
@@ -2177,9 +2177,9 @@ Sentís una manota en el hombre. “Ese era Ricardo...” Te dice el tabernero.
 
 ¿Qué hacer/decir ahora?
 
-=> Primero le foy un abrazo a ursu, para que se calme
-=> Luego tomo a joey y le digo al tabernero que nosotros nos encargaremos de el,
-=> Tomo a ricardo y lo cargo incosciente hacia afuera, para buscar algun callejon en e lque atarlo a algun poste o lo que sea
+> Primero le foy un abrazo a ursu, para que se calme
+> Luego tomo a joey y le digo al tabernero que nosotros nos encargaremos de el,
+> Tomo a ricardo y lo cargo incosciente hacia afuera, para buscar algun callejon en e lque atarlo a algun poste o lo que sea
 
 -20 de Enero 2014-
 
@@ -2198,8 +2198,8 @@ Encontrás un callejón y lo llevás ahí, para luego dejarlo en el suelo, aún 
 
 ¿Qué hacer/decir ahora?
 
-=> Les pregunto a las chicas si tienen soga, o alguna forma de atarlo.
-=> Quiero despertarlo y obligarle a que hable
+> Les pregunto a las chicas si tienen soga, o alguna forma de atarlo.
+> Quiero despertarlo y obligarle a que hable
 
 14:31 HS
 
@@ -2220,7 +2220,7 @@ Esperás y al rato se despierta.
 
 ¿Qué hacer/decir ahora?
 
-=> Le digo al IDIOTA DE SAN ESTUPIDO que debe hablarme sobre algun encapuchado de blando, y disculparse ante ursu si quiere seguir viviento. Tenemos libros. Amigo, MUCHOS libros...
+> Le digo al IDIOTA DE SAN ESTUPIDO que debe hablarme sobre algun encapuchado de blando, y disculparse ante ursu si quiere seguir viviento. Tenemos libros. Amigo, MUCHOS libros...
 
 -24 de Enero 2014-
 
@@ -2244,9 +2244,9 @@ Aún están a mas o menos dos metros. El callejón es ancho como tres personas.
 * Gritarles en turco e italiano a lo loco mientras te golpeas el pecho.
 * DMC. Digo, AMC
 
-=> Opto por gritar e intentar hacerme el loco
-=> En italiano y turco
-=> Quiero ver la reaccion, si no gunciona, desenvaino
+> Opto por gritar e intentar hacerme el loco
+> En italiano y turco
+> Quiero ver la reaccion, si no gunciona, desenvaino
 
 15:31 HS
 
@@ -2277,7 +2277,7 @@ Senreís para vos mismo y Joey te felicita por un trabajo bien hecho.
 -Habilidad aprendida: Canalizar la Locura I-
 Ganás un exito automáticamente ne las tiradas de intimidación, pero los 2 cuentan como 1 y se le restan a cualquier exito si salen.
 
-=> Antes de abrazar a nadie, me acerco al flaco con una seriedad extrema y me le pongo al lado, mirandolo fijamente. “HABLA”
+> Antes de abrazar a nadie, me acerco al flaco con una seriedad extrema y me le pongo al lado, mirandolo fijamente. “HABLA”
 
 -2 de Febrero 2014-
 
@@ -2298,10 +2298,10 @@ Hace una pausa y luego te dice “Mostrale como ahcemos para viajar mas ligeros,
 * Hacerle caso a Joey. El siempre tiene la razón.
 * Hacerle caso a Joey, de una manera mas creativa.
 
-=> Le hago caso a joey. Quiero oir todo. Si este sujeto frecuenta los techos, lo tendre en cuenta *-*
-=>Piso fuerte contra el suelo, al lado dle chabon
-=> Y le grito que me diga todo
-=> *-*
+> Le hago caso a joey. Quiero oir todo. Si este sujeto frecuenta los techos, lo tendre en cuenta *-*
+>Piso fuerte contra el suelo, al lado dle chabon
+> Y le grito que me diga todo
+> *-*
 
 13:16 HS
 
@@ -2318,10 +2318,10 @@ Tal vez deberías dejar al tipo en paz y seguir sus direcciones o convencerlo de
 
 ¿Qué hacer/decir ahora?
 
-=> Bien, tampoco soy un rufian. Decido dejarle atado y marcharme.
-=> Algo me dice que. Tampoco es un mal tipo
+> Bien, tampoco soy un rufian. Decido dejarle atado y marcharme.
+> Algo me dice que. Tampoco es un mal tipo
 
-==> Antes de irme pego un fuerte e indecoroso grito al cielo, demostrando lo valiente y audaz que soy. Finalmente decido averiguar como llego a este pueblo de pexcadores, asi que le pregunto a alguna de mis acompañantes sibtiene alguna idea akbrespecto
+=> Antes de irme pego un fuerte e indecoroso grito al cielo, demostrando lo valiente y audaz que soy. Finalmente decido averiguar como llego a este pueblo de pexcadores, asi que le pregunto a alguna de mis acompañantes sibtiene alguna idea akbrespecto
 
 -8 de Abril 2014-
 
@@ -2348,7 +2348,7 @@ Ves con los ojos bien abiertos como se llevan a tu amigo mientras el grita tu no
 * Levantar a Annete y lanzarla contra la figura para luego de haberla tumbado, usar a Ursula de arma contundente y descargar tu ira sobre el ladrón. ¿Qué podría salir mal?
 * AMC
 
-=> Vuelvo a gritar un desaforado y potente rugido mientras me lanzo precipitado hcia el ladrón. Intento luego alcanzarlo xcon dos escupitajos
+> Vuelvo a gritar un desaforado y potente rugido mientras me lanzo precipitado hcia el ladrón. Intento luego alcanzarlo xcon dos escupitajos
 
 -24 de Abril de 2014-
 
@@ -2370,7 +2370,7 @@ Ves que la figura, aún todo adolorido, extiende una mano hacia tu pobre amigo a
 * Buscar por la tapa de alcantarillado mas cercana y zambullirte en la mierda, no sin antes arrastrar al ladrón con vos para que te ayude.
 * AMC
 
-=> Agarro al ladrón e intento dejarlo inmovilizado, para luego usarlo como llave del alcantarillado estampandolo contra la tapa mas cercana
+> Agarro al ladrón e intento dejarlo inmovilizado, para luego usarlo como llave del alcantarillado estampandolo contra la tapa mas cercana
 
 19:44 HS
 
@@ -2388,9 +2388,9 @@ Casi crees escuchar a Joey riendose y engrandeciendote.
 * Zambullirte en la mierda!
 * AMC
 
-=> Im out of bubblegum
-=> So lets eat shit for rescue friend
-=> Me tiro!!
+> Im out of bubblegum
+> So lets eat shit for rescue friend
+> Me tiro!!
 
 -25 de Abril de 2014-
 
@@ -2405,7 +2405,7 @@ Finalmente lo alcanzás y lo tomás en tus manos, cansado de correr tanto.
 
 ¿Qué hacer/decir ahora?
 
-=> Escupa la mierda que me quedo enla boca y abrazo a mi querido amigo. Luego busco la salida más cercana, caminando lo mas rápido posible
+> Escupa la mierda que me quedo enla boca y abrazo a mi querido amigo. Luego busco la salida más cercana, caminando lo mas rápido posible
 
 -28 de Abril de 2014-
 
@@ -2434,15 +2434,15 @@ Tu compañero del alma hace montoncito con los dedos de su mano derecha hipotét
 * Roll for hidden traps!
 * AMC
 
-=> Tomo un poco de esa refrescante agua y guardo a Joey dentro de mi bolsillo para evitar que alguien le haga daño, luego me escondo apretando mi espalda contra la pared en pos de sumergirme dentro de ella
+> Tomo un poco de esa refrescante agua y guardo a Joey dentro de mi bolsillo para evitar que alguien le haga daño, luego me escondo apretando mi espalda contra la pared en pos de sumergirme dentro de ella
 
 (Gonza... tenés demasiada suerte o.o)
 (Hice una tirada para ver si después de tomar desechos cloacales te enfermabas... sacaste un 10... tu sistema inmonológico de repente es invencible o.o)
 (Osea... 10...)
 (Tiré un dado de 10 caras con dificultad 10 y sacaste 10...)
 
-=> JAJAJAJAJ
-=> Que perfección xD
+> JAJAJAJAJ
+> Que perfección xD
 
 -6 de Mayo de 2014-
 
@@ -2466,8 +2466,8 @@ Es un hombre ligeramente encorvado, con una ropa harapienta sobre su ropa y un d
 
 ¿Qué hacer/decir ahora?
 
-=> Tomar su sombrero y gritar “gringindor!!!” o como crajo se diga
-=> Luego preguntarle al sombrero como salgo de ahi
+> Tomar su sombrero y gritar “gringindor!!!” o como crajo se diga
+> Luego preguntarle al sombrero como salgo de ahi
 
 20:14 HS
 
@@ -2490,7 +2490,7 @@ El hombre se pone serio y le tapa la hipotética boca que solo ustedes pueden ve
 
 ¿Qué hacer/decir ahora?
 
-=> Lovsigo, porvsupuestto. Me preparo para abrazarlo, quiero caerle bien
+> Lovsigo, porvsupuestto. Me preparo para abrazarlo, quiero caerle bien
 
 -7 de Mayo de 2014-
 
@@ -2514,8 +2514,8 @@ Una extraña cacofonía que parece una burla hacia alguna pieza de música de un
 * Saltar encima de la cosa y atravezarla repetidamente con tu espada.
 * AMC
 
-=> Quisiera abrazarla, pero aun le debo un abrazo a mi nuevo amigo.
-=> Hago silencio y luego tono un submarino que haya a mano para tirarseli
+> Quisiera abrazarla, pero aun le debo un abrazo a mi nuevo amigo.
+> Hago silencio y luego tono un submarino que haya a mano para tirarseli
 
 -8 de Mayo de 2014-
 
@@ -2548,9 +2548,9 @@ SO INSANITY
 * Error: The process Gasty stop working.
 * AMC
 
-=> wow, such kichen, very overpowered
-=> Pues la verdad, me dio un pico de miedo y decido alejarme
-=> Por Joey, claro
+> wow, such kichen, very overpowered
+> Pues la verdad, me dio un pico de miedo y decido alejarme
+> Por Joey, claro
 
 -9 de Mayo de 2014-
 
@@ -2567,8 +2567,8 @@ La criatura ahora con menos haces de luz, comienza a apuntar al del sombrero.
 
 ¿Qué hacer/decir ahora?
 
-=> Joey sabe que es nuestro deber.
-=> Apunto hacia la criatura con mi genial amigo, no son antes gritar alguna bendición
+> Joey sabe que es nuestro deber.
+> Apunto hacia la criatura con mi genial amigo, no son antes gritar alguna bendición
 
 -13 de Mayo de 2014-
 
@@ -2593,11 +2593,11 @@ Guy te mira con sorpresa pero reacciona rápido y recoge a Joey antes que se lo 
 * Gritar desde lo prfundo de tus pulmones “Soy el señor de la caca!” Mientras te golpeas el pecho violentamente con la mano derecha.
 * AMC
 
-=> Pues le,pido un tenedor al señor sombrero para hacerle unos ojos a joey
-=> Se lo merece!!
-=> Uno que este guiñando
-==> Ayer me dormí jajajaj
-==> Pero le hago los ojos a Joey y le pregunto al sujeto extraño y a su sombrero de dónde carajo salieron
+> Pues le,pido un tenedor al señor sombrero para hacerle unos ojos a joey
+> Se lo merece!!
+> Uno que este guiñando
+=> Ayer me dormí jajajaj
+=> Pero le hago los ojos a Joey y le pregunto al sujeto extraño y a su sombrero de dónde carajo salieron
 
 -9 de Junio de 2014-
 
@@ -2633,13 +2633,13 @@ Te los quedás mirando a los dos, sintiendo que no deberías haber preguntado po
 
 * Sugerencia extra * Tomar otro sorbo de la refrescante pero peligrosamente róxica agua de cloaca.
 
-=> Ehmm les preguntó como salir, y si conocen a alguien que sepa sobre personas raras en la ciudad
-=> Realmente el olor esta siendo un poco molesto
-=> Pero quiero averiguar todo sobre este misterioso
-==> Si sabría donde puedo encontrar gente jhmm extrala
-==> En realidad no se muy bien oregujtarle
-===> Si, sobretodo encapuchados
-===> Sobretodo todojunto
+> Ehmm les preguntó como salir, y si conocen a alguien que sepa sobre personas raras en la ciudad
+> Realmente el olor esta siendo un poco molesto
+> Pero quiero averiguar todo sobre este misterioso
+=> Si sabría donde puedo encontrar gente jhmm extrala
+=> En realidad no se muy bien oregujtarle
+==> Si, sobretodo encapuchados
+==> Sobretodo todojunto
 
 -22 de Julio de 2014-
 
@@ -2678,17 +2678,17 @@ Guy mira a Sombrero nuevamente y este pregunta “¿Quieresh que te llevemosh a 
 * AMC
 (Me duele el pulgar de tanto escribir T_T)
 
-=> Optaría por mas juegos de azar y mujerzuelas, pero el tf2 no me encuetra ningún servidor
-=> Por lo tanto, decido ya selir de ese lugar. Es un poco asqueroso.
-=> Quiero preguntarle cual es la organización a la que pertenecen guy y el,sombrero, y si podrían ayudarme porque beuno, parecen personas con buen juicio
-=> Auudarles*
+> Optaría por mas juegos de azar y mujerzuelas, pero el tf2 no me encuetra ningún servidor
+> Por lo tanto, decido ya selir de ese lugar. Es un poco asqueroso.
+> Quiero preguntarle cual es la organización a la que pertenecen guy y el,sombrero, y si podrían ayudarme porque beuno, parecen personas con buen juicio
+> Auudarles*
 
 ( Gonza, ya te dijeron que pertenecen a los Rift Gazers D: )
 ( No te acordás? :'( )
 
-==> No me acordaba jajabaj
-==> Entonces les digo si puedo unirme como un agente externo!
-==> Porque en mi cabeza todo es fácil e incongruente
+=> No me acordaba jajabaj
+=> Entonces les digo si puedo unirme como un agente externo!
+=> Porque en mi cabeza todo es fácil e incongruente
 
 -2 de Agosto de 2014-
 
@@ -2725,10 +2725,10 @@ Finalmente subís y luego tapás la salida nuevamente con su correspondiente tap
 * Buscar a las chicas.
 * AMC
 
-=> Primero que nada, no se dónde edtoy. Asi que busco,las salientes mas cercanas para subir a los tejados mas altos. Si logro subir, pretendo empezar a correr gritando el nombre de las,chicas por doquier, y dejando con olor a caca todos los tejados, si no lobro subir, gritare y corewr
-=> Correré enojado por las calles, mostrándole mi amigo Joey a todos los transeúntes cercanos
-=> Obviamente, estoy cubierto de mierda
-=> Asi que eso será divertido jajaj
+> Primero que nada, no se dónde edtoy. Asi que busco,las salientes mas cercanas para subir a los tejados mas altos. Si logro subir, pretendo empezar a correr gritando el nombre de las,chicas por doquier, y dejando con olor a caca todos los tejados, si no lobro subir, gritare y corewr
+> Correré enojado por las calles, mostrándole mi amigo Joey a todos los transeúntes cercanos
+> Obviamente, estoy cubierto de mierda
+> Asi que eso será divertido jajaj
 
 -20 de Agosto de 2014-
 
@@ -2752,7 +2752,7 @@ La iglesia tiene un campanario el cual está pidiendo ser trepado y no estás se
 * Ubicar tu posición desde donde estás ahora.
 * AMC
 
-=> Intento subir con lo último que me queda de fuerzas y olor, hasta arriba de todo. Puedo ver casi todos los techos de mi alrededor, pero to quiero verlos todos. Espero que cerca haya algún lugar donde dejarme caer luego, si consigo subir. Si logro llegar arriba, buscaré a mis compañeras, tirando a Joey en cualquier dirección, y luego yendo a buscarlo. Es un buen ejercicio!!
+> Intento subir con lo último que me queda de fuerzas y olor, hasta arriba de todo. Puedo ver casi todos los techos de mi alrededor, pero to quiero verlos todos. Espero que cerca haya algún lugar donde dejarme caer luego, si consigo subir. Si logro llegar arriba, buscaré a mis compañeras, tirando a Joey en cualquier dirección, y luego yendo a buscarlo. Es un buen ejercicio!!
 
 -25 de Agosto de 2014-
 
@@ -2775,14 +2775,14 @@ Notás que parece mas anticua esa zona y a tu derecha ves que pasa un rio en el 
 * Gritar en francés cosas aleatorias.
 * AMC
 
-=> Puedo revisar mi inventario?
+> Puedo revisar mi inventario?
 
 (Mirá, si no me equivoco, tu inventario actual es:
 Dentro de tu bolsa, algunos higos, tal vez tres, creo que un durazno, una almeja de hace como cuatro o cinco días, una piedra filosa, un cuchill ode cocina algo desafilado y en tu bolsillo derecho, Joey!)
 (Obviamente también una falcata de acero blanco en su funda.)
 
-==> Bueno, agarro la piedra y la tiro fuerte contra el cielo, mas arriba mio
-==> Donde la lleve el viento, ahí iré yo, bajando con cuidado y con mucha precaucion
+=> Bueno, agarro la piedra y la tiro fuerte contra el cielo, mas arriba mio
+=> Donde la lleve el viento, ahí iré yo, bajando con cuidado y con mucha precaucion
 
 -29 de Agosto de 2014-
 
@@ -2807,7 +2807,7 @@ Mientras te vas caminando tranquilamente a aquella dirección donde apuntó tu p
 * Antes de irte, tirarle un par de monedas en la cara al tipo que dejaste parapléjico.
 * AMC
 
-=> Lo mejor que puedo hacer es gritar los,nombres de mis compañeras en la cara de todo el mundo, como si estuviese buscándolas dentro de la boca de la,gente. Prefiero ir corriendo,por ahí hasta encontrar de paso alguna tienda,en la que encuentre un bizcochuelo
+> Lo mejor que puedo hacer es gritar los,nombres de mis compañeras en la cara de todo el mundo, como si estuviese buscándolas dentro de la boca de la,gente. Prefiero ir corriendo,por ahí hasta encontrar de paso alguna tienda,en la que encuentre un bizcochuelo
 
 -30 de Agosto de 2014-
 
@@ -2835,7 +2835,7 @@ Sarah sonríe mientras mira a tu gran compañero de viajes. “¡Hola Joeyyyy!�
 * Preguntarles que hacen por Reino Norte.
 * AMC
 
-=> Primero que nada, le ofrezco un pucho al flaco (no ecuerdo su nombre) luego les pregunto si vieron dos flacas bien extrañas. Le presto mi pequeño amigo un momento a Sarah para que puedan hablar, digan lo que digan, prefiero caminar con ellos que estar gritando solo (o bueno, con Joey)
+> Primero que nada, le ofrezco un pucho al flaco (no ecuerdo su nombre) luego les pregunto si vieron dos flacas bien extrañas. Le presto mi pequeño amigo un momento a Sarah para que puedan hablar, digan lo que digan, prefiero caminar con ellos que estar gritando solo (o bueno, con Joey)
 
 -2 de Septiembre de 2014-
 
@@ -2873,9 +2873,9 @@ Joey y Sarah se están susurrando y riéndose. Marve frunce el seño y arruga la
 * Gritarle que no y saltar sobre Sarah con tu cuchillo. Joey es solo tu amigo! DE NADIE MAS!!!
 * Ponerte nuevamente tu máscara espiritual y contestarle siendo apoyado por los poderes ancestrales de las personas pequeñas.
 
-=> Me,pongo,mi,mascara (ya ni se si la,tengo pero sino me,tapo con la, mano simulando,la,misma) y le, indico que seria fortuito ayudarnos en nuestra aventura debido a que somos,somo un boludo y una manzana
-=> Le digo quebse trata de una, pelirroja petiza,bien guarra y una mina mas,alta muy inteligente y simpática
-=> Lurgo encaro yo mismo el trayecyo hacia el sur, acabo de ver algo que me,intereso, mientras le,hablo a Rodrigo, digo marcelo
+> Me,pongo,mi,mascara (ya ni se si la,tengo pero sino me,tapo con la, mano simulando,la,misma) y le, indico que seria fortuito ayudarnos en nuestra aventura debido a que somos,somo un boludo y una manzana
+> Le digo quebse trata de una, pelirroja petiza,bien guarra y una mina mas,alta muy inteligente y simpática
+> Lurgo encaro yo mismo el trayecyo hacia el sur, acabo de ver algo que me,intereso, mientras le,hablo a Rodrigo, digo marcelo
 
 (Ah, tu máscara la tenés en la bolsa, es que me olvidé listartela cuando me preguntaste sobre tu inventario. También un encendedor a la mitad de su gas!!!!)
 
@@ -2893,7 +2893,7 @@ Le hacés una seña indicandole que espere y rápido buscas en tu bolsa la poder
 
 ¿Qué hacer/decir ahora?
 
-=> Le digo que no recuerdo bien debido a que la respuesta en la que me separo de ellas fue hace un tiempo ya, pero les explico que fue no muy lejos de la entrada de la, ciudad. Intento decirles que recorrí todo el camino por las alcantarillas, por lo que aun no,conozco la superficie
+> Le digo que no recuerdo bien debido a que la respuesta en la que me separo de ellas fue hace un tiempo ya, pero les explico que fue no muy lejos de la entrada de la, ciudad. Intento decirles que recorrí todo el camino por las alcantarillas, por lo que aun no,conozco la superficie
 
 19:12 HS
 
@@ -2915,16 +2915,16 @@ Desearías poder retener una mayor cantidad de información en tu cabeza y recor
 * Usar los supuestos poderes espirituales de la máscara para ayudarte.
 * AMC
 
-=> Pues supongo que ha de ser una esntrada cerca de la costa, allí pasa viento y los niños perdidos can hacia donde los lleva el viento.
-=> Decido dirigirme a la entrada del muelle. Asi mismo tomo a Joey yble doy un abrazo de tío chulo, a modo de felicitación. Eres la hostia Joey, que sex appeal!
-=> Aprovecho y le,pregunto a marce cuando empezó a fumar:0
+> Pues supongo que ha de ser una esntrada cerca de la costa, allí pasa viento y los niños perdidos can hacia donde los lleva el viento.
+> Decido dirigirme a la entrada del muelle. Asi mismo tomo a Joey yble doy un abrazo de tío chulo, a modo de felicitación. Eres la hostia Joey, que sex appeal!
+> Aprovecho y le,pregunto a marce cuando empezó a fumar:0
 
 (Decidís dirigirte con Marce y Sarah o los dejás? Osea, te llevás a Joey y vas solo o vas acompañado?)
 
-=> oybxon ellos
-=> Mejor le devuelvo a Joey a sarah
-=> Jsjaj
-=> Asi no hace quilombo
+> oybxon ellos
+> Mejor le devuelvo a Joey a sarah
+> Jsjaj
+> Asi no hace quilombo
 
 -5 de Septiembre de 2014-
 
@@ -2966,9 +2966,9 @@ Sarah se tapa la boca de la impresión, mientras Marde rápidamente va a ayudar 
 * Usar tus habilidades de parkour para treparte y entrar por la ventana y salvar al pibe.
 * AMC
 
-=> Ni lo dudo, Joey estabseguro, me, importa un bledo si yo me lastimo
-=> Entro corriendo a la casa (o trepando, si es que lo requiero) para adentrarse en las,llamas y buscar al niño. Me tapó mibnariz con la,mascara
-=> (es lo más cercano a algo que me tapenla,nariz
+> Ni lo dudo, Joey estabseguro, me, importa un bledo si yo me lastimo
+> Entro corriendo a la casa (o trepando, si es que lo requiero) para adentrarse en las,llamas y buscar al niño. Me tapó mibnariz con la,mascara
+> (es lo más cercano a algo que me tapenla,nariz
 
 -15 de Septiembre-
 
@@ -2990,7 +2990,7 @@ No hay mucho que puedas hacer en la planta baja. Las escaleras se rompieron, la 
 * Salir afuera y treparte hasta la ventana del primer piso.
 * AMC
 
-=> Supongo que tendré que salir por donde entré. Intento trepar por alguna saliente para subir al primer piso. Aprovecho mi medio segundo afuera para tomar aire antes de adentrarme nuevamente
+> Supongo que tendré que salir por donde entré. Intento trepar por alguna saliente para subir al primer piso. Aprovecho mi medio segundo afuera para tomar aire antes de adentrarme nuevamente
 
 -8 de Octubre de 2014-
 
@@ -3006,8 +3006,8 @@ El agujero debajo de la puerta que da al pasillo está bastante grande cayéndos
 
 ¿Qué hacer ahora?
 
-=> Mm entonces corto un pedazo de sabana y me la coloco en el cuerpo a modo de primer auixilio
-=> Y me lanzo al agujero
+> Mm entonces corto un pedazo de sabana y me la coloco en el cuerpo a modo de primer auixilio
+> Y me lanzo al agujero
 
 19:29 HS
 
@@ -3021,7 +3021,7 @@ Escuchás que la voz proviene de una puerta de hierro cerrada y con una barra me
 
 ¿Qué hacer ahora?
 
-=> Tomo el martillo y comienzo a darle a la barra, quiero abrirla
+> Tomo el martillo y comienzo a darle a la barra, quiero abrirla
 
 19:52 HS
 
@@ -3043,15 +3043,15 @@ El sótano no tiene salidas salvo la cocina, la cual tiene un montón de escombr
 
 ¿Qué hacer ahora?
 
-=> Hostia!! Pobrecilla
-=> La envuelvo enlas sabanas y la subo al caballo
-=> La cosa es cómo.mierda voy a salir
+> Hostia!! Pobrecilla
+> La envuelvo enlas sabanas y la subo al caballo
+> La cosa es cómo.mierda voy a salir
 
 (En la cocina hay una ventana que tiene una tabla bastante grande trabada con algo de escombro incandescente. ¡Los ruidos anuncian que la casa se está por venir abajo en cualquier momento! Escombros incandescentes=madera y materiales combustibles.)
 
-=> Ehmm shit!!!
-=> Estoy en apuros
-=> Intento trepar nuevamente hacia arriba usando los escombros, con mi nueva mejor amiga, adelimba, en mibespalda
+> Ehmm shit!!!
+> Estoy en apuros
+> Intento trepar nuevamente hacia arriba usando los escombros, con mi nueva mejor amiga, adelimba, en mibespalda
 
 -9 de Octubre de 2014-
 
@@ -3088,9 +3088,9 @@ El doctor se está levantando y a punto de retirarse, pero le podés pedir que t
 
 ¿Qué hacer/decir?
 
-=> Le pregunto al doctor si me puede recomponer un dedo, o ponerme un arma de metal ahí mismo
-=> Aunque antes abrazo a annette y le savo la lengua a ursu para hincharle las pelotas
-=> Luego les presento a mis amigos!!!
+> Le pregunto al doctor si me puede recomponer un dedo, o ponerme un arma de metal ahí mismo
+> Aunque antes abrazo a annette y le savo la lengua a ursu para hincharle las pelotas
+> Luego les presento a mis amigos!!!
 
 -10 de Octubre de 2014-
 
@@ -3126,30 +3126,30 @@ No parece haber nadie que se haga cargo de la pobre niña de ocho años.
 * Preguntarle a Ursu en que piensa.
 * Bailar el Para Para con Annete y Sarah
 
-=> ME COMO EJ CORAZ?N AUN LATIENme acerco a ursu ty
-=> Mm la verdad que seria complicado llevar una nena con nostros jajajaj
-=> No se que hacer D:
-=> Al menos quiero llevarla a algún hospital
+> ME COMO EJ CORAZ?N AUN LATIENme acerco a ursu ty
+> Mm la verdad que seria complicado llevar una nena con nostros jajajaj
+> No se que hacer D:
+> Al menos quiero llevarla a algún hospital
 
 (No me quedó claro que vas a hacer xD)
 
-==> Lenpregunto al medico por el hospital
-==> Aunque algo me dice que no voy a poder hacer mucho con ella
-==> De todos modos vemos que me dice
-==> Noyase
-==> Vamos a la torre
-==> El medico especial retirado aabra que hacer!!!
-==> Tomo a la niña yvle digo a ursu que solo vamos a llevarla hasta la tirre
+=> Lenpregunto al medico por el hospital
+=> Aunque algo me dice que no voy a poder hacer mucho con ella
+=> De todos modos vemos que me dice
+=> Noyase
+=> Vamos a la torre
+=> El medico especial retirado aabra que hacer!!!
+=> Tomo a la niña yvle digo a ursu que solo vamos a llevarla hasta la tirre
 
 (Ja ja ja xD Entonces vas a salir de la ciudad hacia el pueblo Los Pescadores con la niña?)
 
-===> Queda muy lejos?
-===> Mierda cuantas cosas
+==> Queda muy lejos?
+==> Mierda cuantas cosas
 
 (Jajajajjaja xD Siempre podés pedir consejo a tus compañeros xD)
 
-====> Mmm pregunto entonces a ursu y a aneette
-====> Que podemos havee
+===> Mmm pregunto entonces a ursu y a aneette
+===> Que podemos havee
 
 -12 de Octubre de 2014-
 
@@ -3170,9 +3170,9 @@ Ursu y vos se la quedan mirando. Sus ojos violetas se ven algo diferentes, mas e
 
 ¿Qué hacer/decir ahora?
 
-=> Mmm hagamos lo siguiente
-=> Le pregunto a ursu si le parece bien desviarnos un poco en nuestra busquesa
-=> Para ir a la torre del medico
+> Mmm hagamos lo siguiente
+> Le pregunto a ursu si le parece bien desviarnos un poco en nuestra busquesa
+> Para ir a la torre del medico
 
 -14 de Octubre de 2014-
 
@@ -3219,23 +3219,23 @@ Tu gran compañero hermano te sonríe victorioso y no podés evitar sonreirle ta
 
 ¿Qué hacer/decir ahora?
 
-=> DIOS JOEY
-=> Eres la reputisimahostia
-=> Te quiero tio
-=> (debe ser el mas inteligente de todos xD
+> DIOS JOEY
+> Eres la reputisimahostia
+> Te quiero tio
+> (debe ser el mas inteligente de todos xD
 
 (Jajajajaja mal! O por lo menos el mas vivo xD)
 
-==> Decido cargar a la niña yo, ya me acostumbre a trepar con ella por edificios en estade de derrumbe, por que no llevarla caminando? Me gustaría prepararle algo de agua para cuando despierte. (con marde vamos a poder pasar la guardia de la puerta sin problemas, no?)
+=> Decido cargar a la niña yo, ya me acostumbre a trepar con ella por edificios en estade de derrumbe, por que no llevarla caminando? Me gustaría prepararle algo de agua para cuando despierte. (con marde vamos a poder pasar la guardia de la puerta sin problemas, no?)
 
 (Che, de dónde vas a sacar el agua para la nena pibe? Le vas a preguntar a alguno de tus acompañantes o preguntar en una taverna o qué?
 Creo que no tenías una cantimplora o algún recipiente para levar líquidos)
 
-===>Mmn alguno de mis amigos
-===> Sobre todo mu mejor amigo marde
-===> No tiene?
-===> Les pregunto a ellos :4
-===> :4
+==>Mmn alguno de mis amigos
+==> Sobre todo mu mejor amigo marde
+==> No tiene?
+==> Les pregunto a ellos :4
+==> :4
 
 -13 de Noviembre de 2014-
 
@@ -3269,17 +3269,17 @@ Le agradecés la cantimplora a Sarah y ya con la niña en tus hombros y el grupo
 
 16:13 HS
 
-=> -marce, realmente llevas una sombrilla y un mortero?
-=> Le pregunto, mientras cargo a la nena en mis brazos. Quiero dirigirme idrectamente a los aposentos del dichoso mago. De todos modos tengo que haglar algo con mi querido amigo joaquin (a.k.a. ?rsula)
-=> Le pido a ir que adelante el paso un poco
-=> Quiero preguntarle que qué vamos a ahcer si la nena decide quedarse con nosotros. Es muy peligroso!
+> -marce, realmente llevas una sombrilla y un mortero?
+> Le pregunto, mientras cargo a la nena en mis brazos. Quiero dirigirme idrectamente a los aposentos del dichoso mago. De todos modos tengo que haglar algo con mi querido amigo joaquin (a.k.a. ?rsula)
+> Le pido a ir que adelante el paso un poco
+> Quiero preguntarle que qué vamos a ahcer si la nena decide quedarse con nosotros. Es muy peligroso!
 
 (1 de Febrero 2015)
 
 7:14 HS
 
-=> A la nena la llevo a cococho
-=> Es decir; colgada en mi espalda
+> A la nena la llevo a cococho
+> Es decir; colgada en mi espalda
 
 -17 de Febrero 2015-
 
@@ -3308,7 +3308,7 @@ Ursu está caminando a tu lado, mirando a la pequeña cada tanto.
 
 ¿Qué hacer/decir ahora?
 
-=>
+>
 
 - 27 de febrero 2015-
 
@@ -3327,7 +3327,7 @@ Un día escuche ruidos fuertes arriba y gritos. Después empezó a hacer calor y
 
 ¿Qué hacer/decir ahora?
 
-=> Mmm voy a ver si la nena recuerda algún nombre:
+> Mmm voy a ver si la nena recuerda algún nombre:
 "Te gusta esta máscara? Pues te la prestaré un rato si me dices algún nombre de los que te metieron allí."
 
 Algo me dice que esas personas deben sufrir inesperadamente.
@@ -3338,7 +3338,7 @@ Algo me dice que esas personas deben sufrir inesperadamente.
 
 --[Sumthin sumthin... ni idea que pasó acá]--
 
-=> Me.emociono al.pensar que ya tendremos un enemigo.jodido. Me alejo un.poco del.grupo y la llamo a Ursu.
+> Me.emociono al.pensar que ya tendremos un enemigo.jodido. Me alejo un.poco del.grupo y la llamo a Ursu.
 
 Quiero hacerle una última pregunta a la nena antes de llegar a la torre, teniéndola a Ursu cerca. Necesito de su hostia de opinión.
 
@@ -3378,7 +3378,7 @@ Te quedás observando aquella majestuosamente aterradora obra de arte, casi oyen
 * Bailar y hacer ruiditos de beatbox al ritmo de los golpes
 * AMC
 
-=> Bien, después de pensarlo lo suficiente, le pido a todo el mundo que se aleje de la puerta porque voy a hacer un movimiento especial para abrirla; sigo con la niña en mis brazos.
+> Bien, después de pensarlo lo suficiente, le pido a todo el mundo que se aleje de la puerta porque voy a hacer un movimiento especial para abrirla; sigo con la niña en mis brazos.
 
 Sin dudarlo, comienzo a gritarle al doc que salga del baño.
 "OIGA SEÑOR ALEJESE YA DEL INODORO" y cosas igual de ridículas. Luego empiezo a patear la con suaves golpes para desentrañar mis nervios respecto al hecho de que, como el doctor se encuentra cagando y yo hace rato que no cago, me pone ansioso.
@@ -3401,14 +3401,14 @@ No habrá pasado mas de cinco minutos y aquellas puertas se abrieron con una fac
 
 ¿Qué hacer/decir ahora?
 
-=> Agarro a la niña fuerte, para que ante cualquier eventualidad, pueda salir corriendo con ella en mi espalda.
+> Agarro a la niña fuerte, para que ante cualquier eventualidad, pueda salir corriendo con ella en mi espalda.
 
 Me acerco un poco a la gigantona y le digo, imponente, las siguientes palabras:
 
 "YO Y MI GRUPO Y el idiota del pucho SOMOS ALMAS PURITANAS Y venimos a ver a tu jefe"
 (me cansé de contener el aire en el pecho)
-=>"Podrìa por favor mostrarnos el camino hacia el mismo? eso nos haría muy felices, por cierto, me gusta cómo le queda el traje"
-=>todo intento de supervivencia es bienvenido!
+>"Podrìa por favor mostrarnos el camino hacia el mismo? eso nos haría muy felices, por cierto, me gusta cómo le queda el traje"
+>todo intento de supervivencia es bienvenido!
 
 - 27 de Junio 2015 -
 
@@ -3433,7 +3433,7 @@ Comienzan a firmir todos y luego de que todos firmaran, entre ellos Sarah y su f
 * Firmar por ella escribiendo "Dante" de nombre y "DMC" todo junto con letras cool como firma
 *  Comerte el libro!
 
-=> Woah! Terrible torre chaben, aca se podria hacer alta fiesta loco.
+> Woah! Terrible torre chaben, aca se podria hacer alta fiesta loco.
 
 Mmm aunque realmente esto de la firma se me hace raro. 
 
@@ -3474,7 +3474,7 @@ Shit is about to go down...
 * AMC
 * Extra hardcore: Retarla a duelo. Si ganás está todo bien, si no, que ella elija su condición.
 
-=> WOAH SHIT JUST GOT REAL. But im ready. Suspendo por un momento todas mis debilidades y las dejo apiladas en un Costado de la mesa, para luego encender con ellas el fuego de la valentia. 
+> WOAH SHIT JUST GOT REAL. But im ready. Suspendo por un momento todas mis debilidades y las dejo apiladas en un Costado de la mesa, para luego encender con ellas el fuego de la valentia. 
 
 Dejo a la pequeña que reposa en mi espalda un momento en el suelo, y me acerco imponente hacia la gigante, demostrando que valgo mas de lo que valgo.
 
@@ -3520,7 +3520,7 @@ Cuando decidís que es suficiente, Gala se vuelve a sentar en su escritorio y le
 * Matar, descuartizar y alimentarte de la pequeña niña, obviamente convidandole a Gala.
 * Ah Muzen Cab(Jojojo, soy tan gracioso y astuto)
 
-=> Tomo a la niña nuevamente en mi espalda y me acerco a la escalera con un estupor sin igual debido a haber sobrepasado un enorme obstaculo (el cual podria comerme). De todos modos algo no me suena bien, por lo que me aproximo a mi querida amiga Dante para hablar con ella, pero no solo eso: tambien quiero saber la opinion de Annete.
+> Tomo a la niña nuevamente en mi espalda y me acerco a la escalera con un estupor sin igual debido a haber sobrepasado un enorme obstaculo (el cual podria comerme). De todos modos algo no me suena bien, por lo que me aproximo a mi querida amiga Dante para hablar con ella, pero no solo eso: tambien quiero saber la opinion de Annete.
 
 Mientras subo los escalones, le hago unos gestos a ambas para que se acerquen y les pregunto si realmente estamos haciendo lo correcto. Es decir, "¿Suponen que dentro de esta torre no nos van a... aniquilar de forma sangrienta o algo?"
 
@@ -3548,7 +3548,7 @@ Por un momento tus preocupaciones se fueron, dado que te diste cuenta que tu gru
 
 ¿Qué hacer/decir ahora?
 
-=> Bien, Annete tiene razon. No puedo ir haciendo estupideces con la niña en mi espalda.
+> Bien, Annete tiene razon. No puedo ir haciendo estupideces con la niña en mi espalda.
 
 Siemplemente llegaremos al doctor, dejaremos a la pequeña y pediremos un celular o algo para saber cuando ir a buscarla.
 
