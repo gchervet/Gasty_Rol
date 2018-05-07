@@ -1,14 +1,14 @@
 # Gasty_Rol
 
-**Rol con Gonza**
+Rol con Gonza
 
 
 -14 de Diciembre 2013-
 
-**Despertás a las orillas de una playa, tirado en la arena. El sol está en lo alto, por lo que debe ser pasando el medio día.
-Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.**
+Despertás a las orillas de una playa, tirado en la arena. El sol está en lo alto, por lo que debe ser pasando el medio día.
+Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.
 
-**¿Qué hacer?**
+¿Qué hacer?
 
 - Explorar la playa.
 - Sentarte e intentar recordar que mierda hacés ahí.
@@ -22,11 +22,11 @@ Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.**
 ------------
 
 
-**No hacés nada porque tenés paja. Te quedás ahí sin hacer literalmente un carajo.**
-**Empezás a sentir el sol pegandote en la cara.**
-**No lograste hacer un carajo.**
+No hacés nada porque tenés paja. Te quedás ahí sin hacer literalmente un carajo.
+Empezás a sentir el sol pegandote en la cara.
+No lograste hacer un carajo.
 
-**¿Qué vas a hacer ahora?**
+¿Qué vas a hacer ahora?
 
 >Me levanto y empiezo a caminar hacia la flora
 
@@ -34,13 +34,13 @@ Estás con una remera y unos pantalones 3/4. Te falta una zapatilla.**
 ------------
 
 
-**Te levantás y caminas hacia donde se llegan a ver arbustos y más allá vegetación mas alta.
+Te levantás y caminas hacia donde se llegan a ver arbustos y más allá vegetación mas alta.
 Sentís la brisa caliente e ntu cara. El sol y el calor te están pegando feo.
 De repente sentís un dolor en el pié descalzo y al revisarlo te das cuenta que tenés una piedra filosa levemente clavada.
 La sacás y la guardás de tu bolsillo.
-Ahora estás en una zona intermedia, hay arbustos, muchas piedras y mas allá ces un bosque.**
+Ahora estás en una zona intermedia, hay arbustos, muchas piedras y mas allá ces un bosque.
 
-**¿Qué vas a hacer ahora?**
+¿Qué vas a hacer ahora?
 
 - ♥ 99%
 
@@ -51,9 +51,9 @@ Ahora estás en una zona intermedia, hay arbustos, muchas piedras y mas allá ce
 ------------
 
 
-**Comenzás a buscar algo para comer. Revisas esos arbustos y no parecen tener nada comestible. Por la zona en la que estás no encontrás nada. Podrías volver a la playa o acercarte a lo que parece un bosque.
+Comenzás a buscar algo para comer. Revisas esos arbustos y no parecen tener nada comestible. Por la zona en la que estás no encontrás nada. Podrías volver a la playa o acercarte a lo que parece un bosque.
 El sol sigue arriba, no parece haberse movido un centímetro, y tu pie descalzo duele aún por la piedra que pisaste.
-¿Qué hacer?**
+¿Qué hacer?
 
 > Mmmm
 >Decido volver a la playa a mojarme el pie
@@ -62,9 +62,9 @@ El sol sigue arriba, no parece haberse movido un centímetro, y tu pie descalzo 
 
 
 
-**Vovés a la playa, te acercás al agua y mojás tu pie en el agua salada del mar. Arde un poco pero limpiás la arena de la herida.
+Vovés a la playa, te acercás al agua y mojás tu pie en el agua salada del mar. Arde un poco pero limpiás la arena de la herida.
 Ves algo clavado en la arena a una distancia de mas o menos tres metros. Te resulta familiar.
-¿Qué vas a hacer?**
+¿Qué vas a hacer?
 
 
 >Me acerco a ver qué es
@@ -3702,7 +3702,7 @@ Luego me acerco al doctor y pronuncio en debil tono las siguientes palabras:
 
 01:25 HS
 
-**Al observar la situación notás que están en un gran aprieto. Mientras aquel monstruosa criatura en forma de hombre mantiene a la niña con terrible miedo, tu grupo no hace nada. Marce recostado contra la pared, Sarah observando los cuadros, Annete y Ursu observando atentamente al doctor como estabas hace unos momentos. Es hora de intervenir, de hacer la diferencia. ¡Es hora de Para Para Dancing! Naturalmente esto lo gritás y comenzás a hacer una increible coreografía un buen rato para bajar la tensión. Tu alegría es contagiosa, dado que Sarah se te suma intentando imitar tus movimientos lo mejor que puede.
+Al observar la situación notás que están en un gran aprieto. Mientras aquel monstruosa criatura en forma de hombre mantiene a la niña con terrible miedo, tu grupo no hace nada. Marce recostado contra la pared, Sarah observando los cuadros, Annete y Ursu observando atentamente al doctor como estabas hace unos momentos. Es hora de intervenir, de hacer la diferencia. ¡Es hora de Para Para Dancing! Naturalmente esto lo gritás y comenzás a hacer una increible coreografía un buen rato para bajar la tensión. Tu alegría es contagiosa, dado que Sarah se te suma intentando imitar tus movimientos lo mejor que puede.
 
 Observás al pelinegro con una sonrisa de camaradería y buena onda. su respuesta naturalmente es un tick nervioso en el parpado inferior derecho, cerrar bien los puños y raspar sus dientes entre si moviendo la mandibula. Annete y Ursula ahora te miran. La primera sin querer moviendo levemente la cabeza al ritmo del baile tuyo y de la guardia y la última completamente perdida y sin saber como reaccionar. Literalmente boquiabierta por tu repentina descarga artística.
 
@@ -3721,7 +3721,7 @@ Finalmente, luego de unos aproximados 3 minutos de baile, te limpiás el poco su
 * Trompear en la jeta al chico gato gritandole "Volve al anime de donde viniste!!!"
 * Llamar al chico gato "Razher-kun" y decirle "b-baka", desviando la mirada en un intento desesperado por su atención
 * Subirte a la escalera para sentirte mas alto. Mas tarde en el día llorar en un rincón para no mostrar tus inseguridades en frente de los demás
-* AMC**
+* AMC
 
 "B-Baka! Iamete ro! Gambarete!!!" Grito, en un amplio afán de ser amigable con quienes me rodean.
 Es hora de irse, algo me lo dice; puedo sentir el aura ansiosa de Joey fundiéndose con la mía. Me acerco a la chiquilla y le recito la siguiente frase: "Vamos a venir en una semanita, pasala bien y disfrutá del doc que parece buen pibe!"
@@ -3735,7 +3735,7 @@ Procedo a irme de la sala con mis amigos, llamo a Dante para que me siga. Quiero
 
 22:42 HS
 
-**Levantando el puño al cielo de forma triunfal gritás mirando al techo palabras en un idioma que no solo no comprendés, sinó que no estabas seguro hasta unos segundos que existía y te quedás así, ojos cerrados y una leve y victoriosa sonrisa en tu rostro, disfrutando del nuevo ambiente radiante y dichoso pero nuevamente escuchás aquel llamado. Hay una aventura allí y luego de observar detenidamente a cada uno en la habitación, tomandote tu tiempo y sin decir ni una palabra, haciendo que todos te miren extrañados, te das cuenta que el único aventurero en el cuarto sos vos y bueno, naturalmente Joey, el cual te sonríe y luego asiente. Los dos saben que es lo que va a pasar, dado que era inevitable y lo veías venir.
+Levantando el puño al cielo de forma triunfal gritás mirando al techo palabras en un idioma que no solo no comprendés, sinó que no estabas seguro hasta unos segundos que existía y te quedás así, ojos cerrados y una leve y victoriosa sonrisa en tu rostro, disfrutando del nuevo ambiente radiante y dichoso pero nuevamente escuchás aquel llamado. Hay una aventura allí y luego de observar detenidamente a cada uno en la habitación, tomandote tu tiempo y sin decir ni una palabra, haciendo que todos te miren extrañados, te das cuenta que el único aventurero en el cuarto sos vos y bueno, naturalmente Joey, el cual te sonríe y luego asiente. Los dos saben que es lo que va a pasar, dado que era inevitable y lo veías venir.
 
 Una lágrima invisible aparece en tu ojo derecho, como si fuese una intrusa, una extranjera temporal pasando por el seco y tranquilo paisaje de tu rostro. Te acercás a la niña y le prometés que vas a volver en una semana, como acordaste con el doctor y que la pase bien, acercandote después a su oido y diciendole en voz baja que por cualquier eventualidad funesta relacionada con el doctor, no dude en pedirle ayuda que vas a poder oirla. Dichas estas palabras, le otorgás en sus pequeñas manos a tu otra alma, pidiendole a éste que la cuida y como le dijiste a la niña, que él también avise si algo raro pasaba.
 
@@ -3756,7 +3756,7 @@ Escuchaste a las chicas despedirse y las viste salir, notando los ojos húmedos 
 * Golpear en la nariz a Marce
 * Golpearte a vos mismo en la nariz
 * Todo lo anterior... A LA VEZ
-* AMC**
+* AMC
 
 Cómo no! Me siento algo abatido por separarme de mi colega, así que abrazo a Dante en un afán de necesidad. Un abrazo fuerte e incómodo. Luego procedo a salir. 
 
@@ -3766,7 +3766,7 @@ Me acerco a Marce y le pregunto "ahora qué?" Pprque realmente ya ni recuerdo qu
 
 00:23 HS
 
-**Respondés a tu querido amigo Marce afirmativamente, aunque te sentís relamente triste por la separación de tu gran compañero del alma. Buscando consuelo abrazás a Ursu con gran fuerza y amistad, un largo rato. Ésta luego de unos segundos carraspéa y te separa de ella.
+Respondés a tu querido amigo Marce afirmativamente, aunque te sentís relamente triste por la separación de tu gran compañero del alma. Buscando consuelo abrazás a Ursu con gran fuerza y amistad, un largo rato. Ésta luego de unos segundos carraspéa y te separa de ella.
 
 Luego de sentirte mas renovado, aunque aun lleno de dudas, te acercás al pelinegro mientras aun bajan las largas escaleras y le volcás tu duda. Que deberían hacer ahora, dado que el tiempo borra las huellas en la arena de la playa, como el agua de mar hace que te ardan los ojos cuando los abrís para intentar ver através de esta. No podés esperar a que la evolución se encargue de tu dedo meñique y ese inconveniente con el agua salada en los ojos.
 
@@ -3784,7 +3784,7 @@ Notás que ya están por terminar las escaleras o por lo menos eso es lo que esp
 * Tirarte por lo que queda de las escaleras.
 * Darle un cabezaso violento a Marce y gritarle en la cara "COME AT ME BRAH!"
 * Darle un puñetazo en la nariz a Annete por mirarte a los ojos. Es peligroso mirar a los ojos a un Gonza...
-*¨AMC**
+*¨AMC
 
 > Le pregunto a Joey si... Espera, cierto que ya no está :( posiblemente aún esté muy cerca pero ya lo extraño.
 
@@ -3797,17 +3797,17 @@ Notás que ya están por terminar las escaleras o por lo menos eso es lo que esp
 > "Dante y yo debemos continuar nuestro viaje. Estamos en la búsqueda de alguien que puede tener conexión con Miranda, pero no lo sabemos. Es alguien peligroso. Ustedes serían de gran ayuda en dicha búsqueda. Vendrán con nosotros?"
 
 
-****Tu impulso inicial, naturalmente, fue buscar consejo con tu queridísimo amigo, pero inmediatamente recordaste la triste partida. Notás que sin importar el tiempo o la distancia, lo extrañás bastante.**
+Tu impulso inicial, naturalmente, fue buscar consejo con tu queridísimo amigo, pero inmediatamente recordaste la triste partida. Notás que sin importar el tiempo o la distancia, lo extrañás bastante.
 
-**Tristemente, pese a que la causa de Marce y Sarah sea lo suficientemente justa como para encender la llama de la igualdad y la justicia de tu impolito y recto corazón, recordás que tu misión principal no puede esperar.**
+Tristemente, pese a que la causa de Marce y Sarah sea lo suficientemente justa como para encender la llama de la igualdad y la justicia de tu impolito y recto corazón, recordás que tu misión principal no puede esperar.
 
-**Aun lamentándote las personas inocentes que sufriran por obra de esta malechora, con una pequeña y pura lágrima bajando por tu mejilla diestra, les comentás sobre el encapuchado misterioso y que puede que sea mas peligroso que aquella a la que llaman Miranda. De esto no estabas completamente seguro, pero es lo primero que te salió.**
+Aun lamentándote las personas inocentes que sufriran por obra de esta malechora, con una pequeña y pura lágrima bajando por tu mejilla diestra, les comentás sobre el encapuchado misterioso y que puede que sea mas peligroso que aquella a la que llaman Miranda. De esto no estabas completamente seguro, pero es lo primero que te salió.
 
-**Por supuesto, luego de decir aquello les preguntás si desean acompañarte en esta justa y verdadera causa, otra vez ocultando un detalle importante, Ursula desea venganza y extinguir la vida de aquel funesto hombre con sus propias manos.**
+Por supuesto, luego de decir aquello les preguntás si desean acompañarte en esta justa y verdadera causa, otra vez ocultando un detalle importante, Ursula desea venganza y extinguir la vida de aquel funesto hombre con sus propias manos.
 
-**  "¿Mas peligroso que Miranda?" - Pregunta asombrada Sarah y repentinamente, Marce cruza veloz la distancia entre vos y él, como si nunca la hubiese y levantándote de la pechera de tu remera con las dos manos, te choca contra la pared y te mantiene ahí, mirándote a los ojos con furia.**
+  "¿Mas peligroso que Miranda?" - Pregunta asombrada Sarah y repentinamente, Marce cruza veloz la distancia entre vos y él, como si nunca la hubiese y levantándote de la pechera de tu remera con las dos manos, te choca contra la pared y te mantiene ahí, mirándote a los ojos con furia.
 
-**  "¡¿Qué carajo vas a saber vos sobre peligro?!" - Te grita en la cara, tomándote desprevenido a vos, a Sarah y a la encapuchada, la última acercándose para interceder pero la guardia deteniéndola suavemente y negándole con la cabeza.**
-**  "¡Apenas sabés donde carajo estás parado, no me vengas con pelotudeces que no podés siquiera fundamentar!" - Continúa iracundo, la situación volviéndose un tanto peligrosa mas que nada porque no solo tenés a Marcelo sosteniendote medio metro del suelo, violento y probablemente si no decís lo adecuado, a punto de romperte la nariz, sinó también que si pasas esto, probablemente caigas por las escaleras kilométricas.**
+  "¡¿Qué carajo vas a saber vos sobre peligro?!" - Te grita en la cara, tomándote desprevenido a vos, a Sarah y a la encapuchada, la última acercándose para interceder pero la guardia deteniéndola suavemente y negándole con la cabeza.
+  "¡Apenas sabés donde carajo estás parado, no me vengas con pelotudeces que no podés siquiera fundamentar!" - Continúa iracundo, la situación volviéndose un tanto peligrosa mas que nada porque no solo tenés a Marcelo sosteniendote medio metro del suelo, violento y probablemente si no decís lo adecuado, a punto de romperte la nariz, sinó también que si pasas esto, probablemente caigas por las escaleras kilométricas.
 
-**¡No es tiempo de dudar! ¿Qué hacer/decir ahora?**
+¡No es tiempo de dudar! ¿Qué hacer/decir ahora?
