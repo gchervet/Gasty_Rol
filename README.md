@@ -2,7 +2,11 @@
 
 Rol con Gonza
 
+* [1. Introducción](#introduccion)
+* [2. Encuentro con Úrsula](#encuentroconursula)
 
+
+<a name="introduccion" />
 -14 de Diciembre 2013-
 
 Despertás a las orillas de una playa, tirado en la arena. El sol está en lo alto, por lo que debe ser pasando el medio día.
@@ -529,6 +533,7 @@ El hombre se te queda mirando un rato con una ceja levantada.
 
 ------------
 
+<a name="encuentroconursula" />
 
 Notás que ya está empezando a oscurecer, el sol ya está empeznado a ocultarse y que estuviste caminando durante horas y horas.
 También notás que gracias al efecto a largo plazo de re-ingerir tu propia sangre, tus heridas están practicamente sanadas. Te preguntás si funcionará con la sangre de otros y luego el porque de esos pensamientos tan horribles.
@@ -3699,7 +3704,6 @@ Notás que ya están por terminar las escaleras o por lo menos eso es lo que esp
 
 > "Dante y yo debemos continuar nuestro viaje. Estamos en la búsqueda de alguien que puede tener conexión con Miranda, pero no lo sabemos. Es alguien peligroso. Ustedes serían de gran ayuda en dicha búsqueda. Vendrán con nosotros?"
 
-------------
 
 Tu impulso inicial, naturalmente, fue buscar consejo con tu queridísimo amigo, pero inmediatamente recordaste la triste partida. Notás que sin importar el tiempo o la distancia, lo extrañás bastante.
 
@@ -3715,12 +3719,3 @@ Por supuesto, luego de decir aquello les preguntás si desean acompañarte en es
   "¡Apenas sabés donde carajo estás parado, no me vengas con pelotudeces que no podés siquiera fundamentar!" - Continúa iracundo, la situación volviéndose un tanto peligrosa mas que nada porque no solo tenés a Marcelo sosteniendote medio metro del suelo, violento y probablemente si no decís lo adecuado, a punto de romperte la nariz, sinó también que si pasas esto, probablemente caigas por las escaleras kilométricas.
 
 ¡No es tiempo de dudar! ¿Qué hacer/decir ahora?
-
->Lo 100to, Marce, me has cansado y ya no seré buen rollo contigo.
-
->"Así es, imbecil" (WOAH) "No sé qué tan peligrosa sea esa Miranda, y me importa una mierda. Hay una organización de asesinos detrás de una masacre horrible, y vamos a perseguirla!"
-
->"Vos y Sarah hagan lo que quieran, suéltame así puedo seguir mi camino con Dante."
-
->Intento generar respeto con estas palabras, realmente no me interesa si Marce y Sarah siguen con nosotros porque necesitamos encontrar a nuestro petiso enemigo.
-
