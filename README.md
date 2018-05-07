@@ -112,8 +112,8 @@ Ves entre las ramas varias manzanas, algunas no están maduras mientras que otra
 Tenés una muy buena visión desde el árbol que resultó ser un manzano. Pero hay algo que te parece fuera de lugar, nunca escuchaste sobre manzanos en bosques. ¿Es eso posible?
 ¿Que hacer?
 
-=> Preguntarme por qué me pregunto esas cosas cuando no sé que hago ahì
-=> Y luego buscar algo cercano a mi posicion que sea relevante :O
+>Preguntarme por qué me pregunto esas cosas cuando no sé que hago ahì
+>Y luego buscar algo cercano a mi posicion que sea relevante :O
 
 ------------
 
@@ -126,7 +126,7 @@ A tu derecha solo hay campo abierto.
 Atrás tuyo es volver a la playa.
 A tu izquierda algo que te pareció uan casa vieja o parecido.
 
-=> Bajo del arbol y voy a la casa, llevo dos manzanas conmigo
+>Bajo del arbol y voy a la casa, llevo dos manzanas conmigo
 
 ------------
 
@@ -138,8 +138,8 @@ Llegás a la puerta, la cual está entre abiera y no escuchás ningún sonido de
 * Esperar afuera a ver que pasa.
 * Raspar con la piedra afilada que tenés en tu bolsillo "puto el que lee"
 
-=> Decido raspar en la madera mi feisbuc
-=> Luego espero
+>Decido raspar en la madera mi feisbuc
+>Luego espero
 
 ------------
 
@@ -151,9 +151,9 @@ El tiempo pasa lento y aún no estás seguro porque despertaste en la orilla de 
 * Hacer esencialmente nada. (Que pibe aburrido)
 * Hacer otra cosa mas creatuca que las opciones anteriores.
 
-=> Decido armar un amigo imaginario, juntando astillitas pequeñas de los troncos y poniendoselas a la manzana a modo de extremidades
-=> Joey se una al grupo
-=> Irrumpo en la casa. Metiendo a joey antes por la ventana, destrozandola
+>Decido armar un amigo imaginario, juntando astillitas pequeñas de los troncos y poniendoselas a la manzana a modo de extremidades
+> Joey se una al grupo
+>Irrumpo en la casa. Metiendo a joey antes por la ventana, destrozandola
 
 ------------
 
@@ -167,9 +167,9 @@ Una cama que no parece realmente ocmoda y en un escritorio un craneo algo extra�
 * Tirarse en la cama y dormir completamante despreocupado.
 * Revisar mas a fondo la cabaña.
 
-=> Sacar brazos del baul
-=> Mmmm reviso mas a fondo la cabaña
-=> Y me toco la frente, indignado de mi numero de ojos par
+>Sacar brazos del baul
+>Mmmm reviso mas a fondo la cabaña
+>Y me toco la frente, indignado de mi numero de ojos par
 
 ------------
 
@@ -183,8 +183,8 @@ Mirás fuera, por la ventana opuesta a la rota y notas que ya está atardeciendo
 * Tomar el hacha, se ve genial.
 * Salir a ver con mas detenimiento el pozo de agua.
 
-=> Tomo el hacha y le hago una sonrisa a joey
-=> Luego tiro a joey por e lpozo para ver que tanta profundidad hay
+> Tomo el hacha y le hago una sonrisa a joey
+> Luego tiro a joey por e lpozo para ver que tanta profundidad hay
 
 ------------
 
@@ -195,8 +195,8 @@ El pozo tiene una larga cuerda atada a una cubeta de madera la cual a su vez est
 * ¡Saltar al pozo! ¡Yeah!
 * Alguna otra idea mas creativa.
 
-=> Lanzo la cubeta con la certeza que volvere a ver a mi nuevo mejor amigo cuando la suba
-=> Luego pienso en tomar el craneo e irme con el hacha
+>Lanzo la cubeta con la certeza que volvere a ver a mi nuevo mejor amigo cuando la suba
+>Luego pienso en tomar el craneo e irme con el hacha
 
 ------------
 
@@ -210,8 +210,8 @@ Lanzás la cubeta al pozo, al jalar la soga y atraer nuevamente el recipiente ll
 - Mano derecha ocupada.
 - Mano izquierda sosteniendo a Joey.
 
-=> Con el hacha corto la soga de la cubeta y utilizo la cubeta como llevacosas
-=> Joey me habla
+> Con el hacha corto la soga de la cubeta y utilizo la cubeta como llevacosas
+>Joey me habla
 
 19:51 HS
 
