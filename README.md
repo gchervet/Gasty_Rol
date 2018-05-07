@@ -3718,9 +3718,9 @@ Por supuesto, luego de decir aquello les preguntás si desean acompañarte en es
 
 >Lo 100to, Marce, me has cansado y ya no seré buen rollo contigo.
 
-"Así es, imbecil" (WOAH) "No sé qué tan peligrosa sea esa Miranda, y me importa una mierda. Hay una organización de asesinos detrás de una masacre horrible, y vamos a perseguirla!"
+>"Así es, imbecil" (WOAH) "No sé qué tan peligrosa sea esa Miranda, y me importa una mierda. Hay una organización de asesinos detrás de una masacre horrible, y vamos a perseguirla!"
 
-"Vos y Sarah hagan lo que quieran, suéltame así puedo seguir mi camino con Dante."
+>"Vos y Sarah hagan lo que quieran, suéltame así puedo seguir mi camino con Dante."
 
-Intento generar respecto con estas palabras, realmente no me interesa si Marce y Sarah siguen con nosotros porque necesitamos encontrar a nuestro petiso enemigo.
->
+>Intento generar respeto con estas palabras, realmente no me interesa si Marce y Sarah siguen con nosotros porque necesitamos encontrar a nuestro petiso enemigo.
+
