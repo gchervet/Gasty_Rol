@@ -632,7 +632,7 @@ Se cruza de brazos nuevamente detras de su capa.
 * Ser víctima de combustión espontanea y estallar en llamas.
 * AMC
 
-> Decirle que me gustaría ayudarle, y que realmente no tengo mucho más que hacer. Mi única misión es darle parla a Joey. )=
+> Decirle que me gustaría ayudarle, y que realmente no tengo mucho más que hacer. Mi única misión es darle parla a Joey. )
 > Y ni siquiera recuerdo cómo llegué ahí, pero vamos que todo es fantástico!
 
 ------------
@@ -715,7 +715,7 @@ No podés estar tanto tiempo en silencio, asi que comenzás a hacer ritmos con t
 "Che, ¿Hace cuanto que estamos caminando? ¿Tenés idea Gonza?" Pregunta Joey.
 Un cartel se ve a lo lejos, donde el camino se divide en varios y está un poco mas cuidado. Bien lejos podés ver el pueblo.
 ¿Qué hacer ahora?
-* Hola Gonza! Volviste! =D
+* Hola Gonza! Volviste! D
 * Gonza gay
 * AMC
 
@@ -781,7 +781,7 @@ Ursula parece realmente confusa, no tiene idea que está pasando realmente dado 
 * Pelar hacha y comenza una matanza
 * AMC
 
-> Le pido el número de teléfono a los guardias, seguramente no vendría mal tenerlos como aliados, parecen geniales! Les presento a Joey =D
+> Le pido el número de teléfono a los guardias, seguramente no vendría mal tenerlos como aliados, parecen geniales! Les presento a Joey D
 
 ------------
 
@@ -856,7 +856,7 @@ Por suerte ningún objeto se rompió, pero el hacha cayó peligrosamente cerca d
 * Escuchar una voz en tu cabeza que dice que si y que la tirada decía que iba a ser terrible pero te la perdoné porque soy genial
 * AMC
 
-> Le digo a Ursula que no se preocupe, un par de huesos rotos sólo harán que muera en poco tiempo. Luego le digo que hay una taberna, o algo así, para preguntar por info =)
+> Le digo a Ursula que no se preocupe, un par de huesos rotos sólo harán que muera en poco tiempo. Luego le digo que hay una taberna, o algo así, para preguntar por info )
 
 ------------
 
@@ -925,7 +925,7 @@ La joven te mira detras de la capucha y suspira, para luego hablarte tranquila, 
 * Decirle a Ursula que ella duerma en la cama, dado que ella pago la habitación y vos dormir en el suelo con un Joey sobre tu estomago para que esté mas comodo.
 * AMC
 
-> La última, está bien que soy genial y todo eso pero ella pagó =)
+> La última, está bien que soy genial y todo eso pero ella pagó )
 > De paso le pregunto si no quiere comer algo, podría trepar unas cuantas casas para saquear-pedir prestada comida
 
 ------------
@@ -1355,7 +1355,7 @@ En su entusiasmo prácticamente te arrastra hacia esa punta del local.
 * Busca todo eso en Google...
 * La yatagán, total, turqía y persia no estaban tan lejos y los katares ni dan.
 * The pirate life's for me
-* ¡La falcata! ¡Oí que hasta es mas piola que la katana por la curvatura!... además se ve re piola >=]
+* ¡La falcata! ¡Oí que hasta es mas piola que la katana por la curvatura!... además se ve re piola >]
 * AMC
 
 > La falcata papa
@@ -1391,7 +1391,7 @@ Te mira un rato y luego extiende la mano.
 Ursula ni siquiera quiere decir algo y posiblemente tampoco participar.
 ¿Qué hacer/decir?
 
->Bueno, me acerco a Ursu, no hace falta aclararle más cosas. Le digo que por la noche iré a la casa de dicho sujeto. =)
+>Bueno, me acerco a Ursu, no hace falta aclararle más cosas. Le digo que por la noche iré a la casa de dicho sujeto. )
 > Luego le pregunto al hombre sobre el encapuchado
 > :O
 
@@ -2599,8 +2599,8 @@ Te los quedás mirando a los dos, sintiendo que no deberías haber preguntado po
 > Pero quiero averiguar todo sobre este misterioso
 > Si sabría donde puedo encontrar gente jhmm extrala
 > En realidad no se muy bien oregujtarle
-=> Si, sobretodo encapuchados
-=> Sobretodo todojunto
+> Si, sobretodo encapuchados
+> Sobretodo todojunto
 
 ------------
 
@@ -2986,7 +2986,7 @@ El sótano no tiene salidas salvo la cocina, la cual tiene un montón de escombr
 > La envuelvo enlas sabanas y la subo al caballo
 > La cosa es cómo.mierda voy a salir
 
-(En la cocina hay una ventana que tiene una tabla bastante grande trabada con algo de escombro incandescente. ¡Los ruidos anuncian que la casa se está por venir abajo en cualquier momento! Escombros incandescentes=madera y materiales combustibles.)
+(En la cocina hay una ventana que tiene una tabla bastante grande trabada con algo de escombro incandescente. ¡Los ruidos anuncian que la casa se está por venir abajo en cualquier momento! Escombros incandescentesmadera y materiales combustibles.)
 
 > Ehmm shit!!!
 > Estoy en apuros
@@ -3082,13 +3082,13 @@ No parece haber nadie que se haga cargo de la pobre niña de ocho años.
 
 (Ja ja ja xD Entonces vas a salir de la ciudad hacia el pueblo Los Pescadores con la niña?)
 
-=> Queda muy lejos?
-=> Mierda cuantas cosas
+> Queda muy lejos?
+> Mierda cuantas cosas
 
 (Jajajajjaja xD Siempre podés pedir consejo a tus compañeros xD)
 
-==> Mmm pregunto entonces a ursu y a aneette
-==> Que podemos havee
+> Mmm pregunto entonces a ursu y a aneette
+> Que podemos havee
 
 ------------
 
@@ -3166,11 +3166,11 @@ Tu gran compañero hermano te sonríe victorioso y no podés evitar sonreirle ta
 (Che, de dónde vas a sacar el agua para la nena pibe? Le vas a preguntar a alguno de tus acompañantes o preguntar en una taverna o qué?
 Creo que no tenías una cantimplora o algún recipiente para levar líquidos)
 
-=>Mmn alguno de mis amigos
-=> Sobre todo mu mejor amigo marde
-=> No tiene?
-=> Les pregunto a ellos :4
-=> :4
+>Mmn alguno de mis amigos
+> Sobre todo mu mejor amigo marde
+> No tiene?
+> Les pregunto a ellos :4
+> :4
 
 ------------
 
