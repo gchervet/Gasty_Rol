@@ -3704,6 +3704,7 @@ Notás que ya están por terminar las escaleras o por lo menos eso es lo que esp
 
 > "Dante y yo debemos continuar nuestro viaje. Estamos en la búsqueda de alguien que puede tener conexión con Miranda, pero no lo sabemos. Es alguien peligroso. Ustedes serían de gran ayuda en dicha búsqueda. Vendrán con nosotros?"
 
+------------
 
 Tu impulso inicial, naturalmente, fue buscar consejo con tu queridísimo amigo, pero inmediatamente recordaste la triste partida. Notás que sin importar el tiempo o la distancia, lo extrañás bastante.
 
@@ -3719,3 +3720,57 @@ Por supuesto, luego de decir aquello les preguntás si desean acompañarte en es
   "¡Apenas sabés donde carajo estás parado, no me vengas con pelotudeces que no podés siquiera fundamentar!" - Continúa iracundo, la situación volviéndose un tanto peligrosa mas que nada porque no solo tenés a Marcelo sosteniendote medio metro del suelo, violento y probablemente si no decís lo adecuado, a punto de romperte la nariz, sinó también que si pasas esto, probablemente caigas por las escaleras kilométricas.
 
 ¡No es tiempo de dudar! ¿Qué hacer/decir ahora?
+
+>Lo 100to, Marce, me has cansado y ya no seré buen rollo contigo.
+
+>"Así es, imbecil" (WOAH) "No sé qué tan peligrosa sea esa Miranda, y me importa una mierda. Hay una organización de asesinos detrás de una masacre horrible, y vamos a perseguirla!"
+
+>"Vos y Sarah hagan lo que quieran, suéltame así puedo seguir mi camino con Dante."
+
+>Intento generar respeto con estas palabras, realmente no me interesa si Marce y Sarah siguen con nosotros porque necesitamos encontrar a nuestro petiso enemigo.
+
+------------
+
+Todas tus dudas se esfumaron mientras Marce escupía aquellas palabras en tu rostro con tanta veheméncia e ímpetu, mientras en tu corazón, Determinación comenzó a arder en un fuego renovado y ferviente, inmediatamente mostrandose en tus ojos las llamas del que la tiene clara y sape.
+
+Respondés con la misma intensidad que tu pelirrojo y aliento a cigarrillo transfirió sus pensamientos en tu cara, aclarando, luego de un insulto bien merecido, que Miranda no te concernía en lo mas mínimo, que estabas detrás de una organización de asesinos, un genocidio y que ibas a perseguirla. La organización, no el genocidio.
+Después les aclarás que ellos son libres de hacer lo que quieran, preferiblemente no golpearte en la cara porque sos altamente sensible al dolor, y que te suelte así podés seguir tu camino con el increible encapuchado de rojo.
+
+Marce parece enardecerse como si fuese un increible incendio forestal. Es una vista increible y también bastante aterradora por como está observandote con esos ojos inyectados de sangre e ira. Notás como sus músculos se tensan pero la mano de Sarah se apoya en su hombro y creés ver, por primera vez, algo de nitidés en aquellos ojos normalmente de aspecto perdidos y difuminados.
+- Soltalo Marcelo. Él no sabe. - Fueron las palabras sorpresivamente serias que dijo la otra guardia, tomando desprevenidos hasta a Annete y probablemente a Joey, aun desde lejos. El pelinegro parece suspirar entre dientes y te baja de forma algo brusca, adelantándose a ustedes y bajando con notable ira el trecho que faltaba para terminar las escaleras.
+- Um, ¿Qué pasó ahí? - Preguntó la voz de la justicia y nudillos de la razón, dirigiendose a la chica de cabello corto e incomprensible actitud, cuya única respuesta fue apurarse detrás de su compañero de batalla y amigo, bajando rápido las escaleras a su encuentro, dejando a un enano, una enana y una Annete desconcertados. - No, en serio. ¿Qué pasó ahí? - Les pregunta a ustedes luego la encapuchada, ahora dejando oir su voz femenina y sumamente confusa ente ustedes dos, turnándose en mirarlos con practicamente un signo de pregunta en su rostro.
+- Es posible que haya mucho mas detrás de la fachada de ira. ¿El origen oculto bajo sus cimientos quizá? - Produce sonidos la boca de la joven de aptitud calmada y sabia, convirtiéndose en palabras que forman una oración críptica dentro de la cabeza de los dos petizos del grupo, mirándose en igual o mayor confusión y al unísono decidiendo continuar la larga bajada hasta llegar a donde estaba detrás del escritorio aquella mujer que probablemente, después de tanto tiempo que pasó, no recordás ni el nombre. 
+- Supongo que ya terminaron sus asuntos con Franko, ¿O me equivoco? - Habla aquella señorita gigante. - El idiota de su amigo salió ya, con la otra chica. No se que bicho le picó, pero que se joda. - Agrega luego, haciendo un gesto como quitándole importancia, demostrando los profundos lazos que lograron hacer con Marce.
+
+- Fue un placer, Galatea. Que tenga un buen día. - Dice de forma cordial la encapuchada de rojo, demostrando mas memoria y mas modales que vos, un pedazo de escoria humana. Esto te hace sonreir, aunque alguna parte tuya, muy dentro tuya, está repitiendo las palabras "Gasty gay", lo cual está mal y no debería. No solo porque no recordás sobre tu pasado, sinó también por Gnza Gay.
+- No te olvides de los muffins Gonzalo. - Te recuerda Galatea, saludando con una media sonrisa y un gesto de mano, mientras te retirás con tu grupo de siempre. Lo anotás en tu libreta metal y lo guardás en tu cajón cerebral mas íntimo e importante(Aunque probablemente te re olvides después).
+
+- Se fueron sin siquiera despedirse. - Se queja la encapuchada, al ver la silueta ya muy lejada de los dos, haciendo el camino de vuelta y entre una mueca que no lográs ver y teoricamente no deberías ni saber que está haciendo tu compañera de estatura reducida. La que tiene una altura mas normal en cambio, no como ustedes vos y la encapuchada, se arrodilla y levanta una nota del suelo, acercándose a ustedes y abriéndola.
+"discupenlo, Mirada es un tema censilbe para el los quero mucho muhco diviertnce y saludn a Joey de mi parte.
+sara.
+pdada: los pescadores queda aca al ldo, a medio dia mas o menos llendo asta la puesta del sol. (eso dice Marce creo que le caes bien gnza!)"
+Al final de la nota hay un boceto de una manzanita guiñando el ojo. Sabés que eso solo puede significar "Buena fortuna, capo de la vida"
+
+- Así que esta es la ortografía de Sarah... - Comenta por lo bajo la encapuchada y notás, con lágrimas en los ojos, que esta es su despedida, su último regalo, su Magnus Opus. Unas direcciones, una nota y un dibujito muy lindo. Sentís la necesidad de abrazar a tus dulces compañeras de viaje, aprovechando la poca distancia en la que están ya que leyeron la nota los tres juntos. Tus ojos se nublan con lágrimas de esperanza, fervor, coraje, venganza y empanada de humita. Nunca creiste que iba a haber tanta empanada de humita en tus ojos carajo.
+
+¿Qué hacer/decir ahora?
+* Abrazarlas. Abrazarlas con todas tus fuerzas mientras lloras desconsoladamente.
+* Limpiarte las lágrimas y mirar con una media sonrisa al horizonte, aun esperanza y tal vez alguna miga de empanada de humita en tus ojos, una brisa repentina acaricia tu cabello, mientras el capítulo termina y se forma el dibujo a lapiz de la escena, como si fuese alguna especie de serie en la que hablan un idioma raro y gracioso que te dan ganas de gritar en momentos esporádicos y repentinos.
+* Declarale tu amor a las dos mujeres de tu vida y asegurarles que la poligamia no es tan mala.
+* AMC
+Bonus:
+* Por una vez en tu vida, sin hacer ningún escandalo innecesario y de forma madura y adulta, dirigirte con seriedad a Los Pescadores.
+
+>"ESTO NO ES UN ADIOS, MAS SINO UN HASTA LUEGO!", grito con entusiasmo y tristeza. Un sentimiento repleto de ambigüedad. He perdido amigos en mi viaje, pero los recuperaré.
+
+>Decido abrazar a Úrsula entre lágrimas. Decirle que todo estará bien. Le hablo a ella o me hablo a mi? Y finalmente les pregunto a ambas si necesitamos un preparativo previo para encarar hacia el pueblo de pescadores. Es un camino lleno de eventos unilaterales que podrían causar todo tipo de sensaciones y reacciones.
+
+>Quiero partir lo más pronto, y para ello deseo tomarme mi tiempo. Guardo en mi bolsillo la carta de Sarah. Sé que podré encontrarla si me guío con su sutil caligrafía.
+
+>Siento que un fin de arco es lo mejor, y que ahora vienen cosas nuevas *guiño guiño
+
+>"y una última cosa..." Digo a mis fieles compañeras. "...resolveremos este problema de la forma más eficaz, y luego ayudaremos a nuestros leales y efímeros acompañantes. Miranda parece ser bastante peligrosa. Ellos nos han ayudado y nosotros debemos devolverles el favor."
+
+>Miro a Annette en una búsqueda de compromiso y espero a sus palabras.
+
+------------
