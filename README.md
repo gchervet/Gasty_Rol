@@ -4,7 +4,8 @@ Rol con Gonza
 
 * [1. Introducción](#introduccion)
 * [2. Encuentro con Úrsula](#encuentroconursula)
-* [1. Rumbo a Los Pescadores!](#rumboPescadores)
+* [3. Primer destino: Bronca!](#primerDestinoBronca)
+* [?. Rumbo a Los Pescadores!](#rumboPescadores)
 
 
 <a name="introduccion" />
@@ -773,6 +774,7 @@ Efectivamente, están a unos 10 minutos de llegar mas o menos. Ya el sol no se p
 
 ------------
 
+<a name="primerDestinoBronca" />
 Comenzás a decir palabras aleatorias y a saltar el cartel con varios vaults, luego, mas calmado, continuás con caminando hacia el pueblo al lado de Ursula.
 Ella se guarda los comentarios y simplemente suspira cansada y camina tranquila.
 "¡Wow Gonza! ¡Sos genial! ¿Con esos movimientos te levantas a todas las minas no?" dice realmente emocionado Joey, quien por supuesto sabe lo que dice sobre que las volves to locas a las chicas.
@@ -1002,6 +1004,7 @@ Si Joey tuviese manos te aplaudiría para demostrarte su admiración, pero eso t
 
 ------------
 
+<a name="elRostrodeUrsula" />
 Bromeás con comerte a Joey, para luego chocar los 5 con él, lo cual realmente no pasa porque anteriormente dijimos que tu mejor amigo no tiene manos, pero en tu mente si, asi que todo eso se desarrolla en un mundo hipotético dentro de tu cabeza.
 Comés un poco y dejás parte a Ursula, jamón, durazno e higos, luego decidís finalmente irte a dormir porque realmente te merecés un descanzo.
 No recordás que soñaste, pero recordás que fue algo turbio y te dejó molesto. El descanzo te hizo realmente bien, la lastimadura de tu pié es historia, solo quedó una pequeña cicatriz. También en tu mano, donde estaban tus dedos meñique y anular está completamente cerrado.
@@ -1112,6 +1115,7 @@ Le contás lo que te dijo el tabernero, lo cual hace que suspire algo desalentad
 
 ------------
 
+<a name="elGuitarristaEnlaPlaza" />
 Te gustaría pasarte por el infierno un rato, pero antes, por la plaza. Tal  vez haya gente haciendo parkour o algún familiar de Joey. Le comentás tu idea a Ursula y ella asiente.
 Los dos se dirigen a la plaza, ahora en el pueblo hay mas gente caminando por las calles y a diferencia de lo que hubieses creido, a nadie le llama la atención una persona encapuchada y con capa todo rojo intenso. Te encojés de hombros, a vos tampoco te llamó demasiado la atención la primera vez.
 La bolsa que te llevaste prestada es muchisimo mas cómoda que la cubeta que llevabas antes y un poquitín mas grande. La llevás colgando de un hombro.(Aclarame si dejaste la cubeta en el hotel o la tiraste o la tenés como otra cosa mas para llevar objetos.)
@@ -1185,6 +1189,7 @@ Ursula se acerca y espera a que termines de tocar para luego hablarte. "Estuve p
 
 ------------
 
+<a name="rumboAKalenia" />
 Le decís al violista que aceptás la propuesta y que van a ir con él, luego te guardás a Joey e intentás levantarte, pero perdés el equilibrio y Ursula evita que caigas al suelo.
 "¿Estás bien?¿Qué estuviste tomando?" Te pregunta algo preocupada Ur, y después mira al guitarrista. "¿Qué le diste?"
 "Tranqui, le dí un poco de La-Que-Va" Dice este y luego de guardar todo, se levanta. "Entonces, quieren venir conmigo, ¿No es así? Buenisimo, siganme."
@@ -1301,6 +1306,7 @@ Mirás al cielo y ves que lentamente está atardeciendo y se comienza a ver de a
 
 ------------
 
+<a name="segundaParadaKalenia" />
 Pasan por la puerta de la ciudad, una bastante grande. Tiene unos cuatro guardias que los dejan pasar tranquilamente, ademas de otras personas, jinetes y carretas.
 La calle principal de la ciudad es anchísima, "¡Se parece a la 9 de Julio en ancha!" escuchaste decir a Joey mientras el narrador intentaba usar comparaciones un poco mas serias.
 Notaste que habían arcos por donde estaban atados algunos cables, como también que había alumbrado electrico."¡Mira Gonza! ¡Hay lamparitas en las calles!" interrumpió Joey nuevamente al narrador.
@@ -1347,6 +1353,7 @@ Ursu está dando vueltas por el local, viendo con curiosidad, como también un s
 * Me gustaría una espada curvada :o
 
 ------------
+
 
 Le preguntás por puta curiosidad si tiene katares, el hombre sonríe.
 "Veo que te gustan las rrarrezas chico. Esperrame acá." Se acerca a la puerta de la otra punta del local y grita. "¡¡¡Belfegorr!!! ¡¡¡Trraé los katarres!!!"
@@ -1569,6 +1576,7 @@ Ahora no estás seguro que dijiste, pero sabés que Joey siempre tiene la razón
 
 ------------
 
+<a name="laPrimeraEspada" />
 Le das un abrazo lleno de comprensión, amistad y buena onda y luego le decís que te acompañe a llevar la espada Jian.
 Salen de la taberna y se dirigen a la tienda de armas del gigante. Al llegar el hombre los atiende con una gran sonrisa.
 "¡Jajajajaja! ¡Sabía que erras capaz!" Te dice para luego darte palmadas en la espalda que hasta te sacaron de equilibrio.
@@ -1720,6 +1728,7 @@ Te despertaste antes que la flaca, este lugar te re cagó tus horarios de sueño
 
 ------------
 
+<a name="laBellaMisteriosa" />
 Decidís que es una gran idea, dado que Ur no despiera aún y estás aburrido, de tirarte por la ventana.
 La abrís, retrocedés para tomar carrera y con una gran determinación, sin siquiera recordar si estás en un primer piso o que, corrés hacia la ventana y te tirás de cabeza.
 Al atravesarla, recordás que estabas en la planta baja, asi que al tocar el suelo, resbalás majestuosamente sobre el barro y te das contra una flaca que iba caminando por ahí, tirandola con su bolso de donde cae un grueso grimorio.
