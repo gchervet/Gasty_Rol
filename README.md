@@ -3774,3 +3774,37 @@ Bonus:
 >Miro a Annette en una búsqueda de compromiso y espero a sus palabras.
 
 ------------
+
+Exclamás a voces aquellas palabras las cuales cargaban tanto peso no solo al par de amigos que se separó de vos para seguir sus propios caminos, sinó también directo a sus corazones y al tuyo, portando una cálida y sabida sonrisa, seguro de que te los volverías a cruzar mas adelante ya que se había vuelto nakamas.
+
+Rodeás en tus brazos a Úrsula, la cual suspira en derrota y amistad, gritándole al oido medio sollozando que todo iba a estar bien, mientras ella llevaba confundida una mano a tu espalda y te daba una o dos palmaditas. Acaso aquellas palabras de aliento eran para ella, o eran para ti, realmente no veías con claridad, no solo por el torrente de lágrimas escapando de tus ojos, sinó también porque simplemente no estabas seguro.
+Ya mas calmado, les consultás sobre sus necesidades propias por si querían hacer algo en la torre o alrededores, ya que saldrían de camino a una nueva e inquietante aventura, camino al pueblo de Los Pescadores.
+
+- El tiempo es de esencia si a este misterioso hombre encapuchado desean atrapar. - Comenta Annete y no estás seguro si sos vos, pero creés ver llamas de determinación en su mirada. Te acercás unos centimetros a su rostro mientras ella te observa con leve curiosidad. No, definitivamente solo te pareció.
+
+Guardás la carta en tu bolsillo, sabiendo que de alguna manera, utilizando es pedazo de papel común y corriente, vas a lograr encontrarla. Si si, definitivamente vas a poder. Las mirás ahora a las dos jovenes aventureras y compartís tu seguridad e ideales, como así también el plan de acción directo, aclarando que luego de aquel misterioso asesino, seguiría Miranda, en honor a tus camaradas.
+Luego de esto, buscando compromiso, te acercás nuevamente a Annete a centimetros de su cara, esperando su respuesta y ella devuelve su mirada, intensa, decisiva. Están así unos largos minutos y ya te sentís incómodo. Es mas, parece como si no hubiese parpadeado en ningún momento y luego de unos segundos mas, finalmente cierra y abre sus párpados, haciendo que te separes de un salto, victorioso, agitando tu puño al aire en señal de su derrota.
+
+Hecho esto, están listos para retomar la búsqueda de aquel ser de oscuro corazón y sangre en sus manos, cuya presencia en este mundo debe ser erradicada en la manera mas bárbara y salvaje posible, o por lo menos eso es lo que recordás que había que hacer. Realmente no estás completamente seguro a esta altura, pero sentís que si le preguntás a Dante, tal vez se lo tome a mal, así que emprendés viaje hacia el poniente en silencio, mientras una extrañada encapuchada fingiendo ser hombre y una joven y poderosa mujer con libros, la cual suponés es una hechicera, caminan a tu lado.
+
+¿Qué hacer/decir ahora?
+
+* Declararte rey de los piratas
+* Comenzar a cantar pen pineapple apple pen
+* Matar con tu Libro de Muerte al hombre que nunca viste ni sabés su nombre
+* Preguntar alguna cosa personal a tus acompañantes, tal vez a Annete finalmente si es una hechicera de verdad o a Ur donde aprendió a pelear así
+* AMC
+(Tenés actualmente tu falcata en su funda colgando a un costado y un cuchillo oxidado en tu mochila)
+
+>Me gusta el grupo que tengo! Si bien mi querido y genial amigo guay ya no está entre nosotros, puedo sentir su potente aura de tiochulo incluso como si estuviera tan solo a unos metros de distancia, casi como si estuviera adentro de una torre o algo así.
+
+>Decido encarar hacia la puesta del sol, su luz me baña en energía para el nuevo comienzo! 
+
+>Luego me detengo un segundo a pensar... Tengo una mano con menos dedos y unas armas de mierda!
+
+>"Chica... Ejem, chicos! Vayamos hacia la puesta de sol a encontrar a ese bastardo! En el camino necesitaré conseguir un arma más apropiada. Estaba pensando en algún guante con garras, después de todo debería proteger mi mano mocha."
+
+>Decido comenzar a caminar... "...por cierto, qué haremos si nos cruzamos al encapuchado? Es decir... Aparte de intentar matarlo... Dante, tenés algún plan?"
+
+
+------------
