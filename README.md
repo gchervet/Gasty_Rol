@@ -4,6 +4,7 @@ Rol con Gonza
 
 * [1. Introducción](#introduccion)
 * [2. Encuentro con Úrsula](#encuentroconursula)
+* [1. Rumbo a Los Pescadores!](#rumboPescadores)
 
 
 <a name="introduccion" />
@@ -3775,6 +3776,7 @@ Bonus:
 
 ------------
 
+<a name="rumboPescadores" />
 Exclamás a voces aquellas palabras las cuales cargaban tanto peso no solo al par de amigos que se separó de vos para seguir sus propios caminos, sinó también directo a sus corazones y al tuyo, portando una cálida y sabida sonrisa, seguro de que te los volverías a cruzar mas adelante ya que se había vuelto nakamas.
 
 Rodeás en tus brazos a Úrsula, la cual suspira en derrota y amistad, gritándole al oido medio sollozando que todo iba a estar bien, mientras ella llevaba confundida una mano a tu espalda y te daba una o dos palmaditas. Acaso aquellas palabras de aliento eran para ella, o eran para ti, realmente no veías con claridad, no solo por el torrente de lágrimas escapando de tus ojos, sinó también porque simplemente no estabas seguro.
