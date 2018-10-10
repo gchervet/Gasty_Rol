@@ -3819,3 +3819,33 @@ Hecho esto, están listos para retomar la búsqueda de aquel ser de oscuro coraz
 
 
 ------------
+
+¡Eso estuvo cerca! Gracias a tus increibles habilidades para intimidar a base de locuras y cosas sin sentido, sumada a una increible y seria actuación por parte de tu queridisima amiga Annete, lograron librarse de esos maleantes.
+Aun con la adrenalina corriendo salvaje por tus venas, un sorpresivo pensamiento asalta tu ya escaso equilibrio emocional, logrando así que lágrimas cálidas caigan por tus mejillas, mientras cerrando tu mano derecha en forma de puño y elevándolo hacia el cielo, en una increible muestra de habilidad psicomotriz, exclamás en nombre de tu queridísimo amigo Joey "Esta es para vos, querido".
+Luego de mantener esa posición unos segundos, estático como una estatua conmemorativa, representando la mismísima amistad, motor de la vida y la empanada de humita, caés en que si no hubieran evadido hábilmente a esos hombres peligrosos, la vida de tus compañeras y la tuya podría haber corrido riesgo. Con esto en mente, te volteás para observar a la joven de ojos violetas, la cual te devulve la mirada con su habitual cara de poker y después de elogios por su astuto engaño, le expresas tu preocupación por su futuro y le decís que no es necesario que les diga sus habilidades latentes, pero si está realmente segura que quiere acompañarlos ya que como vio ahora, estaría corriendo riesgo su vida.
+
+Annete te observa detenidamente y luego de unos momentos, jurás haber visto una ligera, minúscula y cálida sonrisa en su rostro.
+  -  Gonzalo, a veces el aventurero no es quien elije sus aventuras, sino que curiosamente, estas lo elijen a él. Dejame quitar ese peso de tu pecho y comunicarte que conozco los peligros a los que nos enfrentaremos y estoy dispuesta a demostrar los frutos de mi estudio a aquellos que deseen perjudicarnos. - Responde la joven, en su distintiva prosa tan elegante aunque enrevesada.
+
+  - ¡Genial! Tal vez suene algo egoísta, pero me alegra muchísimo que decidas acompañarnos. - Dice feliz caperucita roja y estás casi seguro que está sonriendo debajo de su capucha.
+
+Retoman el viaje hasta el pueblo Los Pescadores con ánimos renovados y luego de un largo camino, llegan bajo el abrigo de la noche. Dos guardias los observan apenas, los dos portando el uniforme básico de La Guardia y alabardas. Uno de ellos con una capucha de lo que supones es de un anorak que lleva debajo, el otro prácticamente abrazado a su arma de asta, descansando y notoriamente cansado.
+
+  - Bienvenidos a Los Pescadores, por favor absténganse de cometer crímenes ya que este pueblo está bajo la protección de La Guardia y... todo eso. - Te dice el de aspecto taciturno, el encapuchado levanta una ceja al observar a su compañero tan cansado y luego se lleva una mano a la cara.
+  - Deberías dormir mas Carlos... Te dije que dejes de jugar Jacob Negro con los borrachos de la taberna. - Se queja el susodicho.
+  - ¡Vos no sos mi viejo!- Contesta, mirando furioso a su compañero.
+
+  - Emm, ¿Podemos pasar entonces? - Pregunta Ursu, observando a través de las sombras de su capucha a los dos hombres, probablemente portando un gesto cansado o impaciente.
+
+  - ¡Parece que si, porque siempre te tengo que sacar de quilombos a vos! - Se queja el otro, notablemente molesto.
+
+La de la caperuza roja mira al grupo, se encoge de hombros y atraviesa la entrada sin prestarle mucha atención a al duo que continuaba discutiendo. Naturalmente Annete y vos la siguen y finalmente están dentro del pueblo de Los Pescadores.
+
+¿Qué hacer/decir ahora?
+
+* Taberna para comer y dormir
+* Intentar hacer de intermediario entre los dos guardias y solucionar su problema
+* Abrazar a tus dos queridísimas amigas porque finalmente llegaron a Los Pescadores
+* Buscar a Los Pescadores. Fallar.
+* Quejarte de la poca constancia del Narrador
+* Ah Muzen Cab
