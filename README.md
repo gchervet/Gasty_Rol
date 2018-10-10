@@ -3820,6 +3820,67 @@ Hecho esto, están listos para retomar la búsqueda de aquel ser de oscuro coraz
 
 ------------
 
+Tu mente divaga, sumida en su interior, reconociendo que te agrada tu party y aun cuando falta tu tank, los buffs de defensa y grosedad aun siguen presentes gracias a su gran area de efecto. Naturalmente no tenés la mas remota idea de que acabás de pensar, pero aun así disfrutás la sensación de los pocos rayos solares que quedan sobre aquella bóveda celeste, cuyo color lentamente se está tiñiendo de rojizo, gracias al atardecer.
+
+Repentinamente te detenés, extendes tus brazos con las manos abiertas y las acercás a tu rostro. Uno, dos, tres... siete, ocho... ¡Diablos! Nuevamente recordás el resultado de un hachazo mal dado al principio de tu aventura y llegás a la conclusión de que perder más dedos de esa mano, sin lugar a dudas, sería algo catastrófico y desagradable. La clara y lógica resolución que le siguió es que tus armas actuales son una porquería. Es mas, desenfundás tu espada y amagás para lanzarla, pero luego decís "Ah, menos mal." Y la guardás otra vez, ignorándo la mirada de completa incertidumbre de la encapuchada.
+
+Después de este episodio, les comunicás el plan de acción y tu deseo de encontrar un arma que no solo sea cool y peligrosa, sinó que también protega tu mano.
+  - ¿Un guante con garras? - Pregunta Dante, sin ocultar su perplejidad. - Voy a estar atento por si veo algo parecido. - Agrega luego, aunque con cierto tono de inseguridad. Y dicho esto, retoman el paso, en dirección a ese pueblo.
+
+Por sacar un tema de conversación y en gran parte por tu gran curiosidad, le preguntás cual va a ser el destino de aquel encapuchado.
+  - ...simplemente voy a decirle que esto es por culpa de su maestro, el que asesinó a mis padres. . - Responde la joven, su voz oscura, seria, tal vez demasiado para la imagen tan simpática que te hiciste de ella. - Luego voy a terminar con su vida. -
+
+Continúan un largo tramo de camino en silencio, el cual de a poco comenzaba a incomodarte. En estos momentos extrañabas aún mas a tu queridísimo amigo Joey, con sus comentarios tan alegres y su sonrisa incomparable.
+
+Estás por decir algo pero notás tres siluetas paradas en medio del camino, a simple vista notás que son hombres, aproximadamente metro setenta, el del medio capaz casi uno ochenta, apoyando su peso sobre lo que parece un arma contundente, las piernas levemente abiertas, el rostro inclinado hacia abajo y una capucha escondiendo su rostro. Los otros dos tienen lo que parece un garrote y el otro una espada.
+
+Tu grupo se detiene a unos diez metros de estos y notás una sonrisa en uno de los tipos del costado. El del medio levanta el rostro y la luz de la Luna hace que un brillo ambarino y amenazante se vislumbre en sus ojos.
+
+  - Hey. ¿Caminando por estos senderos tan tarde? - Dice el hombre del otro costado, mientras el de la sonrisa balancea su garrote. El del medio los observa en silencio. - Y mirense, dos chicas y un pequeño hombre. Puede ser peligroso merodear por aquí a estas horas. ¿Nadie les comentó? - Continúa y deja la pregunta en el aire, observando ahora su espada, para luego mirarlos nuevamente. - Denme todo y capaz no los matemos. -
+
+Notás a Ursu tensándose en el lugar y casi podés oir el ruido del cuero de sus guantes crujiendo bajo la presión de sus puños cerrándose con fuerza. La hechicera, en cambio, simplemente los observa con su perpetua cara de poker. Realmente no estás seguro a veces que pasa por su mente y te hace preguntar si es simple indiferencia o una increíble confianza en sus habilidades.
+
+¿Qué hacer/decir ahora?
+
+>Me cuesta horas pensar en una estrategia, días incluso, pero creo que lo mejor que puedo hacer es inventarme una escena. 
+
+>Me acerco lentamente a Úrsula mientras pienso que mi unica buena opción es mi espada. Sin embargo, no quiero usarla a menos que sea necesario. Le digo entre susurros "seguime el juego.." y luego comienzo a gritar, mirando fijamente al encapuchado en mi frente.
+
+>"Encima que ese doctor bastardo me dijo que iba a morir por mi estúpida enfermedad en la sangre, ahora quieren robarnos! Mantenme a mi, pero les advierto, mi sangre es veneno."
+
+------------
+
+Dentro de tu mente, el tiempo pasó de manera inauditamente rápido. Tus procesos mentales corriendo a un ritmo vertiginoso, increíble, ya sobre humano. Miles de ideas sucedieron y cayeron, pero entre todas estas, una se mantuvo. Sonreíste y asentís para tus adentros, mientras ponías en práctica tu ingeniosa estratagema.
+
+De forma disimulada le susurrás a tu querida encapuchada que te siga la corriente y luego comenzás a gritar, de manera desaforada, desequilibrada, haciendo hasta que Úrsula dé un paso hacia atrás, sonando como alguien desesperado, consumido, hablando sobre una enfermedad que va a matarte y que está en tu sangre, diagnóstico el cual te dio ese maldito doctor, con tanta tranquilidad, como si no valieses más que las malditas monedas que te pidió por esa consulta.
+Te volteás ahora a ellos y exasperado, eufórico, les decís a voces que te da lo mismo que te maten, pero les advertís, tu sangre es el veneno más virulento que van a encontrar en su vida y el último.
+
+Notás un cambio en los que están a los costados. El de la sonrisa a medida que hablaste, comenzaba a cambiar su expresión, primero de sorpresa, luego de miedo, al final, mientras apuntabas al trio con tu índice, mostrando que hasta dos dedos habías perdido por la enfermedad, el hombre se acobardó y gritando algo así como que no quería nada de esta mierda escapó corriendo. El del medio ni se inmutó, observándote con esos ojos levemente brillantes, mientras que el de la espada, bajando esta, parece también afectado por tu intimidación, observando como su compañero escapó desesperado.
+- ¡Maldita sea Greg! - Le grita al que escapó y cuando vuelve su mirada hacia vos, notás el miedo en sus ojos tomando lugar.
+- Necrótica virológica - Pronuncia, de manera oscura, casi tenebrosa, tu compañera de los ojos violetaceos.
+- ¿Necro… qué? - Pregunta el bandido que había hablado antes.
+- Se dice que cuando el infestante parásito, el cual reside en el corazón tibio y forzoso de mi compañero, note la dolorosa y amarga muerte de su portador, lo poco que quede de su magullado y despedazado cuerpo nuevamente se levantará, buscando saciar la incontenible e interminable señal más primaria y animal. - Continúa Annete, manteniendo aquel tono fúnebre y al llegar al final de aquello, abre levemente más los ojos, su brillo violeta contrarrestando el ambarino del hombre del medio. - El hambre. -
+- Nekar, deberíamos irnos… no vale la pena… - Dice ahora aquel rufián al encapuchado. - Es por eso que iban por estos caminos por la noche… sabe que si alguien lo mata… su cadáver se va a encargar del resto… si el veneno en su sangre no lo hace primero… - 
+Definitivamente, después de aquella explicación tan lúgubre y profunda, no tenés duda que estás jodidísimo y te vas a re morir por tu enfermedad. Sentís cierta desesperación, dado que no hay antídoto ni remedio. No te queda ni un año. Con suerte algunos meses. Este estado mental se muestra en tu mirada, haciendo que el encapuchado, el hombre que parecía mas peligroso, salga de su posición y suba la maza hacia su hombre, descansando el arma allí y sin decir una palabra, se retira con aquel hombre, el cual de una mirada atrás en señal de disculpa y sigue su camino luego.
+
+- Xodâ… - Dice por lo bajo la encapuchada. - Que enfermedad horrible acabás de inventar, Annete. - Agrega luego y creés que se está abrazando a si misma debajo de su capa. - Con la seriedad que lo dijiste, hasta yo me lo creí. -
+- Nada de lo que dije resultó un engaño ya que esta aflicción realmente existe. Algunos la llaman La Maldición de Ultratumba ya que es realmente común que sea confundida con prácticas de magia negra. - Explica ahora la mujer con su póker face perpétua. Ur y vos simplemente se dirigen unas miradas cargadas con algo de miedo y deciden continuar el trecho que faltaba hacia Los Pescadores.
+
+¿Qué hacer/decir ahora?
+* Fastforward a tu destino
+* Saltar sobre Annete e intentar comerte su cerebro mientras repetís la palabra una y otra vez
+* Bailar Thriller porque la situación lo amerita
+* AMC
+
+>Por los pelos! Estoy orgulloso de mis compañeras, pero también de mi. Mis proezas, las cuales, por suma modestia no insistire en denotar, fueron otra vez la cereza del postre. Se que a lo lejos, Joey siente mi triunfo y me felicita desde donde esté. Cómo te extraño, Joey!
+
+>Quiero hacer fastforward hacia los pescadores, pero no sin antes preguntarle algo a Anette...
+
+>"Lo que hiciste fue genial, Anette, sin embargo no puedo dejar de sentir que no te conocemos lo suficiente como para entender si no te estamos arrastrando con nosotros hacia nuestra peligrosa aventura. Entiendo que no sientas la necesidad de explicarnos en qué te especializas y cuáles son tus fuertes, pero al menos dime si realmente quieres continuar con nosotros, sabiendo que podríamos morir en cualquier momento sin saber dónde nos metemos..."
+
+
+------------
+
 ¡Eso estuvo cerca! Gracias a tus increibles habilidades para intimidar a base de locuras y cosas sin sentido, sumada a una increible y seria actuación por parte de tu queridisima amiga Annete, lograron librarse de esos maleantes.
 Aun con la adrenalina corriendo salvaje por tus venas, un sorpresivo pensamiento asalta tu ya escaso equilibrio emocional, logrando así que lágrimas cálidas caigan por tus mejillas, mientras cerrando tu mano derecha en forma de puño y elevándolo hacia el cielo, en una increible muestra de habilidad psicomotriz, exclamás en nombre de tu queridísimo amigo Joey "Esta es para vos, querido".
 Luego de mantener esa posición unos segundos, estático como una estatua conmemorativa, representando la mismísima amistad, motor de la vida y la empanada de humita, caés en que si no hubieran evadido hábilmente a esos hombres peligrosos, la vida de tus compañeras y la tuya podría haber corrido riesgo. Con esto en mente, te volteás para observar a la joven de ojos violetas, la cual te devulve la mirada con su habitual cara de poker y después de elogios por su astuto engaño, le expresas tu preocupación por su futuro y le decís que no es necesario que les diga sus habilidades latentes, pero si está realmente segura que quiere acompañarlos ya que como vio ahora, estaría corriendo riesgo su vida.
